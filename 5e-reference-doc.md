@@ -1,6 +1,6 @@
 kwilkins 5e Reference Document
 ======
-My homebrew nerfs, buffs, options, and actions
+My personal D&D nerfs, buffs, options, and philosophy
 
 <!-- TOC -->
 
@@ -83,9 +83,9 @@ I don’t allow feats at first level.  Instead of the variant traits offered in 
   * Languages. You can speak, read, and write common and 2 other languages of your choice.
 
 ### Playable Classes
-All class options from the Player’s Handbook
+All class options from the Player’s Handbook and Xanthar's Guide to Everything
 
-The Revised Ranger from WoTC’s 9/12/2016 Unearthed Arcana is a suitable (and better) replacement for the Ranger class from PHB.
+The Revised Ranger from WoTC’s 9/12/2016 Unearthed Arcana is a suitable (and better) replacement for the Ranger class from the PHB.
 
 ### Expanded Subclass Options
 
