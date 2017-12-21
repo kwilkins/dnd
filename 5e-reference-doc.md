@@ -11,8 +11,8 @@ My homebrew nerfs, buffs, options, and actions
   - [Playable Races](#playable-races)
   - [Variant Human Traits](#variant-human-traits)
   - [Playable Classes](#playable-classes)
-  - [Multiclassing](#multiclassing)
   - [Expanded Subclass Options](#expanded-subclass-options)
+  - [Multiclassing](#multiclassing)
   - [Backgrounds](#backgrounds)
   - [Alignment](#alignment)
   - [Feats](#feats)
@@ -35,7 +35,7 @@ My homebrew nerfs, buffs, options, and actions
   - [XP and Leveling Up](#xp-and-leveling-up)
   - [Resting and Healing](#resting-and-healing)
 - [Combat](#combat)
-  - [I’m Not Trying to Kill You – Combat Philosophy](#im-not-trying-to-kill-you--combat-philosophy)
+  - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
   - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
 - [Suggested Player Resources](#suggested-player-resources)
   - [Official Content](#official-content)
@@ -87,6 +87,16 @@ All class options from the Player’s Handbook
 
 The Revised Ranger from WoTC’s 9/12/2016 Unearthed Arcana is a suitable (and better) replacement for the Ranger class from PHB.
 
+### Expanded Subclass Options
+
+#### Druid – Wild Shape
+When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
+
+#### Sorcerer – Tides of Chaos
+This subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
+
+https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr
+
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
 
@@ -98,13 +108,6 @@ Bad examples
   * A rogue wants to take a level into wizard without any means of magical training or overstudy. Find a wizard school or spend some time befriending a source of magical knowledge.
   * A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
 
-### Expanded Subclass Options
-#### Druid – Wild Shape
-When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
-#### Sorcerer – Tides of Chaos
-This subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
-
-https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr
 ### Backgrounds
 All background options from the Player’s Handbook
 
@@ -333,7 +336,7 @@ When taking a long rest, it is difficult to fully recover your stamina, spells, 
 
 ## Combat
 
-### I’m Not Trying to Kill You – Combat Philosophy
+### I’m Not Trying to Kill You
 The atmosphere I try to convey during combat is that combat is chaotic and messy. There are times where you will not have a clear idea of what you are fighting, where you are fighting, or how you are faring against an enemy. Always feel free to ask clarifying questions, but don’t be surprised if sometimes you don’t get any more information than what you had. I want my players to understand and embrace that there is more to combat than your attack bonus, AC, or spellcasting.  Creative problem solving, roleplaying, and preparation will most certainly help you more in combat than using a +1 sword or bow. During combat, I am not fudging dice or creating unfair/unwinnable scenarios just to kill you. I am simply roleplaying like you are. Some foes might specifically target your character, some will be stronger than you, some will use unfair tactics to try to best you, and some will have abilities that you do not. These are all parts of the game. It’s okay to get salty, it’s not okay to get a bad attitude.
 > In preparing for battle I have always found that plans are useless, but planning is indispensable.
 
