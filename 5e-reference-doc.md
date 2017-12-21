@@ -11,7 +11,7 @@ My personal D&D nerfs, buffs, options, and philosophy
   - [Playable Races](#playable-races)
   - [Variant Human Traits](#variant-human-traits)
   - [Playable Classes](#playable-classes)
-  - [Expanded Subclass Options](#expanded-subclass-options)
+  - [Expanded Class Options](#expanded-class-options)
   - [Multiclassing](#multiclassing)
   - [Backgrounds](#backgrounds)
   - [Alignment](#alignment)
@@ -19,7 +19,7 @@ My personal D&D nerfs, buffs, options, and philosophy
   - [Roleplaying](#roleplaying)
 - [Spells and Magic](#spells-and-magic)
   - [Sourcebook Spells](#sourcebook-spells)
-  - [Expanded Spells](#expanded-spells)
+  - [Expanded Spell Options](#expanded-spell-options)
   - [Schools of Magic](#schools-of-magic)
   - [Varying Effects](#varying-effects)
 - [Equipment](#equipment)
@@ -45,11 +45,11 @@ My personal D&D nerfs, buffs, options, and philosophy
 <!-- /TOC -->
 
 ## What is this?
-This is a reference document detailing house rules, expanded options, and how I approach different aspects of games that I run. The goal being that the content in here should make the game more compelling, more rewarding, but most of all more fun! If anything in here is found to be hindering one of these goals it will be addressed or changed as needed. Feedback is welcome!
+This is a reference document detailing house rules, expanded options, and how I approach different aspects of games that I run. The goal being that the content in here should make the game more compelling, more rewarding, but most of all more fun! If anything in here is found to be hindering one of these goals it will be addressed or changed as needed. And if you have an idea or found a resource that you think would be awesome to add, talk to me about it! This is an evolving document and feedback is always welcome.
+
+Just don’t ask me to look at or think about adding content from dandwiki
 
 Content marked by question marks is not finalized yet – ?Playable Race: Tarrasque?
-
-Don’t ask me to look at or think about adding content from dandwiki
 
 ### Fifth Edition as a Game System
 Everybody has their own opinion on the many different editions and variants of Dungeons and Dragons. My first introduction to D&D was watching the original Rollplay series, a campaign run using a modified version of second edition D&D, so it’s fair to say I have fond memories of old school role playing game elements – death always being a possibility, semi permanent effects, meaningful consequences, and the game rules feeling grounded. In some ways, Fifth Edition (5e) can be seen as a departure from that style of play – some abilities break any sense of realism, many spells require addendums for special cases, and simply resting for a bit can heal wounds from swords or spells. 5e sacrifices many of these old core designs to make the game more easily digestible for its players, which isn’t necessarily a bad thing. For this part of the game’s design, Wizards of the Coast (WotC) spectacularly succeeded and has given D&D a resurgence of popularity in the last few years.
@@ -70,32 +70,52 @@ All this is to say that there will be times when we follow the rules as written,
 
 ## Character Customization
 ### Playable Races
-All race options from the Player’s Handbook.
+The following race options from the Player’s Handbook:
+  * Dwarf
+  * Elf
+  * Halfing
+  * Human
+  * Dragonborn
+  * Gnome
+  * Half-Elf
+  * Half-Orc
+  * Tiefling
 
-?All race options from the Elemental Evil supplement except Aarakocra?
+The following race options from Volo's Guide to Monsters
+  * Aasimar
+  * Firbolg
+  * Goliath
 
-?That Old Black Magic – Unearthed Arcana 12/7/2015?
+The following race options from the Elemental Evil Player's Companion supplement
+  * ?Aarakocra?
+  * Deep Gnome(subrace)
+  * Genasi
+
+The following race options from The Old Black Magic Unearthed Arcana
+  * Infernal Tiefling(subrace; standard tiefling from the PHB)
+  * Abyssal Tiefling(subrace)
 
 ### Variant Human Traits
-I don’t allow feats at first level.  Instead of the variant traits offered in the PHB, you can opt for the following.
+I don’t allow feats at first level. Instead of the variant traits offered in the PHB, you can opt for the following.
   * Ability Score Increase. Increase three different ability scores of your choice, one by 2 and two by 1.
   * Skills. You gain proficiency in two skills of your choice.
   * Languages. You can speak, read, and write common and 2 other languages of your choice.
 
 ### Playable Classes
-All class options from the Player’s Handbook and Xanthar's Guide to Everything
+All of the class options from the Player’s Handbook and Xanthar's Guide to Everything
 
-The Revised Ranger from WoTC’s 9/12/2016 Unearthed Arcana is a suitable (and better) replacement for the Ranger class from the PHB.
+I’ve written some [descriptions for the base classes](5e-classes.md) if you're wondering which to pick.
 
-### Expanded Subclass Options
+### Expanded Class Options
 
 #### Druid – Wild Shape
 When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
-#### Sorcerer – Tides of Chaos
-This subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
+#### Ranger – The Ranger, Revised
+I think that [the Revised Ranger](http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) from WoTC’s Unearthed Arcana is a suitable (and better) replacement for the Ranger class from the PHB. 
 
-https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr
+#### Sorcerer – Tides of Chaos
+The [Tides of Chaos](https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr) subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
 
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
@@ -109,9 +129,9 @@ Bad examples
   * A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
 
 ### Backgrounds
-All background options from the Player’s Handbook
+All background options from the Player’s Handbook, Sword Coast Adventure's Guide, and Curse of Strahd
 
-Haunted One background option from Curse of Strahd: Character Options
+Backgrounds are the simpliest to customize if for whatever reason the stock options don't appeal to you.
 
 ### Alignment
 In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment.  If that means you adhere to a single alignment, great!  If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
@@ -120,9 +140,6 @@ In games I run, I’d always prefer you to play your character as they would beh
 -Neal Erickson
 
 <style>
-  .alignment-table {
-
-  }
   .alignment-title {
     font-weight: bold;
     text-align: center;
@@ -221,19 +238,21 @@ Some suggestions for getting more roleplaying out of your game
 
 ## Spells and Magic
 ### Sourcebook Spells
-All spells from the Player’s Handbook
+All spells from the Player’s Handbook and Xanthar’s Guide to Everything(this includes and updates spells from the Elemental Evil supplement)
 
-All spells from Xanthar’s Guide to Everything(this includes and updates some spells from the Elemental Evil supplement)
+### Expanded Spell Options
+The following spells from [That Old Black Magic Unearthed Arcana](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf) are allowed
+  * Conjure Barlgura(sorcerer, wizard)
+  * Conjure Hezrou(sorcerer, wizard)
+  * Conjure Lesser Demon(sorcerer, wizard)
+  * Conjure Shadow Demon(sorcerer, wizard)
+  * Conjure Vrock(sorcerer, wizard)
 
-### Expanded Spells
-?That Old Black Magic – Unearthed Arcana 12/7/2015?
-
-The following spells from Starter Spells Unearthed Arcana 4/3/2017 are allowed
+The following spells from [Starter Spells Unearthed Arcana](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf) are allowed
   * Wild Cunning (druid, ranger)
 
 ### Schools of Magic
-I’ve compiled some helpful notes and ideas for differentiating the schools of magic.
-https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB
+I’ve compiled some [helpful notes and ideas](https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB) for differentiating the schools of magic.
 
 ### Varying Effects
 Spells do not always affect every creature the same. Spells do not always affect situations exactly like you think it will. Spells do not always solve your current predicament perfectly. Charm Person might be resisted at advantage if you have verbally attacked the target, your planned use of Wish might not result in what you envisioned, and Thunderclap’s push effect might not be enough for certain creatures. 
@@ -286,7 +305,7 @@ You can identify basic magic effects during a short rest (like a +1 attack bonus
 ### Inspiration
 Inspiration is a way I can reward my players for following their character’s personality traits, ideals, bonds, or flaws. By using inspiration, you can draw on your personality trait of compassion for the poor and downtrodden to give you an edge with the Beggar Prince. Or inspiration can let you use your flaw to seek knowledge at your own peril to push past the effects of a trap protecting ancient ruins. There are two different ways you can use inspiration in game.
 
-Full write up: https://www.gmbinder.com/share/-L06OGYQk9Q0VIf2EQOZ
+[Full rules and description can be found here](https://www.gmbinder.com/share/-L06OGYQk9Q0VIf2EQOZ)
 
 #### Invoke Advantage – Player Driven
 You can invoke advantage for your character on rolls when your character's personality trait, ideal, bond, or flaw is relevant in the story and your character is not incapacitated. Once one of characteristics have been invoked to give yourself advantage, it is marked and cannot be used until it gets unmarked. When one of your characteristics is invoked to grant yourself disadvantage, you can choose to unmark any single characteristic of your choice. At the start of a new session, all characteristics get unmarked.
@@ -416,33 +435,23 @@ When rolling for an attack and you roll a natural 1, roll a Death Save.  On a re
 I use a lot of these resources when DMing, playing, and even writing this document.  Hopefully you find some of these useful.
 
 ### Official Content
-#### Unearthed Arcana
+#### [Unearthed Arcana](https://www.learningdnd.com/resource/unearthed-arcana-list/ )
 From time to time, WotC will put out unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. Here is a list of everything WotC has released.
 
-https://www.learningdnd.com/resource/unearthed-arcana-list/ 
-
-#### Sage Advice & Errata
+#### [Sage Advice & Errata](http://dnd.wizards.com/articles/sage-advice)
 WotC releases fixes for mistakes or clarifications to published content as needed. The document is cumulative, so the most recent posting usually has everything they have fixed. You might be surprised to read an official ruling that changes mechanics you use.
 
-http://dnd.wizards.com/articles/sage-advice
-
 ### Unofficial Content
-#### r/dnd
-By no means an official source of information, and sometimes a terrible source of information, but I usually enjoy the weekly questions thread submitted every Monday and pinned to the top. Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, roleplaying ideas, and rule clarifications.
+#### [r/dnd](https://www.reddit.com/r/DnD/ )
+By no means an official source of information, and sometimes a terrible source of information, but I really enjoy the weekly questions thread submitted every Monday(usually pinned near the top). Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, roleplaying ideas, and rule clarifications.
 
-https://www.reddit.com/r/DnD/ 
-
-#### Koibu’s Corner
+#### [Koibu’s Corner](https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1)
 Neal Erickson is an incredible DM who does enjoy playing 2nd edition D&D more so than newer systems, but his wealth of information and years of experience in the game is still invaluable whether you agree with his interpretation of the grease spell or not.  From time to time he records little talks about different aspects of playing D&D, from why character death is cool to how to get the DM “on your side”.
-
-https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1
 
 ### Tools
 
-#### Roll20
+#### [Roll20](https://roll20.net/)
 Makes it easy to play tabletop games online with very good random dice rolls and tools for drawing your battle map.
-
-https://roll20.net/
 
 #### 5e System Reference Document (SRD)
 
