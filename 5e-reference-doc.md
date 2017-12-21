@@ -1,5 +1,48 @@
-# kwilkins 5e House Rules
-## More nerfs, buffs, options, and actions
+kwilkins 5e Reference Document
+======
+My homebrew nerfs, buffs, options, and actions
+
+<!-- TOC -->
+
+- [What is this?](#what-is-this)
+  - [Fifth Edition as a Game System](#fifth-edition-as-a-game-system)
+  - [RAW vs RAI vs RAF](#raw-vs-rai-vs-raf)
+- [Character Customization](#character-customization)
+  - [Playable Races](#playable-races)
+  - [Variant Human Traits](#variant-human-traits)
+  - [Playable Classes](#playable-classes)
+  - [Multiclassing](#multiclassing)
+  - [Expanded Subclass Options](#expanded-subclass-options)
+  - [Backgrounds](#backgrounds)
+  - [Alignment](#alignment)
+  - [Feats](#feats)
+  - [Roleplaying](#roleplaying)
+- [Spells and Magic](#spells-and-magic)
+  - [Sourcebook Spells](#sourcebook-spells)
+  - [Expanded Spells](#expanded-spells)
+  - [Schools of Magic](#schools-of-magic)
+  - [Varying Effects](#varying-effects)
+- [Equipment](#equipment)
+  - [Crafting](#crafting)
+  - [Shields](#shields)
+  - [Potions](#potions)
+  - [Poisons](#poisons)
+  - [Magic Items](#magic-items)
+- [Adventuring](#adventuring)
+  - [Inspiration](#inspiration)
+  - [Skills](#skills)
+  - [Party Conflict](#party-conflict)
+  - [XP and Leveling Up](#xp-and-leveling-up)
+  - [Resting and Healing](#resting-and-healing)
+- [Combat](#combat)
+  - [I’m Not Trying to Kill You – Combat Philosophy](#im-not-trying-to-kill-you--combat-philosophy)
+  - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
+- [Suggested Player Resources](#suggested-player-resources)
+  - [Official Content](#official-content)
+  - [Unofficial Content](#unofficial-content)
+  - [Tools](#tools)
+
+<!-- /TOC -->
 
 ## What is this?
 This is a reference document detailing house rules, expanded options, and how I approach different aspects of games that I run. The goal being that the content in here should make the game more compelling, more rewarding, but most of all more fun! If anything in here is found to be hindering one of these goals it will be addressed or changed as needed. Feedback is welcome!
