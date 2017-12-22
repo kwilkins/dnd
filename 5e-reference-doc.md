@@ -1,6 +1,6 @@
-kwilkins 5e Reference Document
+kwilkins 5e Homebrew Reference Document
 ======
-My personal D&D nerfs, buffs, options, and philosophy
+Personal D&D nerfs, buffs, options, and philosophy
 
 <!-- TOC -->
 
@@ -435,7 +435,7 @@ When rolling for an attack and you roll a natural 1, roll a Death Save.  On a re
 I use a lot of these resources when DMing, playing, and even writing this document.  Hopefully you find some of these useful.
 
 ### Official Content
-#### [Unearthed Arcana](https://www.learningdnd.com/resource/unearthed-arcana-list/ )
+#### [Unearthed Arcana](https://www.learningdnd.com/resource/unearthed-arcana-list/)
 From time to time, WotC will put out unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. Here is a list of everything WotC has released.
 
 #### [Sage Advice & Errata](http://dnd.wizards.com/articles/sage-advice)
