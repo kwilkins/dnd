@@ -104,7 +104,7 @@ I don’t allow feats at first level. Instead of the variant traits offered in t
 ### Playable Classes
 All of the class options from the Player’s Handbook and Xanthar's Guide to Everything
 
-I’ve written some [descriptions for the base classes](5e-classes.md) if you're wondering which to pick.
+I’ve written some [descriptions for the base classes](5e-classes.html) if you're wondering which to pick.
 
 ### Expanded Class Options
 
