@@ -39,6 +39,7 @@ This isn't a complete list of all released UA content, usually if the content lo
   * #### Revised Subclasses
   * #### Feats for Races
   * #### Feats for Skills
+    I’m not allowing any of these. Some are interesting enough, but others are really stretching the realm of the skill, or are too powerful agency wise.  My problem is that if I only allowed the ones I liked, I would be allowing feat expertise in some skills and not others.  I’ll be sticking with the idea that your skills are more tied to your race/class/background.
   * #### Starter Spells
   * #### A Trio of Subclasses
   * #### Wizards Revisited
