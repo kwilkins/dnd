@@ -202,8 +202,6 @@ Feats – Unearthed Arcana 6/6/2016. I’m allowing each of the “good” ones,
 
 Fell Handed, Blade Mastery, Flail Mastery, Spear Master, Alchemist, Burglar, Gourmand, Master of Disguise	
 
-Feats for Skills – Unearthed Arcana 4/17/2017. I’m not allowing any of these. Some are interesting enough, but others are really stretching the realm of the skill, or are too powerful agency wise.  My problem is that if I only allowed the ones I liked, I would be allowing feat expertise in some skills and not others.  I’ll be sticking with the idea that your skills are more tied to your race/class/background.
-
 Feats for Races – Unearthed Arcana 4/24/2017. I’m allowing a selection of these feats to further aid racial impact in the game. I like having what race your character is affect elements of the game, and these feats are a way to make your character more powerful in different ways.
   * Dragonborn: Dragon Fear, Dragon Hide, ?Dragon Wings 30ft?
   * Elf: Drow High Magic,	Wood Elf Magic

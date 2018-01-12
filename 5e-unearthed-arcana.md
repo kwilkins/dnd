@@ -39,7 +39,9 @@ This isn't a complete list of all released UA content, usually if the content lo
   * #### Revised Subclasses
   * #### Feats for Races
   * #### Feats for Skills
-    I’m not allowing any of these. Some are interesting enough, but others are really stretching the realm of the skill, or are too powerful agency wise.  My problem is that if I only allowed the ones I liked, I would be allowing feat expertise in some skills and not others.  I’ll be sticking with the idea that your skills are more tied to your race/class/background.
+    I like the idea of feats being able to give your character a skill proficiency that you are interested in, or weren't able to secure when initial character creation. The idea that your skills are more tied to your race, class, and background, feels good to me. But by the time I get a character to level 5, I know there are skills that absolutely make sense as to why my character would invest time and effort in learning. And feats seem like a great way to allow that to happen since it would mean a decision between the other feat options. Maybe skill proficiencies could even be a third option alongside the ASI and feat choices?
+    
+    Now the content in this UA, as a first draft I think these "Skills as Feats" are interesting enough and have potential. Some I find really well done, some I think are pretty lame, but some are really stretching the realm of the skill. I also don't like how they can grant expertise in skills. To me expertise is a special characteristic of the Bard or Rogue class, and I like keeping it there. The biggest problem for me is if I only allowed the ones I liked, I would be only allowing paths into some skills and not others.  So in the spirit of being fair to every skill, I won't be introducing these in my games.
   * #### Starter Spells
   * #### A Trio of Subclasses
   * #### Wizards Revisited
