@@ -37,11 +37,15 @@ This isn't a complete list of all released UA content, usually if the content lo
   * #### Greyhawk Initiative System
   * #### Revised Class Options
   * #### Revised Subclasses
-  * #### Feats for Races
-  * #### Feats for Skills
-    I like the idea of feats being able to give your character a skill proficiency that you are interested in, or weren't able to secure when initial character creation. The idea that your skills are more tied to your race, class, and background, feels good to me. But by the time I get a character to level 5, I know there are skills that absolutely make sense as to why my character would invest time and effort in learning. And feats seem like a great way to allow that to happen since it would mean a decision between the other feat options. Maybe skill proficiencies could even be a third option alongside the ASI and feat choices?
+  * #### [Feats for Races](http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf)
+    I also like the idea of race having more impact later after character creation. Short of having level locked racial features, racial feats are a great way to accomplish this. Each of these racial feats take an aspect of that particular race and extend it, enhancing that character's abilities. Most of these are pretty great and are a worthy choice from the regular feat choices.
     
-    Now the content in this UA, as a first draft I think these "Skills as Feats" are interesting enough and have potential. Some I find really well done, some I think are pretty lame, but some are really stretching the realm of the skill. I also don't like how they can grant expertise in skills. To me expertise is a special characteristic of the Bard or Rogue class, and I like keeping it there. The biggest problem for me is if I only allowed the ones I liked, I would be only allowing paths into some skills and not others.  So in the spirit of being fair to every skill, I won't be introducing these in my games.
+    Now that, that Xanathar's has been released, most of these feats have been introduced officially(with a few changes here and there). But there were some I really liked that didn't make the cut, so I'm including those.
+    I’m allowing a selection of these feats to further aid racial impact in the game.
+  * #### [Feats for Skills](http://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)
+    I like the idea of feats being able to give your character a skill proficiency that you are interested in, or weren't able to secure when initial character creation. The idea that your skills being tied to your race, class, or background feels good to me, but as my character grows there are skills that make sense for them to invest time and effort in learning or becoming proficient. And feats seem like a great way to allow that to happen since it would mean a decision between the other feat options. But, there already *is* the skilled feat, which lets you get three skill or tool proficiences.
+    
+    So, the I like the idea behind this. As a first draft I think these "Skills as Feats" are interesting enough and have potential but ultimately isn't executed well enough. Some I find really well done, some I think are pretty lame, but some are really stretching the realm of the skill. I don't like the idea of only allowing the ones I think are good enough because I would be allowing paths into some skills and not others. So in the spirit of being fair to every skill, I won't be introducing these in my games. I also don't like how they can grant expertise for a given skill. For me expertise is a special characteristic of the Bard or Rogue class, and I like keeping it locked there.
   * #### Starter Spells
   * #### A Trio of Subclasses
   * #### Wizards Revisited
@@ -61,7 +65,8 @@ This isn't a complete list of all released UA content, usually if the content lo
   * #### Barbarian Primal Paths
   * #### The Ranger, Revised
   * #### The Faithful
-  * #### Feats
+  * #### [Feats](http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf)
+    This is one of my *favorite* pieces of UA! Not for the content(I like that too), but the write up we get on feat design and for each feat given(good or bad) is wonderful! I think the "good" feats are great additions to the game; diverse beyond just weapons, mechanically interesting, and seem fun. 
   * #### Gothic Heroes
   * #### Kits of Old
   * #### That Old Black Magic

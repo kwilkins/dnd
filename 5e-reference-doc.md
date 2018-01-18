@@ -200,21 +200,40 @@ If you want to play an evil character, be sure you can do so in a way that still
 ### Feats
 Feats are amazing! You should get one whenever you can!
 
-Feats – Unearthed Arcana 6/6/2016. I’m allowing each of the “good” ones, with a couple caveats:
-  * the weapon feats do not give you a +1 to attack
-  * Master of Disguise feat will work within reason (you can’t craft a believable Ancient Dragon disguise in 8 hours).
+All of the feat options from the Player’s Handbook
 
-Fell Handed, Blade Mastery, Flail Mastery, Spear Master, Alchemist, Burglar, Gourmand, Master of Disguise	
+The following *racial* feat options from Xanathar's Guide to Everything:
+  * Dragonborn: Dragon Fear, Dragon Hide
+  * Dwarf: Dwarven Fortitude, Squat Nimbleness
+  * Elf: Elven Accuracy
+  * Elf(drow): Drow High Magic
+  * Elf(high): Fey Teleporation
+  * Elf(wood) Wood Elf Magic
+  * Gnome: Fade Away, Squat Nimbleness
+  * Half-elf:	Elven Accuracy, Prodigy
+  * Half-orc:	Orcish Fury, Prodigy
+  * Halfling:	Bountiful Luck, Second Chance, Squat Nimbleness
+  * Human: Prodigy
+  * Tiefling:	Flames of Phlegethos, Infernal Constitution
 
-Feats for Races – Unearthed Arcana 4/24/2017. I’m allowing a selection of these feats to further aid racial impact in the game. I like having what race your character is affect elements of the game, and these feats are a way to make your character more powerful in different ways.
-  * Dragonborn: Dragon Fear, Dragon Hide, ?Dragon Wings 30ft?
-  * Elf: Drow High Magic,	Wood Elf Magic
-  * Gnome: ?Fade Away?, Critter Friend, Wonder Maker
-  * Half-elf:	Prodigy
-  * Half-orc:	Orcish Aggression, Orcish Fury
-  * Halfling:	Second Chance
-  * Human: Human Determination
-  * Tiefling:	Barbed Hide, Flames of Phlegethos
+The following feat options from Unearthed Arcana:
+  * Fell Handed
+    * no +1 to attack
+  * Blade Mastery
+    * no +1 to attack
+  * Flail Mastery
+    * no +1 to attack
+  * Spear Master
+    * no +1 to attack
+  * Alchemist
+  * Burglar
+  * Gourmand
+  * Master of Disguise
+    * will work within reason (you can’t craft a believable Ancient Dragon disguise in 8 hours)
+  * Critter Friend(racial: gnome)
+  * Wonder Maker(racial: gnome)
+  * Orcish Aggression(racial: half-orc)
+  * Barbed Hide(racial: tiefling)
 
 ### Roleplaying
 The strengths of D&D are freedom of action and an open-ended story. Your character’s motivations should be story based. We’re playing to get immersed in the world; the more you play your character for the story, the more you are going to get out of the story. You can play a character that constantly changes their desires, has no real fears, and always shares mutual objectives with the party, but I promise you’ll get more out of the game if you don’t.
