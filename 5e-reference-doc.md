@@ -37,6 +37,10 @@ Personal D&D nerfs, buffs, options, and philosophy
 - [Combat](#combat)
   - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
   - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
+  - [Movement and Distance](#movement-and-distance)
+  - [Expanded Combat Actions](#expanded-combat-actions)
+  - [Critical Hits](#critical-hits)
+  - [Critical Fails](#critical-fails)
 - [Suggested Player Resources](#suggested-player-resources)
   - [Official Content](#official-content)
   - [Unofficial Content](#unofficial-content)
@@ -371,32 +375,32 @@ When using theatre of the mind, the downside typically is that you as a player w
 
 If you are unsure of something, always feel free to ask questions to clarify something for you.  The sooner you ask the better, or we get into a situation where Tim’s 3 turn plan didn’t work and his wizard should have known that 2 turns ago and now he’s getting chewed on be 3 ghouls (don’t be like Tim). If you still feel that not having a battle map in this scenario is impeding the playability or your enjoyment, please let me know and we’ll start drawing.
 
-#### Movement and Distance
+### Movement and Distance
 Distance and movement in 5e is a little weird to me because grid diagonals use the same length as a grid side, 5ft. This tends to break the idea of distance on a combat grid when targeting from diagonals lets you get 40% more range. The DMG offers a suitable alternative rule for diagonals – every other diagonal will cost double the distance; 5, 15, 20, 30, etc.
 
-#### Expanded Combat Actions
+### Expanded Combat Actions
 These extra options apply to NPCs and PCs equally. Remember, there is no set list of possible actions for what your character to do. If you’d like to do something that isn’t quite this or isn’t quite that, tell me what you’d like to do!
 
-##### Grappling
+#### Grappling
 When grappling a target your size or smaller, you can use your action to pin them. You become prone, and your target becomes prone and incapacitated. They may still make checks to attempt escape the grapple (and the pin) with disadvantage. Your prone condition ends if you stop grappling the target and stand up.
 
 When grappling a target your size or smaller, as an action you can attempt to throw them, knocking them prone when they land. Make an athletics check with a -7 modifier, that is how many feet you throw them (minimum of 0 feet).
 
-##### Moving an Ally
+#### Moving an Ally
 As an action, you can pick up and carry an ally if they are your size or smaller; if they are your size, you can only move at half speed while carrying them. You automatically drop your ally if you become incapacitated or prone. If you are moved against your will, you must succeed on a DC 10 Dexterity saving throw or drop your ally. 
 
 Alternatively, as a free object interaction, you can drag an ally if they are your size or smaller; you can only move at half speed while dragging them.  While carrying or dragging an ally, enemies have advantage on attacks against you.
 
-##### Knocking Aside Shields
+#### Knocking Aside Shields
 As an action, you can use a melee weapon that deals bludgeoning damage with damage dice of d6 or greater to try to knock away a foe’s shield. Declare your intention to use this special attack before rolling. If you successfully hit your target, they’re AC will be considered to have no shield bonus until their next turn.
 
-##### Readying the Attack Action with Multiattack
+#### Readying the Attack Action with Multiattack
 When you ready your action for an attack, you can take all the attacks you’re normally entitled to for a normal attack action. If you would like to split your attacks up, you must specify targets when readying the action. If they are no longer available to attack or out of your range you lose those attacks.
 
-##### Grenades/Oil Flasks/etc
+#### Grenades/Oil Flasks/etc
 When a grenade-type weapon is used the attack is made against the square the target is in (not the target themselves), the square has an AC of 7. The attack is made using the Dexterity modifier of the character and is considered an improvised weapon (no proficiency bonus, range 20/60). Advantage or disadvantage from things like sight, being hidden, dodge action, etc are not applied to this attack. If the attack hits, the grenade shatters at the feet of the character and all effects are applied as usual. If the attack misses roll a d8 to determine which direction the grenade lands, it will land the difference between the AC and the attack roll (7 minus attack roll) squares away in that direction(1 being “map north” traveling clockwise) having its usual effect in that square and any adjacent squares as appropriate.
 
-#### Critical Hits
+### Critical Hits
 When rolling for an attack and you land a critical hit, you get to choose:
   * Apply critical damage RAW(double damage dice)
   * Apply normal damage AND roll 2d10 for a critical effect detailed below
@@ -415,7 +419,7 @@ When rolling for an attack and you land a critical hit, you get to choose:
 | 19 | Break; With a bludgeoning or slashing weapon, you swing hard enough to break a piece of your opponent’s equipment; see ‘Disarm’ if non-bludgeoning(magic weapons are allowed a death save with its bonus) |
 | 20 | Roll Twice; You roll twice on this table for TWO effects! |
 
-#### Critical Fails
+### Critical Fails
 When rolling for an attack and you roll a natural 1, roll a Death Save.  On a result of 7 or below, something happens…
 
 | d20 | Effect |
