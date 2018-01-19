@@ -133,7 +133,7 @@ Bad examples
   * A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
 
 ### Backgrounds
-All background options from the Player’s Handbook, Sword Coast Adventure's Guide, and Curse of Strahd
+All background options from any officially published WotC books (Player’s Handbook, Sword Coast Adventure's Guide, Curse of Strahd, etc)
 
 Backgrounds are the simpliest to customize if for whatever reason the stock options don't appeal to you.
 
@@ -202,34 +202,21 @@ Feats are amazing! You should get one whenever you can!
 
 All of the feat options from the Player’s Handbook
 
-The following *racial* feat options from Xanathar's Guide to Everything:
-  * Dragonborn: Dragon Fear, Dragon Hide
-  * Dwarf: Dwarven Fortitude, Squat Nimbleness
-  * Elf: Elven Accuracy
-  * Elf(drow): Drow High Magic
-  * Elf(high): Fey Teleporation
-  * Elf(wood) Wood Elf Magic
-  * Gnome: Fade Away, Squat Nimbleness
-  * Half-elf:	Elven Accuracy, Prodigy
-  * Half-orc:	Orcish Fury, Prodigy
-  * Halfling:	Bountiful Luck, Second Chance, Squat Nimbleness
-  * Human: Prodigy
-  * Tiefling:	Flames of Phlegethos, Infernal Constitution
+All of the *racial* feat options from Xanathar's Guide to Everything
 
-The following feat options from Unearthed Arcana:
-  * Fell Handed
-    * no +1 to attack
-  * Blade Mastery
-    * no +1 to attack
-  * Flail Mastery
-    * no +1 to attack
-  * Spear Master
-    * no +1 to attack
+I am allowing these feat options from the following Unearthed Arcana:
+  
+[Feats](http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf)
+  * Fell Handed (no +1 to attack)
+  * Blade Mastery (no +1 to attack)
+  * Flail Mastery (no +1 to attack)
+  * Spear Master (no +1 to attack)
   * Alchemist
   * Burglar
   * Gourmand
-  * Master of Disguise
-    * will work within reason (you can’t craft a believable Ancient Dragon disguise in 8 hours)
+  * Master of Disguise (will work within reason, you can’t craft a believable Ancient Dragon disguise in 8 hours)
+  
+[Feats for Races](http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf)
   * Critter Friend(racial: gnome)
   * Wonder Maker(racial: gnome)
   * Orcish Aggression(racial: half-orc)
@@ -258,18 +245,23 @@ Some suggestions for getting more roleplaying out of your game
     * Some of the coolest parts in our favorite stories is when a character sacrifices themselves for the greater good. If a battle means something to your character, they might push their own personal safety aside to take their revenge against the bandit king or to ensure the rest of their party escapes the collapsing tunnel.
 
 ## Spells and Magic
-### Sourcebook Spells
-All spells from the Player’s Handbook and Xanthar’s Guide to Everything(this includes and updates spells from the Elemental Evil supplement)
+### Spells
+All spells from the Player’s Handbook
 
-### Expanded Spell Options
-The following spells from [That Old Black Magic Unearthed Arcana](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf) are allowed
+All spells from Xanthar’s Guide to Everything(this includes and updates spells from the Elemental Evil supplement) with the following caveats:
+  * Healing Spirit - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
+    * [This is a rule suggested by Jeremy Crawford](https://twitter.com/JeremyECrawford/status/935992604080013312)
+
+I am allowing these spell options from the following Unearthed Arcana:
+
+[That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
   * Conjure Barlgura(sorcerer, wizard)
   * Conjure Hezrou(sorcerer, wizard)
   * Conjure Lesser Demon(sorcerer, wizard)
   * Conjure Shadow Demon(sorcerer, wizard)
   * Conjure Vrock(sorcerer, wizard)
 
-The following spells from [Starter Spells Unearthed Arcana](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf) are allowed
+[Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
   * Wild Cunning (druid, ranger)
 
 ### Schools of Magic
