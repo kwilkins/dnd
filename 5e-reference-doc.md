@@ -18,8 +18,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Feats](#feats)
   - [Roleplaying](#roleplaying)
 - [Spells and Magic](#spells-and-magic)
-  - [Sourcebook Spells](#sourcebook-spells)
-  - [Expanded Spell Options](#expanded-spell-options)
+  - [Spells](#spells)
   - [Schools of Magic](#schools-of-magic)
   - [Varying Effects](#varying-effects)
 - [Equipment](#equipment)
@@ -33,7 +32,8 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Skills](#skills)
   - [Party Conflict](#party-conflict)
   - [XP and Leveling Up](#xp-and-leveling-up)
-  - [Resting and Healing](#resting-and-healing)
+  - [Healing](#healing)
+  - [Resting in Armor](#resting-in-armor)
 - [Combat](#combat)
   - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
   - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
@@ -41,6 +41,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Expanded Combat Actions](#expanded-combat-actions)
   - [Critical Hits](#critical-hits)
   - [Critical Fails](#critical-fails)
+- [The West Marches](#the-west-marches)
 - [Suggested Player Resources](#suggested-player-resources)
   - [Official Content](#official-content)
   - [Unofficial Content](#unofficial-content)
@@ -51,9 +52,9 @@ Personal D&D nerfs, buffs, options, and philosophy
 ## What is this?
 This is a reference document detailing house rules, expanded options, and how I approach different aspects of games that I run. The goal being that the content in here should make the game more compelling, more rewarding, but most of all more fun! If anything in here is found to be hindering one of these goals it will be addressed or changed as needed. And if you have an idea or found a resource that you think would be awesome to add, talk to me about it! This is an evolving document and feedback is always welcome.
 
-Just don’t ask me to look at or think about adding content from dandwiki
-
-Content marked by question marks is not finalized yet – ?Playable Race: Tarrasque?
+  * Content marked by question marks is not finalized yet – ?Playable Race: Tarrasque?
+  * Content with a WM superscript adhere to slightly different rules for my West Marches games, you can find them all listed in the [West Marches Rules Reference Document](west-marches/west-marches-reference-doc.md)
+  * Don’t ask me to look at or think about adding content from dandwiki
 
 ### Fifth Edition as a Game System
 Everybody has their own opinion on the many different editions and variants of Dungeons and Dragons. My first introduction to D&D was watching the original Rollplay series, a campaign run using a modified version of second edition D&D, so it’s fair to say I have fond memories of old school role playing game elements – death always being a possibility, semi permanent effects, meaningful consequences, and the game rules feeling grounded. In some ways, Fifth Edition (5e) can be seen as a departure from that style of play – some abilities break any sense of realism, many spells require addendums for special cases, and simply resting for a bit can heal wounds from swords or spells. 5e sacrifices many of these old core designs to make the game more easily digestible for its players, which isn’t necessarily a bad thing. For this part of the game’s design, Wizards of the Coast (WotC) spectacularly succeeded and has given D&D a resurgence of popularity in the last few years.
@@ -74,41 +75,32 @@ All this is to say that there will be times when we follow the rules as written,
 
 ## Character Customization
 ### Playable Races
-The following race options from the Player’s Handbook:
-  * Dwarf
-  * Elf
-  * Halfing
-  * Human
-  * Dragonborn
-  * Gnome
-  * Half-Elf
-  * Half-Orc
-  * Tiefling
+All of the class options from the Player’s Handbook.
 
-The following race options from Volo's Guide to Monsters
+The following race options from Volo's Guide to Monsters:
   * Aasimar
   * Firbolg
   * Goliath
 
-The following race options from the Elemental Evil Player's Companion supplement
-  * ?Aarakocra?
+The following race options from the Elemental Evil Player's Companion supplement:
+  * ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
   * Deep Gnome(subrace)
   * Genasi
 
-The following race options from The Old Black Magic Unearthed Arcana
+The following race options from The Old Black Magic Unearthed Arcana:
   * Infernal Tiefling(subrace; standard tiefling from the PHB)
   * Abyssal Tiefling(subrace)
 
 ### Variant Human Traits
-I don’t allow feats at first level. Instead of the variant traits offered in the PHB, you can opt for the following.
+I don’t allow feats at first level. Instead of the variant traits offered in the PHB, you can opt for the following:
   * Ability Score Increase. Increase three different ability scores of your choice, one by 2 and two by 1.
   * Skills. You gain proficiency in two skills of your choice.
   * Languages. You can speak, read, and write common and 2 other languages of your choice.
 
 ### Playable Classes
-All of the class options from the Player’s Handbook and Xanthar's Guide to Everything
+All of the class options from the Player’s Handbook and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
 
-I’ve written some [descriptions for the base classes](5e-classes.html) if you're wondering which to pick.
+?The [Blood Hunter](https://www.dndbeyond.com/characters/classes/blood-hunter) class option written by Matthew Mercer?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
 
 ### Expanded Class Options
 
@@ -133,7 +125,7 @@ Bad examples
   * A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
 
 ### Backgrounds
-All background options from any officially published WotC books (Player’s Handbook, Sword Coast Adventure's Guide, Curse of Strahd, etc)
+All background options from any officially published WotC books (Player’s Handbook, Sword Coast Adventure's Guide, Curse of Strahd, etc).<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
 
 Backgrounds are the simpliest to customize if for whatever reason the stock options don't appeal to you.
 
@@ -141,7 +133,7 @@ Backgrounds are the simpliest to customize if for whatever reason the stock opti
 In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment.  If that means you adhere to a single alignment, great!  If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
 > I tend to look at alignment in terms of how or why they would kill another person
 
--Neal Erickson
+-[Neal Erickson](https://twitter.com/koibu0)
 
 <style>
   .alignment-title {
@@ -225,7 +217,7 @@ I am allowing these feat options from the following Unearthed Arcana:
 ### Roleplaying
 The strengths of D&D are freedom of action and an open-ended story. Your character’s motivations should be story based. We’re playing to get immersed in the world; the more you play your character for the story, the more you are going to get out of the story. You can play a character that constantly changes their desires, has no real fears, and always shares mutual objectives with the party, but I promise you’ll get more out of the game if you don’t.
 
-Think about elements of your character when figuring out their personality. What do their stats say about them? For example, with a low intelligence score we know they aren’t the sharpest tool in the shed. The real question is, how does this manifest in my character’s personality? Are they a bully, always preferring to intimidate others and brute force their way over obstacles without thinking? Or maybe they are fascinated by the knowledge holders of the world, and they bend over backwards for sages, wizards, and town elders. Similarly, how do their past experiences manifest? A character with a history involving Orcs killing their family doesn’t instantly mean they hate Orcs and want to kill them all the time, they could just as well be utterly terrified of Orcs and can’t stand being in the same tavern as one.
+Think about elements of your character when figuring out their personality. What do their stats say about them? For example, with a low intelligence score we know they aren’t the sharpest tool in the shed. The real question is, how does this manifest in the character’s personality? Are they a bully, always preferring to intimidate others and brute force their way over obstacles without thinking? Or maybe they are fascinated by the knowledge holders of the world, and they bend over backwards for sages, wizards, and town elders. Similarly, how do their past experiences manifest? A character with a history involving Orcs killing their family doesn’t instantly mean they hate Orcs and want to kill them all the time, they could just as well be utterly terrified of Orcs and can’t stand being in the same tavern as one.
 
 I will never, ever, force your character to roleplay in a certain way. Others may have an idea of how your character would behave in certain situations, but that is only for you to decide.
 
@@ -262,7 +254,7 @@ I am allowing these spell options from the following Unearthed Arcana:
   * Conjure Vrock(sorcerer, wizard)
 
 [Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
-  * Wild Cunning (druid, ranger)
+  * Wild Cunning(druid, ranger)
 
 ### Schools of Magic
 I’ve compiled some [helpful notes and ideas](https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB) for differentiating the schools of magic.
@@ -350,20 +342,20 @@ If a conflict continues to not get resolved to the detriment of the game, the DM
 ### XP and Leveling Up
 I track experience points for all sorts of things. The most common are defeating monsters, significant roleplaying with NPCs, exploring new locations in the world, and resolving storylines.  I typically award experience points once the characters are in a safe place and looming threats have been dealt with.
 
-### Resting and Healing
-The default healing rules for 5e don’t allow for a sense of wound retention or encourage smart resource management for health (i.e. potions and spells).  I think it makes damage and battle feel not as important, something you can just sleep off.  However, the alternative rules offered in the DMG were too much of a drag on time and kept them from finishing time sensitive quests.
+### Healing
+The default healing rules for 5e don’t allow for a sense of wound retention or encourage smart resource management for health(i.e. potions and spells)<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>. I think it makes damage and battle feel not as important, something you can just sleep off. However, the alternative rules offered in the DMG were too much of a drag on time and kept them from finishing time sensitive quests.
 
 The purpose of these healing rules is twofold
   1. It represents the fact that getting stabbed with swords and beaten with clubs doesn't go away after a good night's sleep.  
   2. It places a value on and rewards good planning and use of healing magic. Potions are available for purchase, and jumping into a fight headlong because you can nap away the wounds isn’t viable.
 
 #### Natural Healing
-You recover your level (or your number of hit dice) in hit points (minimum of 1) each long rest. You can double this if you weren't in combat since your previous long rest.
+You recover your level(or your number of hit dice) in hit points(minimum of 1) each long rest. You can double this if you weren't in combat since your previous long rest.
 
 #### Expending Hit Dice
 You can expend your hit dice on a short or long rest and you regain 1 hit die after finishing a long rest.
 
-#### Resting in Armor
+### Resting in Armor
 When taking a long rest, it is difficult to fully recover your stamina, spells, or health while doing so in armor. A long rest is impossible in heavy armor, you will gain no benefits. A long rest is possible in medium armor, but you will gain one level of exhaustion. A long rest is easier in light armor, make a DC 10 Constitution save or gain one level of exhaustion.
 
 ## Combat
@@ -387,7 +379,7 @@ When using theatre of the mind, the downside typically is that you as a player w
 If you are unsure of something, always feel free to ask questions to clarify something for you.  The sooner you ask the better, or we get into a situation where Tim’s 3 turn plan didn’t work and his wizard should have known that 2 turns ago and now he’s getting chewed on be 3 ghouls (don’t be like Tim). If you still feel that not having a battle map in this scenario is impeding the playability or your enjoyment, please let me know and we’ll start drawing.
 
 ### Movement and Distance
-Distance and movement in 5e is a little weird to me because grid diagonals use the same length as a grid side, 5ft. This tends to break the idea of distance on a combat grid when targeting from diagonals lets you get 40% more range. The DMG offers a suitable alternative rule for diagonals – every other diagonal will cost double the distance; 5, 15, 20, 30, etc.
+Distance and movement in 5e is a little weird to me because grid diagonals use the same length as a grid side, 5ft. This tends to break the idea of distance on a combat grid when targeting from diagonals lets you get 40% more range. The DMG offers a suitable alternative rule for diagonals – every other diagonal will cost double the distance; 5, 15, 20, 30, etc<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>.
 
 ### Expanded Combat Actions
 These extra options apply to NPCs and PCs equally. Remember, there is no set list of possible actions for what your character to do. If you’d like to do something that isn’t quite this or isn’t quite that, tell me what you’d like to do!
@@ -443,6 +435,11 @@ When rolling for an attack and you roll a natural 1, roll a Death Save.  On a re
 | 6 | Loose Weapon; weapon flies 2d8 feet in a random direction, this also applies to component pouch or spellcasting focus.<br/>--If natural weapon, use "Out of Position” |
 | 7 | Out of Position; you are at disadvantage for all attacks until the end of your next turn |
 | 8+ | How Embarrassing; you miss really bad, tell the party what happened |
+
+## The West Marches
+In addition to DMing standard Dungeons and Dragons campaigns, I've also been running a West Marches game. In a West Marches style game there is no set player roster, there are many players, each player can have multiple characters, each session is designed to be self contained, and all sessions take place in a singular shared world. This makes it easy for players to join the game on an at will basis without needing to worry about keeping to a certain schedule. The game runs slightly different, so I use slightly different rules and tends to focus more on exploration and combat.
+
+[West Marches Reference Document](west-marches/west-marches-reference-doc.html)
 
 ## Suggested Player Resources
 I use a lot of these resources when DMing, playing, and even writing this document.  Hopefully you find some of these useful.
