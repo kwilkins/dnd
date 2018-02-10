@@ -28,25 +28,25 @@ In a West Marches style game, there is no set player roster, making it a perfect
 
 ## West Marches Specific Rules
 
-Your character is first and foremost an adventurer, for one reason or another. On your search for the non-mundane you have come to The West Marches, leaving the safeties of *The Kingodms* behind. 
+Your character is first and foremost an adventurer, for one reason or another. On your search for the non-mundane you have come to The West Marches, leaving the safeties of *The Kingdoms* behind. 
 
 ### Play Session Rules
 * Players can schedule, suggest or join sessions on an at-will basis. There is no assumed set party; players can adventure in many different groups and characters may group with other characters of *any* level.
 * A newly created character must start at level 1. Each character keeps whatever gold, equipment, and XP they have earned for the next time they play.
 * Each session the party will leave town, jaunt across the wilderness, discover something new, and return home. While these are self contained one-shots, the shared world persists beyond each session. If one party makes a change or effects something, a later party can see the consequences of that action.
-* Players are penalized a cost of 10gp per level per zone they must travel back home after the end of a session.
+* If the session ends *while the party is not in a safe place*, they as a whole are penalized a cost of 10gp per average character level per zone they must travel back home after the end of a session.
 * The town of Padfoot's Landing is, for whatever reason, a safe place. Free of monsters, thievery, attacks and serious conflict. Characters rest here within the halls of the Adventurer's guild between sessions.
 
 ### Time
 Each 24 hour day is divided into 6 time periods, or "watches", each 4 hours long.
-  * Trence (2:00-6:00)
-	* Etude (6:00-10:00)
-	* Prime (10:00-14:00)
-	* Second (14:00-18:00)
-	* Tone (18:00-22:00)
-  * Fete (22:00-2:00)
+  * Nil (2:00-6:00)
+	* Unus (6:00-10:00)
+	* Duo (10:00-14:00)
+	* Tres (14:00-18:00)
+	* Quat (18:00-22:00)
+  * Quin (22:00-2:00)
 
-These watches are rougly spent with the party sleeping for two or three and awake/adventuring for three or four.
+These watches are rougly spent with the party sleeping for two to three and awake/adventuring for three to four.
 
 ### Travel
 
@@ -57,9 +57,9 @@ The term *hexcrawl* comes from the map design, which is literally a bunch of hex
 Traveling throughout the West Marches is typically done at a steady pace of 3 miles per hour, with roads and natural obstacles speeding or slowing progress. At this pace, the average party can travel through 4 hexes(24 miles) per day. Addtionally the party can attempt to travel 2 more hexes(a total of 36 miles), but each party member must succeed on a constitution saving throw or take a level of exhaustion.
 
 #### Getting Lost
-Traveling to a new location or through the unknown wilds can be treacherous and unpredictable. When the party sets out on adventure, they must pick a character to make a navigation(Survival) check with a base DC of 10. If other members of the party have already been to the destination or are proficient in the Survival skill, the navigator can make this check at advantage.
+Traveling to a *new* location or through the unknown wilds can be treacherous and unpredictable. When the party sets out on adventure, they must pick a character to make a navigation(Survival) check with a base DC of 10. If other members of the party have already been to the destination or are proficient in the Survival skill, the navigator can make this check at advantage. If this check is failed, the party becomes lost and veers away from their intended direction of travel. Who knows, this might lead to a new quest!
 
-If this check is failed, the DM will make a few rolls to determine when they party got lost, how long they traveled, and where they ended up.  Who knows, this might lead to a new quest!
+Familiar locations are those which a character has visited more than once. A character can always succesfully navigate to a location they are familar with. Under certain circumstances, characters may be considered “familiar” with a location even if they’ve never been there. 
 
 ### Encounters
 Encounters are not just combat scenarios, you might encounter undiscovered ruins or a search party of Elves looking for a lost prince.  Or you could run into some haunted scarecrows...
@@ -84,13 +84,13 @@ Sometimes the party might want to actively seek out a location or creature that 
   * If a location right off of a road, river, or trail, then a character following the road, river, or trail will automatically find the location(assuming it isn’t hidden).
 
 * Familiar Locations
-  * Familiar locations are those which a character has visited more than once. Characters within the same hex as a familiar location can be assumed to automatically find the location.  Under certain circumstances, characters may also be considered “familiar” with a location even if they’ve never been there. 
+  * Characters within the same hex as a familiar location can be assumed to automatically find the location.
 
 * Unfamiliar Locations
   * Unfamiliar locations are found using encounter checks. Characters spending time to specifically search a particular area enter exploration mode. They make no progress towards exiting their current hex, but the DM continues making the necessary encounter checks (to represent the result of their search).  If the party is looking for something specific that they suspect might be in the area, the DM may allow another check each watch for that location and only that location(any other encounter for this check is ignored).
 
 #### Standard Disclaimer
-There are times when encounter chances are higher than normal or might even happen for certain. I will not tell you this information outright, but will provide contextual clues or environment descriptions to hint. Resting within an underground dungeon or traveling through a region under control by a faction will most likely carry higher encounter probabilities.
+There are times when encounter chances are higher than normal or might even happen for certain. I will not tell you this information outright, but will provide contextual clues or environment descriptions to hint. Resting within an underground dungeon or traveling through a region under control by an opposing faction might carry higher encounter probabilities.
 
 ### Awarding XP
 The standard ways of earning XP are defeating enemies in combat, exploring the world, and solving/finishing quest lines. However, there are extra XP bonuses available to you if you play your character's motivations and help your fellow adventurer solve their own quests.
@@ -117,9 +117,9 @@ While I do run my West Marches games using the 5e ruleset, not all of the differ
 
   * Aarakocra is a suitable choice for a character's race
   * The Blood Hunter is a suitable choice for a character's class
-  * Backgrounds are acceptable from most homebrew sources or very easy to change, tweak, or create for a new character
-  * Healing rules for regaining hit points and hit dice will follow the standard 5e system. Please note that my rules for resting in armor still apply while resting.
-  * Movement and and determining distance while on a grid will follow the standard 5e system.
+  * Premade backgrounds are mostly acceptable from homebrew sources(can always change, tweak or create your own).
+  * Healing rules for regaining hit points and hit dice will follow the standard 5e system(RAW). Please note that my [rules for resting in armor](../5e-reference-doc.md#resting-in-armor) still apply while resting.
+  * Movement and and determining distance while on a grid will follow the standard 5e system(RAW).
 
 ## The Inspiration
 I fell in love with this game type while watching Rollplay's West Marches series, so I draw heavy heavy inspiration from it. The cast was a revolving set of personalities that always brough new and radically different adventures to the table. Steven Lumpkin, the Game Master behind the idea, was always pushing the characters into the new, the strange and the weird. Even better, Steven shared a lot of the resources he used to build his world and influence the rules, which in turn has done the same to my own. So now you know who to blame when you contract Necrotic Leprosy or have to strike a bargin with the Wounded Wretch.
