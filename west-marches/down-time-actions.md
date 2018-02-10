@@ -48,7 +48,7 @@ Downtime options:
 Improve this feature to level 3 to gain the following option:
   * Spend 75gp to buy a Potion of Greater Healing
 
-## Guild Hall (level 1)
+## Guild Hall (level 2)
 Attached to Munder's Tavern, this is the centralized outpost for adventures.
 
 Proprietor: Goldust(Half-Orc former wrestler)  
@@ -58,9 +58,10 @@ Features:
 * Central account – Ask DM for balance(level 1)
   * Funds always available for improving a town feature
   * ?Vote as party to use funds for other purpose?
-
-Improve this feature to level 2 to gain the following feature:
 * Bank account for each adventurer; store gold at guild hall and if your character dies, their gp goes into the central fund
+
+Improve this feature to level 3 to gain the following feature:
+* Hirelings! They cost money and can be given a cut of xp to level up.
 
 ## Monument of Heroes (level 1)
 A statue of Muriel in a heroic pose
@@ -84,17 +85,18 @@ Downtime options:
 Improve this feature to level 2 to gain the following options:
 * Can strip magic essence out of an object(destroying it)
  
-## Blacksmith (level 1)
+## Blacksmith (level 2)
 
 Proprietor: Flint Fleetwhistle(Dwarf)
 
 Downtime options:
 * Will buy/sell normal armor or weapons(level 0)
 * Can reforge weapons/armor at cost(level 1)
-
-Improve this feature to level 2 to gain the following options:
 * Can graft magical properties into non magical weapons/armor given materials(magical essence, another weapon/armor, or a price in gp)
-  * Magical Forge required
+
+Improve this feature to level 3 to gain the following options:
+* Can graft magical properties into existing magical weapons/armor given materials(magical essence, another weapon/armor)
+  * Requires a Magical Forge
 
 ## Improve Padfoot’s Landing
 Spend your Downtime Action building an improvement for Viriskali. Pay the cost to establish a new town feature or level up an existing town feature.
