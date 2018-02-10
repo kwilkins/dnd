@@ -18,8 +18,8 @@ Downtime options:
 * Spend 25gp to gain [lvl] Fitness Die (d4). You can spend this die at any time in the next adventure on any Strength, Dexterity or Constitution check, saving throw or skill use.(level 1)
 
 Improve this feature to level 2 to gain the following options:
-  * Auto succeed on your info roll for common information that the guards would know
-  * Gain a One-time advantage on any Strength, Dexterity or Charisma skill or saving throw(you have this until you use it, cannot stack)
+* Auto succeed on your info roll for common information that the guards would know
+* Gain a One-time advantage on any Strength, Dexterity or Charisma skill or saving throw(you have this until you use it, cannot stack)
 
 ## Library (level 1)
 Spend your time in study at the Town Library.
@@ -94,6 +94,7 @@ Downtime options:
 
 Improve this feature to level 2 to gain the following options:
 * Can graft magical properties into non magical weapons/armor given materials(magical essence, another weapon/armor, or a price in gp)
+  * Magical Forge required
 
 ## Improve Padfoot’s Landing
 Spend your Downtime Action building an improvement for Viriskali. Pay the cost to establish a new town feature or level up an existing town feature.
@@ -101,4 +102,4 @@ Spend your Downtime Action building an improvement for Viriskali. Pay the cost t
 * Level 2: 400gp
 * Level 3: 900gp
 * Level 4: 1900gp
-
+* Level 5: 2500gp
