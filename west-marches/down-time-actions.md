@@ -8,7 +8,7 @@ Pick one of the choices below or tell the DM what you want to do/accomplish duri
 ## Hard Work
 Spend your action doing a little extra hard work. Tell the other players what you did for work, and gain [level]d8 gp.
 
-## Combat Training (level 1)
+## Garrison (level 1)
 Engage in fitness training at Padfoot's Landin's garrison with members of the guard. 
 
 Proprietor: Captain Amy Starc(Human Fighter)  
@@ -20,6 +20,9 @@ Downtime options:
 Improve this feature to level 2 to gain the following options:
 * Auto succeed on your info roll for common information that the guards would know
 * Gain a One-time advantage on any Strength, Dexterity or Charisma skill or saving throw(you have this until you use it, cannot stack)
+OR
+* Ability to hire soldiers/mercenaries to hold *secured* points of interest.
+* Comes with one force of medium prowess you can station. Continue to upgrade for more forces.
 
 ## Library (level 1)
 Spend your time in study at the Town Library.
@@ -33,6 +36,9 @@ Downtime options:
 Improve this feature to level 2 to gain the following options:
 * Auto succeed on your research roll for common information that might be in the library
 * Gain a One-time advantage on any Intelligence, Wisdom or Charisma skill or saving throw(you have this until you use it, cannot stack)
+OR
+* Ability to hire scholars/explorers to investigate locations or topics of interest.
+* Comes with one quorum you can receieve knowledge from *only once per downtime phase*. Continue to upgrade in order to improve their research abilities.
 
 ## Temple of Hverra (level 2)
 Spend your time volunteering at the temple.
