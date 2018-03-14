@@ -67,7 +67,7 @@ Features:
 * Place to live(level 0)
 * Adventurer's Fund – Ask DM for current balance(level 1)
   * Funds always available for improving a town feature
-  * ?Vote as party to use funds for other purpose?
+  * Vote as party to use funds for other purpose
 * Bank account for each adventurer; store gold at guild hall and if your character dies, their account goes into the central fund
 
 Improve this feature to level 3 to gain the following feature:
