@@ -20,14 +20,16 @@ Downtime options:
 Improve this feature to level 2 to gain the following options:
 * Auto succeed on your info roll for common information that the guards would know
 * Gain a One-time advantage on any Strength, Dexterity or Charisma skill or saving throw(you have this until you use it, cannot stack)
+
 OR
+
 * Ability to hire soldiers/mercenaries to hold *secured* points of interest.
 * Comes with one force of medium prowess you can station. Continue to upgrade for more forces.
 
 ## Library (level 1)
 Spend your time in study at the Town Library.
 
-Proprietor: Carter Bishop(Half-Elf)
+Proprietor: Carter Bishop(Half-Elf Scholar)
 
 Downtime options:
 * Roll an Intelligence, Wisdom, or Charisma check to gain some research you went looking for in the library(level 0)
@@ -36,14 +38,16 @@ Downtime options:
 Improve this feature to level 2 to gain the following options:
 * Auto succeed on your research roll for common information that might be in the library
 * Gain a One-time advantage on any Intelligence, Wisdom or Charisma skill or saving throw(you have this until you use it, cannot stack)
+
 OR
+
 * Ability to hire scholars/explorers to investigate locations or topics of interest.
 * Comes with one quorum you can receieve knowledge from *only once per downtime phase*. Continue to upgrade in order to improve their research abilities.
 
 ## Temple of Hverra (level 2)
 Spend your time volunteering at the temple.
 
-Proprietor: Sarah Cope(Human)
+Proprietor: Sarah Cope(Human Cleric)
 
 Downtime options:
 * Roll an Intelligence, Wisdom, or Charisma to gain some knowledge from the clerics or patrons in the temple(level 0)
@@ -55,16 +59,16 @@ Improve this feature to level 3 to gain the following option:
   * Spend 75gp to buy a Potion of Greater Healing
 
 ## Guild Hall (level 2)
-Attached to Munder's Tavern, this is the centralized outpost for adventures.
+Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
 
-Proprietor: Goldust(Half-Orc former wrestler)  
+Proprietor: Goldust(Half-Orc Retired Wrestler)  
 
 Features:
-* Place to hang(level 0)
-* Central account – Ask DM for balance(level 1)
+* Place to live(level 0)
+* Adventurer's Fund – Ask DM for current balance(level 1)
   * Funds always available for improving a town feature
   * ?Vote as party to use funds for other purpose?
-* Bank account for each adventurer; store gold at guild hall and if your character dies, their gp goes into the central fund
+* Bank account for each adventurer; store gold at guild hall and if your character dies, their account goes into the central fund
 
 Improve this feature to level 3 to gain the following feature:
 * Hirelings! They cost money and can be given a cut of xp to level up.
@@ -82,7 +86,7 @@ Improve this feature to level 2 to gain the following feature:
 ## Town Wizard (level 1)
 Local magic shop that sells, buys, and identifies magical artifacts. 
 
-Proprietor: Boyland(Human wizard)  
+Proprietor: Boyland(Human Wizard)  
 
 Downtime options:
 * Is pompous(level 0)
@@ -93,7 +97,7 @@ Improve this feature to level 2 to gain the following options:
  
 ## Blacksmith (level 2)
 
-Proprietor: Flint Fleetwhistle(Dwarf)
+Proprietor: Flint Fleetwhistle(Dwarf Craftsman)
 
 Downtime options:
 * Will buy/sell normal armor or weapons(level 0)
