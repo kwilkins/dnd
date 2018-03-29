@@ -24,7 +24,7 @@ Improve this feature to level 2 to gain the following options:
 OR
 
 * Ability to hire soldiers/mercenaries to hold *secured* points of interest.
-* Comes with one force of medium prowess you can station. Continue to upgrade for more forces.
+* Comes with one force of medium prowess the party can station up until a predetermined trigger. Continue to upgrade for more forces.
 
 ## Library (level 1)
 Spend your time in study at the Town Library.
@@ -42,7 +42,7 @@ Improve this feature to level 2 to gain the following options:
 OR
 
 * Ability to hire scholars/explorers to investigate locations or topics of interest.
-* Comes with one quorum you can receieve knowledge from *only once per downtime phase*. Continue to upgrade in order to improve their research abilities.
+* Comes with one quorum the party can receieve knowledge from *only once per downtime phase*. Continue to upgrade in order to improve their research abilities.
 
 ## Temple of Hverra (level 2)
 Spend your time volunteering at the temple.
@@ -56,7 +56,19 @@ Downtime options:
 * Gain a One-time advantage on any Wisdom, Constitution or Charisma skill or saving throw(you have this until you use it, cannot stack)(level 2)
 
 Improve this feature to level 3 to gain the following option:
-  * Spend 75gp to buy a Potion of Greater Healing
+* Spend 75gp to buy a Potion of Greater Healing
+
+## Jager Lodge (level 0)
+Help catalog specimens, organize reports, and research uses for monsters.
+
+Proprietor: Jager Wynglass(Gnome Hunter)  
+
+Downtime options:
+* Offer monster/hunting related quests(level 0)
+
+Improve this feature to level 1 to gain the following option:
+* Provide information about monster whereabouts or practical uses for monster parts
+  * Requires completion of a *deadly hunt*
 
 ## Guild Hall (level 2)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
@@ -68,7 +80,7 @@ Features:
 * Adventurer's Fund – Ask DM for current balance(level 1)
   * Funds always available for improving a town feature
   * Vote as party to use funds for other purpose
-* Bank account for each adventurer; store gold at guild hall and if your character dies, their account goes into the central fund
+* Bank account for each adventurer; store gold at guild hall and if your character dies, their account goes into the central fund(level 2)
 
 Improve this feature to level 3 to gain the following feature:
 * Hirelings! They cost money and can be given a cut of xp to level up.
@@ -78,7 +90,7 @@ A statue of Muriel in a heroic pose
 
 Downtime options:
 * Look badass(level 0)
-* Buy xp, 1-to-1 for silver, can only ascend to level 3 AND your highest character level(level 1)
+* Buy xp, 1-to-1 for silver, can only ascend to level 3 AND the level your highest character has achieved(level 1)
 
 Improve this feature to level 2 to gain the following feature:
 * Increase max level to 7
@@ -102,7 +114,7 @@ Proprietor: Flint Fleetwhistle(Dwarf Craftsman)
 Downtime options:
 * Will buy/sell normal armor or weapons(level 0)
 * Can reforge weapons/armor at cost(level 1)
-* Can graft magical properties into non magical weapons/armor given materials(magical essence, another weapon/armor, or a price in gp)
+* Can graft magical properties into non magical weapons/armor given materials; magical essence, another weapon/armor, or sometimes just gp(level 2)
 
 Improve this feature to level 3 to gain the following options:
 * Can graft magical properties into existing magical weapons/armor given materials(magical essence, another weapon/armor)
