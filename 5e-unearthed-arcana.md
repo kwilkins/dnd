@@ -30,7 +30,17 @@ Roughly speaking I find myself judging what to allow in my games, unearthed arca
 ## My Impressions on Unearthed Arcana
 This isn't a complete list of all released UA content, usually if the content looks interesting or promising I'll dive into it more and assess it's use in my games.
 
-  * #### Xanathar's Guide to Everything
+  * #### [Xanathar's Guide to Everything(XGtE)](http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything)
+    While not technically UA material, a lot of the stuff detailed in this book came from previously released UA. Overall this is a good addtional core book, it isn't needed to play the game or understand the core rules. It's a book for a DM that wants to expand player options and get ideas or tables for running their game. However, two problems stick to me. One, some of the content in here doesn't refined. There are subclasses, spells, and rules that all work and make sense, but it feels like they didn't get read over one or two final times before release which hurts the overall quality. Two, some of the content in here is free or easily accesiable online somewhere. I'm okay with pulling some official D&D materials together from random adventure books so they're in one place, but a lot of the encounter or name tables are something that is just much easier to use community tools for. I don't think these make the book a dealbreaker, but I wish they released this at a lower cost. I'll cover the major sections it includes and offer some thoughts on each.
+
+    * **Character Options.** This was one of the main selling points for XGtE. Other than getting lucky with homebrew or adapting UA material, this is the best place for new character mechanics. Roughly half the book consists of new subclass options, there are a lot. Some of these subclasses are great(the Cleric and Ranger ones stand out to me as the best), most are fine(Druid, Sorcer, and Barbarian), but too many seem uninspired(Oath of Redemption), lacking(Hexblade), or even mechanically clunky(Cavalier). The backstory section is a really good resource for getting ideas on your character's past life.
+
+    * **Dungeon Master's Tools.** I was actually surprised how much I enjoyed reading these topics. What happens when characters sleep in armor? Can a wizard identify a spell as it gets cast? What can my campaign's players do while they sit around town? This is all great insight on how WotC envisions these parts of the game playing out. Some rules are broad(random encounters) while some are very specific(tying knots). They try to clear up how to deal with falling damage from high distance falls and different ways of measureing spell effects on a combat grid. Even a deep dive on how traps can work. These are all great tools to work with for DMs, but the best part, in my opinion, is that these aren't necessary rules that you need to enforce to play - they serve as optional or even suggestions on how to house rule.
+
+    * **Spells.** New spells! I think spells get expanded the most across the lifetime of D&D editions which means great care gets put into what new spells can do. I love most of the spells they've added(Danse Macabre, Mental Prison, Mind Spike, and Tenser's Transformation to name a few favorites) and don't really hate any outright(Healing Spirit just needs a a little nerf). I wish some of the spells appeared in more class spell lists, but that's an easy house rule.
+
+    * **Appendices.** Appendix A talks about how to run shared campaigns with multiple parties, while I'm decently versed in this by running my West Marches game there was still some good ideas in there. Appendix B is consists of twenty pages of names for different character races, which while is a good resource feels very out of place in a book medium instead of a free online tool for D&D Beyond.
+
   * #### Elf Subraces
   * #### Fiendish Options
   * #### Eladrin and Gith Races
@@ -69,7 +79,7 @@ This isn't a complete list of all released UA content, usually if the content lo
     This is one of my *favorite* pieces of UA! Not for the content(I like that too), but the write up we get on feat design and for each feat given(good or bad) is wonderful! I think the "good" feats are great additions to the game; diverse beyond just weapons, mechanically interesting, and seem fun. 
   * #### Gothic Heroes
   * #### Kits of Old
-  * #### That Old Black Magic
+  * #### [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
   * #### Light, Dark, Underdark!
   * #### Prestige Classes and Rune Magic
   * #### Ranger

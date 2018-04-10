@@ -20,6 +20,7 @@ Personal D&D nerfs, buffs, options, and philosophy
 - [Spells and Magic](#spells-and-magic)
   - [Spells](#spells)
   - [Schools of Magic](#schools-of-magic)
+  - [Knowing Spell Effects](#knowing-spell-effects)
   - [Varying Effects](#varying-effects)
 - [Equipment](#equipment)
   - [Crafting](#crafting)
@@ -27,6 +28,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Potions](#potions)
   - [Poisons](#poisons)
   - [Magic Items](#magic-items)
+  - [Tools](#tools)
 - [Adventuring](#adventuring)
   - [Inspiration](#inspiration)
   - [Skills](#skills)
@@ -45,7 +47,7 @@ Personal D&D nerfs, buffs, options, and philosophy
 - [Suggested Player Resources](#suggested-player-resources)
   - [Official Content](#official-content)
   - [Unofficial Content](#unofficial-content)
-  - [Tools](#tools)
+  - [Game Tools](#game-tools)
 
 <!-- /TOC -->
 
@@ -82,14 +84,15 @@ The following race options from Volo's Guide to Monsters:
   * Firbolg
   * Goliath
 
-The following race options from the Elemental Evil Player's Companion supplement:
+The following race options from the [Elemental Evil Player's Companion](http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf) supplement:
   * ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
   * Deep Gnome(subrace)
   * Genasi
 
-The following race options from The Old Black Magic Unearthed Arcana:
-  * Infernal Tiefling(subrace; standard tiefling from the PHB)
-  * Abyssal Tiefling(subrace)
+The following race options from the following Unearthed Arcana:
+  * [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
+    * Infernal Tiefling(subrace; standard tiefling from the PHB)
+    * Abyssal Tiefling(subrace)
 
 ### Variant Human Traits
 I don’t allow feats at first level. Instead of the variant traits offered in the PHB, you can opt for the following:
@@ -108,7 +111,7 @@ All of the class options from the Player’s Handbook and Xanthar's Guide to Eve
 When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
 #### Ranger – The Ranger, Revised
-I think that [the Revised Ranger](http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) from WoTC’s Unearthed Arcana is a suitable (and better) replacement for the Ranger class from the PHB. 
+I think that [the Revised Ranger](http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) from WoTC’s Unearthed Arcana is a suitable(and better) replacement for the Ranger class from the PHB. 
 
 #### Sorcerer – Tides of Chaos
 The [Tides of Chaos](https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr) subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
@@ -128,6 +131,8 @@ Bad examples
 All background options from any officially published WotC books (Player’s Handbook, Sword Coast Adventure's Guide, Curse of Strahd, etc).<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
 
 Backgrounds are the simpliest to customize if for whatever reason the stock options don't appeal to you.
+
+Having a backstory in addition to your character's background isn't required, but I always think it is a good idea to have a sense of who your character is beyond game mechanics. How old are they? Did they recieve formal training for their skills? What kinds of relationships to they have with others? What was your childhood like? Knowing all this before playing session 1, purposely leaving gaps to discover as you play, or a mix of the two are all fine options. XGtE has an excellent collection of tables that can help form ideas for a fleshed out backstory.
 
 ### Alignment
 In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment.  If that means you adhere to a single alignment, great!  If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
@@ -196,23 +201,22 @@ All of the feat options from the Player’s Handbook
 
 All of the *racial* feat options from Xanathar's Guide to Everything
 
-I am allowing these feat options from the following Unearthed Arcana:
+I am allowing these feat options from the following Unearthed Arcana:  
+  * [Feats](http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf)
+    * Fell Handed(no +1 to attack)
+    * Blade Mastery(no +1 to attack)
+    * Flail Mastery(no +1 to attack)
+    * Spear Master(no +1 to attack)
+    * Alchemist
+    * Burglar
+    * Gourmand
+    * Master of Disguise (will work within reason, you can’t craft a believable Ancient Dragon disguise in 8 hours)
   
-[Feats](http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf)
-  * Fell Handed (no +1 to attack)
-  * Blade Mastery (no +1 to attack)
-  * Flail Mastery (no +1 to attack)
-  * Spear Master (no +1 to attack)
-  * Alchemist
-  * Burglar
-  * Gourmand
-  * Master of Disguise (will work within reason, you can’t craft a believable Ancient Dragon disguise in 8 hours)
-  
-[Feats for Races](http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf)
-  * Critter Friend(racial: gnome)
-  * Wonder Maker(racial: gnome)
-  * Orcish Aggression(racial: half-orc)
-  * Barbed Hide(racial: tiefling)
+  * [Feats for Races](http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf)
+    * Critter Friend(gnome)
+    * Wonder Maker(gnome)
+    * Orcish Aggression(half-orc)
+    * Barbed Hide(tiefling)
 
 ### Roleplaying
 The strengths of D&D are freedom of action and an open-ended story. Your character’s motivations should be story based. We’re playing to get immersed in the world; the more you play your character for the story, the more you are going to get out of the story. You can play a character that constantly changes their desires, has no real fears, and always shares mutual objectives with the party, but I promise you’ll get more out of the game if you don’t.
@@ -240,27 +244,33 @@ Some suggestions for getting more roleplaying out of your game
 ### Spells
 All spells from the Player’s Handbook
 
-All spells from Xanthar’s Guide to Everything(this includes and updates spells from the Elemental Evil supplement) with the following caveats:
+All spells from Xanthar’s Guide to Everything(this includes spells from the Elemental Evil supplement with some updates to the wording)
+
+Spell specific house rules:
   * Healing Spirit - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
     * [This is a rule suggested by Jeremy Crawford](https://twitter.com/JeremyECrawford/status/935992604080013312)
 
 I am allowing these spell options from the following Unearthed Arcana:
 
-[That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
-  * Conjure Barlgura(sorcerer, wizard)
-  * Conjure Hezrou(sorcerer, wizard)
-  * Conjure Lesser Demon(sorcerer, wizard)
-  * Conjure Shadow Demon(sorcerer, wizard)
-  * Conjure Vrock(sorcerer, wizard)
+  * [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
+    * Conjure Barlgura(4th level; sorcerer|wizard)
+    * Conjure Hezrou(7th level; sorcerer|wizard)
+    * Conjure Lesser Demon(3rd level; sorcerer|wizard)
+    * Conjure Shadow Demon(4th level; sorcerer|wizard)
+    * Conjure Vrock(5th level; sorcerer|wizard)
 
-[Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
-  * Wild Cunning(druid, ranger)
+  * [Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+    * Wild Cunning(1st level; druid|ranger)
+    * Unearthly Chorus(1st level; bard)
 
 ### Schools of Magic
 I’ve compiled some [helpful notes and ideas](https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB) for differentiating the schools of magic.
 
+### Knowing Spell Effects
+Normally when a spell is cast its name, effects, and target are announced to the table by the caster and players can use this knowledge to respond or react appropriately. But there are situations when this information can be withheld; spell level, creatures with innate spellcasting, or magical obfuscation.
+
 ### Varying Effects
-Spells do not always affect every creature the same. Spells do not always affect situations exactly like you think it will. Spells do not always solve your current predicament perfectly. Charm Person might be resisted at advantage if you have verbally attacked the target, your planned use of Wish might not result in what you envisioned, and Thunderclap’s push effect might not be enough for certain creatures. 
+Spells do not always affect every creature the same. Spells do not always affect situations exactly like you think it will. Spells do not always solve your current predicament perfectly. Charm Person might be resisted at advantage if you have verbally attacked the target, your planned use of Wish might not result in what you envisioned, and Thunderclap’s push effect might not be enough for creatures with sufficient mass. 
 
 ## Equipment
 ### Crafting
@@ -305,6 +315,9 @@ I try to make magic items slightly rarer but more interesting.
 
 You can identify basic magic effects during a short rest (like a +1 attack bonus) per RAW, but you will need to get an item properly identified for more information about activation words, spells, and other special effects if they exist.
 
+### Tools
+I find tools slightly lacking use in 5e. They aren't very well defined in the PHB, it kind of just states that they exist. XGtE expands on the uses of tools which is a step in the right direction, but rather than defining what you can do with a certain toolset I like hearing from my players what they want to use tools for. Using tools might grant characters a skill check bonus, additional abilities or other ways to help the party; cartographer's tools can be used to help map areas, cook's utensils can be used to make meals or rations, and making good use of a forgery kit can always be of use.
+
 ## Adventuring
 
 ### Inspiration
@@ -325,6 +338,9 @@ If you fail a skill check, circumstances need to change in order to attempt it a
 
 #### Helping an Ally
 You can assist someone with a skill check, granting them advantage, if you are proficient with the same skill. You can always help someone with a mundane task, like digging a ditch or pulling a cart.
+
+#### Tool Proficiencies
+Having a proficiency with certain tools can help a character out when attempting skill checks. For example, a character proficient with a disguise kit might be able to apply that extra bonus when attempting a deception or stealth check.
 
 ### Party Conflict
 Broadly speaking, I always expect the party to work together, but I know there will be times when the characters in the party aren’t going to agree on the best way to do that. Disagreements are not unexpected and ideally, they will be handled in game.
@@ -387,7 +403,7 @@ These extra options apply to NPCs and PCs equally. Remember, there is no set lis
 #### Grappling
 When grappling a target your size or smaller, you can use your action to pin them. You become prone, and your target becomes prone and incapacitated. They may still make checks to attempt escape the grapple (and the pin) with disadvantage. Your prone condition ends if you stop grappling the target and stand up.
 
-When grappling a target your size or smaller, as an action you can attempt to throw them, knocking them prone when they land. Make an athletics check with a -7 modifier, that is how many feet you throw them (minimum of 0 feet).
+When grappling a target your size or smaller, as an action you can attempt to throw them, knocking them prone when they land. Make an athletics check with a -7 modifier, that is how many feet you throw them(minimum of 0 feet).
 
 #### Moving an Ally
 As an action, you can pick up and carry an ally if they are your size or smaller; if they are your size, you can only move at half speed while carrying them. You automatically drop your ally if you become incapacitated or prone. If you are moved against your will, you must succeed on a DC 10 Dexterity saving throw or drop your ally. 
@@ -458,7 +474,7 @@ By no means an official source of information, and sometimes a terrible source o
 #### [Koibu’s Corner](https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1)
 Neal Erickson is an incredible DM who does enjoy playing 2nd edition D&D more so than newer systems, but his wealth of information and years of experience in the game is still invaluable whether you agree with his interpretation of the grease spell or not.  From time to time he records little talks about different aspects of playing D&D, from why character death is cool to how to get the DM “on your side”.
 
-### Tools
+### Game Tools
 
 #### [Roll20](https://roll20.net/)
 Makes it easy to play tabletop games online with very good random dice rolls and tools for drawing your battle map.
