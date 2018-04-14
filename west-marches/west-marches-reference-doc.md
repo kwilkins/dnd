@@ -113,7 +113,7 @@ Some motivation ideas
 Personal quests are quests a character is found by, invents, or chooses to undertake.  When you know of something in the wilds and it inflames your passions, write yourself a major quest and tell the GM what it is.  While in an adventuring party you can share your quest with the others, tell them why you care and ask your allies to help you.  If the party completes the personal quest of anyone within the play session, everyone gains a 30% xp boost.
 
 ## 5e Rules in West Marches
-While I do run my West Marches games using the 5e ruleset, not all of the different rules I like to play with are appropriate for the this type of game. The West Marches runs in a very tight time window, is usually more combat involved than roleplay, and leans more to the RAW interpreation of 5e. Most of these rules are identified with a superscript WM throughout this document.
+While I do run my West Marches games using the 5e ruleset, not all of the different rules I like to play with are appropriate for the this type of game. The West Marches runs in a very tight time window, is usually more combat involved than roleplay, and leans more to the RAW interpreation of 5e.
 
   * Aarakocra is a suitable choice for a character's race
   * The Blood Hunter is a suitable choice for a character's class
