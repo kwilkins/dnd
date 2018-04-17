@@ -68,7 +68,7 @@ Downtime options:
 
 Improve this feature to level 1 to gain the following option:
 * Provide information about monster whereabouts or practical uses for monster parts
-  * Requires completion of a *deadly hunt*
+  * Requires completion of a *deadly hunt*(completed)
 
 ## Guild Hall (level 2)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
@@ -85,15 +85,15 @@ Features:
 Improve this feature to level 3 to gain the following feature:
 * Hirelings! They cost money and can be given a cut of xp to level up.
 
-## Monument of Heroes (level 1)
+## Monument of Heroes (level 2)
 A statue of Muriel in a heroic pose
 
 Downtime options:
 * Look badass(level 0)
-* Buy xp, 1-to-1 for silver, can only ascend to level 3 AND the level your highest character has achieved(level 1)
+* Buy xp, 1-to-1 for silver, can ascend to level 6 OR the level your highest character has achieved, which ever is lower
 
 Improve this feature to level 2 to gain the following feature:
-* Increase max level to 7
+* Increase max level to 9
 
 ## Town Wizard (level 1)
 Local magic shop that sells, buys, and identifies magical artifacts. 
