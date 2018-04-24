@@ -253,11 +253,11 @@ Spell specific house rules:
 I am allowing these spell options from the following Unearthed Arcana:
 
   * [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
-    * Conjure Barlgura(4th level; sorcerer|wizard)
-    * Conjure Hezrou(7th level; sorcerer|wizard)
-    * Conjure Lesser Demon(3rd level; sorcerer|wizard)
-    * Conjure Shadow Demon(4th level; sorcerer|wizard)
-    * Conjure Vrock(5th level; sorcerer|wizard)
+    * Conjure Barlgura(4th level; sorcerer\|wizard)
+    * Conjure Hezrou(7th level; sorcerer\|wizard)
+    * Conjure Lesser Demon(3rd level; sorcerer\|wizard)
+    * Conjure Shadow Demon(4th level; sorcerer\|wizard)
+    * Conjure Vrock(5th level; sorcerer\|wizard)
 
   * [Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
     * Wild Cunning(1st level; druid|ranger)
