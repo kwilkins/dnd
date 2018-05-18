@@ -80,6 +80,7 @@ This isn't a complete list of all released UA content, usually if the content lo
   * #### Gothic Heroes
   * #### Kits of Old
   * #### [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
+    I like this UA because it does two things a) offers a compelling subrace choice for tieflings and b) it details new spells for a a new area of magic, summoning demons! The PHB's tiefling is rebranded as *infernal* and the new one is introduced as *abyssal*. While the mechanic differences are a different take on each of their themes, the flavor allows the player to choose which type of creature from the hells to stem from(demon or devil). The spells are a little more complex than typical but tie into the theme of dark magic(which I love). These spells are only available to sorcerer and wizard. The warlock's spell slot economy is different, so that's probably why they didn't get them(easily fixable by patron granted abilites) but I do wonder why the cleric was left out. Clerics can certainly be evil and dark, why shouldn't they be able to summon a Vrock?
   * #### Light, Dark, Underdark!
   * #### Prestige Classes and Rune Magic
   * #### Ranger
