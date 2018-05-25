@@ -15,34 +15,42 @@ Proprietor: Captain Amy Starc(Human Fighter)
 
 Downtime options:
 * Roll a Strength, Dexterity, or Charisma check to gain some information from the town guards(level 0)
-* Spend 25gp to gain [lvl] Fitness Die (d4). You can spend this die at any time in the next adventure on any Strength, Dexterity or Constitution check, saving throw or skill use.(level 1)
+* Spend 25gp to gain a fitness bonus(1d4). You can use this bonus at any time on a Strength, Dexterity or Constitution skill check or saving throw *before* you make the roll.(level 1)
+  * Can have multiple, but cannot use multiple uses on a single roll.
 
 Improve this feature to level 2 to gain the following options:
 * Auto succeed on your info roll for common information that the guards would know
-* Gain a One-time advantage on any Strength, Dexterity or Charisma skill or saving throw(you have this until you use it, cannot stack)
+* Add another d4 to fitness bonus option
+* Gain a one-time advantage on any Strength, Dexterity or Charisma skill or saving throw
+  * Cannot have multiple.
 
 OR
 
+* Add another d4 to fitness bonus option
 * Ability to hire soldiers/mercenaries to hold *secured* points of interest.
 * Comes with one force of medium prowess the party can station up until a predetermined trigger. Continue to upgrade for more forces.
 
-## Library (level 1)
+## Library (level 2)
 Spend your time in study at the Town Library.
 
 Proprietor: Carter Bishop(Half-Elf Scholar)
 
 Downtime options:
 * Roll an Intelligence, Wisdom, or Charisma check to gain some research you went looking for in the library(level 0)
-* Spend 25gp to gain [lvl]Study Dice (d4) You can spend these dice at any time in the next adventure on any Intelligence, Wisdom, or Charisma check, saving throw, or skill use.(level 1)
+* Spend 25gp to gain a study bonus(2d4) You can use this bonus at any time on an Intelligence, Wisdom, or Charisma skill check or saving throw *before* you make the roll.(level 2)
+  * Can have multiple, but cannot use multiple uses on a single roll.
+* Designate a topic, place, item, individual, etc to be researched by a scholar quorum and receieve information as if suceeding on a *hard* skill check.(level 2)
+  * This action can only be used once per downtime phase.
 
-Improve this feature to level 2 to gain the following options:
-* Auto succeed on your research roll for common information that might be in the library
-* Gain a One-time advantage on any Intelligence, Wisdom or Charisma skill or saving throw(you have this until you use it, cannot stack)
+Improve this feature to level 3 to gain the following options:
+* Gain a one-time advantage on any Intelligence, Wisdom or Charisma skill or saving throw.
+  * Cannot have multiple.
+* Add another d4 to the study bonus option
 
 OR
 
-* Ability to hire scholars/explorers to investigate locations or topics of interest.
-* Comes with one quorum the party can receieve knowledge from *only once per downtime phase*. Continue to upgrade in order to improve their research abilities.
+  * Add another scholar quorum; +1 action use or use multiple quorums together to recieve more information.
+  * Add another d4 to study die option
 
 ## Temple of Hverra (level 2)
 Spend your time volunteering at the temple.
@@ -50,25 +58,26 @@ Spend your time volunteering at the temple.
 Proprietor: Sarah Cope(Human Cleric)
 
 Downtime options:
-* Roll an Intelligence, Wisdom, or Charisma to gain some knowledge from the clerics or patrons in the temple(level 0)
-* Spend 25gp to buy a 1 Potion of Healing(level 1)
-* Take a free Potion of Healing(level 2)
-* Gain a One-time advantage on any Wisdom, Constitution or Charisma skill or saving throw(you have this until you use it, cannot stack)(level 2)
+* Roll an Intelligence, Wisdom, or Charisma to gain some knowledge from the clerics or patrons in the temple.(level 0)
+* Spend 25gp to buy one Potion of Healing.(level 1)
+* Take one free Potion of Healing.(level 2)
+* Gain a one-time advantage on any Wisdom, Constitution, or Charisma skill or saving throw.(level 2)
+  * Cannot have multiple.
 
 Improve this feature to level 3 to gain the following option:
-* Spend 75gp to buy a Potion of Greater Healing
+* Spend 75gp to buy a Potion of Greater Healing.
 
 ## Jager Lodge (level 0)
-Help catalog specimens, organize reports, and research uses for monsters.
+Help catalog specimens, organize reports, and research uses for monsters and beasts.
 
 Proprietor: Jager Wynglass(Gnome Hunter)  
 
 Downtime options:
-* Offer monster/hunting related quests(level 0)
+* Offer hunting related quests for rewards.(level 0)
 
 Improve this feature to level 1 to gain the following option:
-* Provide information about monster whereabouts or practical uses for monster parts
-  * Requires completion of a *deadly hunt*(completed)
+* Provide information about monster whereabouts or uses for monster parts.
+  * ~~Requires completion of a *deadly hunt*~~
 
 ## Guild Hall (level 2)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
@@ -76,11 +85,12 @@ Attached to Munder's Tavern, this is the centralized outpost for adventurers to 
 Proprietor: Goldust(Half-Orc Retired Wrestler)  
 
 Features:
-* Place to live(level 0)
-* Adventurer's Fund – Ask DM for current balance(level 1)
-  * Funds always available for improving a town feature
-  * Vote as party to use funds for other purpose
-* Bank account for each adventurer; store gold at guild hall and if your character dies, their account goes into the central fund(level 2)
+* Provides a place to stay, hang, drink.(level 0)
+* Adventurer's fund, ask DM for current balance.(level 1)
+  * Any gold contributed is rewarded with 1.5 times the amount in xp.
+  * Funds always available for improving a town feature. Vote as party to use funds for another purpose.
+* Secure storage, store gold or items in the guild hall vaults to leave behind while you adventure.(level 2)
+  * If your character dies, their stored gold and items are sold for central fund.
 
 Improve this feature to level 3 to gain the following feature:
 * Hirelings! They cost money and can be given a cut of xp to level up.
@@ -90,35 +100,39 @@ A statue of Muriel in a heroic pose
 
 Downtime options:
 * Look badass(level 0)
-* Buy xp, 1-to-1 for silver, can ascend to level 6 OR the level your highest character has achieved, which ever is lower
+* Buy xp, 1-to-1 for silver, can ascend to level 6 OR the level your highest character has achieved, which ever is lower.(level 2)
 
-Improve this feature to level 2 to gain the following feature:
-* Increase max level to 9
+Improve this feature to level 3 to gain the following feature:
+* Increase max level to 9.
 
-## Town Wizard (level 1)
+## Town Wizard (level 2)
 Local magic shop that sells, buys, and identifies magical artifacts. 
 
 Proprietor: Boyland(Human Wizard)  
 
 Downtime options:
-* Is pompous(level 0)
-* Will completely identify magical artifacts for 75gp(level 1)
+* Is pompous.(level 0)
+* Runs a magic shop that adventures can buy/sell magic items from in game.(level 0)
+* Will completely identify magical artifacts for 75gp.(level 1)
+  * Will not reveal curses.
+* Can strip magic essence out of an object, which destroys the object.(level 2)
+  * Cursed items will behave...unpredictable.
 
-Improve this feature to level 2 to gain the following options:
-* Can strip magic essence out of an object(destroying it)
+Improve this feature to level 3 to gain the following options:
+* Will completely identify magical artifacts for free.
  
 ## Blacksmith (level 2)
 
 Proprietor: Flint Fleetwhistle(Dwarf Craftsman)
 
 Downtime options:
-* Will buy/sell normal armor or weapons(level 0)
-* Can reforge weapons/armor at cost(level 1)
-* Can graft magical properties into non magical weapons/armor given materials; magical essence, another weapon/armor, or sometimes just gp(level 2)
+* Will buy/sell normal armor or weapons.(level 0)
+* Can reforge weapons/armor at cost.(level 1)
+* Can graft magical properties into non-magical weapons/armor given materials; magical essence + weapon/armor.(level 2)
 
 Improve this feature to level 3 to gain the following options:
-* Can graft magical properties into existing magical weapons/armor given materials(magical essence, another weapon/armor)
-  * Requires a Magical Forge
+* Can graft magical properties into magical weapons/armor given magical essence + gp, limit of 2 magical effects.
+  * Requires a *magical forge*.
 
 ## Improve Padfoot’s Landing
 Spend your Downtime Action building an improvement for Viriskali. Pay the cost to establish a new town feature or level up an existing town feature.
