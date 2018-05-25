@@ -8,8 +8,28 @@ Pick one of the choices below or tell the DM what you want to do/accomplish duri
 ## Hard Work
 Spend your action doing a little extra hard work. Tell the other players what you did for work, and gain [level]d8 gp.
 
+## Garage (level 1)
+Spend your action crafting an item using your knowledge, materials(gp) and a little elbow grease.
+
+Proprietor: Optimal(Tiefling Engineer)  
+
+Downtime options:
+* Craft an item of uncommon rarity or lower. Discuss with DM for cost.(level 1)
+  * If you are not proficient with a related toolset, roll to see how succesful you are.
+  * Special items might require an exotic ingredient.
+
+| Rarity    | DC | Minimum Level |
+| --------- |:--:|:---:|
+| Common    | 7  | -   |
+| Uncommon  | 10 | 3rd |
+| Rare      | 15 | 6th |
+| Very Rare | 20 | 9th |
+
+Improve this feature to level 2 to gain the following options:
+* Increase rarity limit to rare.
+
 ## Garrison (level 1)
-Engage in fitness training at Padfoot's Landin's garrison with members of the guard. 
+Engage in fitness training at Padfoot's Landin's garrison with members of the guard.
 
 Proprietor: Captain Amy Starc(Human Fighter)  
 
@@ -116,7 +136,7 @@ Downtime options:
 * Will completely identify magical artifacts for 75gp.(level 1)
   * Will not reveal curses.
 * Can strip magic essence out of an object, which destroys the object.(level 2)
-  * Cursed items will behave...unpredictable.
+  * Cursed items will behave...unpredictably.
 
 Improve this feature to level 3 to gain the following options:
 * Will completely identify magical artifacts for free.
