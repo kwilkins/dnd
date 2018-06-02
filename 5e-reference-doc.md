@@ -249,6 +249,7 @@ All spells from Xanthar’s Guide to Everything(this includes spells from the El
 Spell specific house rules:
   * Healing Spirit - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
     * <a target="_blank" href='https://twitter.com/JeremyECrawford/status/935992604080013312'>This is a rule suggested by Jeremy Crawford</a>
+  * ???Identify - this spell can be used to identify multiple objects/creatures during the casting of the spell, casting time is changed to 10 minutes, and casting this spell consumes the 100gp pearl at the end.???
 
 I am allowing these spell options from the following Unearthed Arcana:
 
@@ -313,7 +314,7 @@ You cannot mix poisons to get a combined effect, they are carefully crafted to w
 ### Magic Items
 I try to make magic items slightly rarer but more interesting.
 
-You can identify basic magic effects during a short rest (like a +1 attack bonus) per RAW, but you will need to get an item properly identified for more information about activation words, spells, and other special effects if they exist.
+You can identify basic magic effects during a short rest (like a +1 attack bonus) per RAW, but you will need to get an item properly identified for more information about activation words, spells, charges, and other special effects if they exist.
 
 ### Tools
 I find tools slightly lacking use in 5e. They aren't very well defined in the PHB, it kind of just states that they exist. XGtE expands on the uses of tools which is a step in the right direction, but rather than defining what you can do with a certain toolset I like hearing from my players what they want to use tools for. Using tools might grant characters a skill check bonus, additional abilities or other ways to help the party; cartographer's tools can be used to help map areas, cook's utensils can be used to make meals or rations, and making good use of a forgery kit can always be of use.
@@ -401,14 +402,29 @@ Distance and movement in 5e is a little weird to me because grid diagonals use t
 These extra options apply to NPCs and PCs equally. Remember, there is no set list of possible actions for what your character to do. If you’d like to do something that isn’t quite this or isn’t quite that, tell me what you’d like to do!
 
 #### Grappling
-When grappling a target your size or smaller, you can use your action to pin them. You become prone, and your target becomes prone and incapacitated. They may still make checks to attempt escape the grapple (and the pin) with disadvantage. Your prone condition ends if you stop grappling the target and stand up.
+When attempting to grapple a creature, size can play an important roll. An elf will have a harder time trying to grapple a large ogre compared to a halfing, but a tiny rabbit can also deftly dodge a human trying to grab it.
 
-When grappling a target your size or smaller, as an action you can attempt to throw them, knocking them prone when they land. Make an athletics check with a -7 modifier, that is how many feet you throw them(minimum of 0 feet).
+| Size Comparison | Skill Check |
+|:--- |:---: |
+| More than one size larger | - |
+| One size larger | Disadvantage |
+| Same size | Regular |
+| One size smaller | Advantage |
+| More than one size smaller | Disadvantage |
+
+Once you have succesfully grappled a target, you can move/drag that creature as normal OR try one of the following grappled creature options:
+
+* Pinning a Grappled Creature  
+When grappling a target your size or smaller, you can use your action to attempt *pin* them. Make an athletics check contested by their choice of athletics or acrobatics. On a success, both of you are knocked prone and your target is rendered restrained. These conditions end if you stop grappling the target or stand up.
+
+* Throwing a Grappled Creature  
+When grappling a target your size or smaller, as an action you can attempt to throw them in a specific direction. Make an athletics check with a -7 modifier to see how many feet feet you throw them, knocking them prone when they land. On a result of 0 or lower they are not moved or knocked prone but the grapple condition ends.
 
 #### Moving an Ally
-As an action, you can pick up and carry an ally if they are your size or smaller; if they are your size, you can only move at half speed while carrying them. You automatically drop your ally if you become incapacitated or prone. If you are moved against your will, you must succeed on a DC 10 Dexterity saving throw or drop your ally. 
+As an action, you can pick up and carry an ally if they are your size or smaller; if they are your size, you can only move at half speed while carrying them. You automatically drop your ally if you become incapacitated or prone. If you are moved against your will, you must succeed on a DC 10 Dexterity saving throw or drop your ally.  
+Alternatively, as a free object interaction, you can drag an ally if they are your size or smaller; you can only move at half speed while dragging them.
 
-Alternatively, as a free object interaction, you can drag an ally if they are your size or smaller; you can only move at half speed while dragging them.  While carrying or dragging an ally, enemies have advantage on attacks against you.
+While carrying or dragging an ally, enemies have advantage on attacks against you.
 
 #### Knocking Aside Shields
 As an action, you can use a melee weapon that deals bludgeoning damage with damage dice of d6 or greater to try to knock away a foe’s shield. Declare your intention to use this special attack before rolling. If you successfully hit your target, they’re AC will be considered to have no shield bonus until their next turn.
@@ -417,7 +433,7 @@ As an action, you can use a melee weapon that deals bludgeoning damage with dama
 When you ready your action for an attack, you can take all the attacks you’re normally entitled to for a normal attack action. If you would like to split your attacks up, you must specify targets when readying the action. If they are no longer available to attack or out of your range you lose those attacks.
 
 #### Grenades/Oil Flasks/etc
-When a grenade-type weapon is used the attack is made against the square the target is in (not the target themselves), the square has an AC of 7. The attack is made using the Dexterity modifier of the character and is considered an improvised weapon (no proficiency bonus, range 20/60). Advantage or disadvantage from things like sight, being hidden, dodge action, etc are not applied to this attack. If the attack hits, the grenade shatters at the feet of the character and all effects are applied as usual. If the attack misses roll a d8 to determine which direction the grenade lands, it will land the difference between the AC and the attack roll (7 minus attack roll) squares away in that direction(1 being “map north” traveling clockwise) having its usual effect in that square and any adjacent squares as appropriate.
+When a grenade-type weapon is used the attack is made against the square the target is in (not the target themselves), the square has an AC of 7. The attack is made using the Dexterity modifier of the character and is considered an improvised weapon (no proficiency bonus, range 20/60). Advantage or disadvantage from things like sight, being hidden, dodge action, etc are not applied to this attack. If the attack hits, the grenade activates at the feet of the character and all effects are applied as usual. If the attack misses roll a d8 to determine which direction the grenade lands, it will land the difference between the AC and the attack roll (7 minus attack roll) squares away in that direction(1 being “map north” traveling clockwise) having its usual effect in that square and any adjacent squares as appropriate.
 
 ### Critical Hits
 When rolling for an attack and you land a critical hit, you get to choose:
