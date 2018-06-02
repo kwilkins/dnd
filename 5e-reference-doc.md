@@ -84,13 +84,13 @@ The following race options from Volo's Guide to Monsters:
   * Firbolg
   * Goliath
 
-The following race options from the [Elemental Evil Player's Companion](http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf) supplement:
+The following race options from the <a target="_blank" href='http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf'>Elemental Evil Player's Companion</a> supplement:
   * ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
   * Deep Gnome(subrace)
   * Genasi
 
 The following race options from the following Unearthed Arcana:
-  * [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
+  * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Infernal Tiefling(subrace; standard tiefling from the PHB)
     * Abyssal Tiefling(subrace)
 
@@ -103,7 +103,7 @@ I don’t allow feats at first level. Instead of the variant traits offered in t
 ### Playable Classes
 All of the class options from the Player’s Handbook and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
 
-?The [Blood Hunter](https://www.dndbeyond.com/characters/classes/blood-hunter) class option written by Matthew Mercer?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
+?The <a target="_blank" href='https://www.dndbeyond.com/characters/classes/blood-hunter'>Blood Hunter</a> class option written by Matthew Mercer?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
 
 ### Expanded Class Options
 
@@ -111,10 +111,10 @@ All of the class options from the Player’s Handbook and Xanthar's Guide to Eve
 When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
 #### Ranger – The Ranger, Revised
-I think that [the Revised Ranger](http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf) from WoTC’s Unearthed Arcana is a suitable(and better) replacement for the Ranger class from the PHB. 
+I think that <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>the Revised Ranger</a> from WoTC’s Unearthed Arcana is a suitable(and better) replacement for the Ranger class from the PHB. 
 
 #### Sorcerer – Tides of Chaos
-The [Tides of Chaos](https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr) subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
+The <a target="_blank" href='https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr'>Tides of Chaos</a> subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
 
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
@@ -138,7 +138,7 @@ Having a backstory in addition to your character's background isn't required, bu
 In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment.  If that means you adhere to a single alignment, great!  If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
 > I tend to look at alignment in terms of how or why they would kill another person
 
--[Neal Erickson](https://twitter.com/koibu0)
+-<a target="_blank" href='https://twitter.com/koibu0'>Neal Erickson</a>
 
 <style>
   .alignment-title {
@@ -202,7 +202,7 @@ All of the feat options from the Player’s Handbook
 All of the *racial* feat options from Xanathar's Guide to Everything
 
 I am allowing these feat options from the following Unearthed Arcana:  
-  * [Feats](http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf)
+  * <a target="_blank" href='http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf'>Feats</a>
     * Fell Handed(no +1 to attack)
     * Blade Mastery(no +1 to attack)
     * Flail Mastery(no +1 to attack)
@@ -212,7 +212,7 @@ I am allowing these feat options from the following Unearthed Arcana:
     * Gourmand
     * Master of Disguise (will work within reason, you can’t craft a believable Ancient Dragon disguise in 8 hours)
   
-  * [Feats for Races](http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf)
+  * <a target="_blank" href='http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf'>Feats for Races</a>
     * Critter Friend(gnome)
     * Wonder Maker(gnome)
     * Orcish Aggression(half-orc)
@@ -248,23 +248,23 @@ All spells from Xanthar’s Guide to Everything(this includes spells from the El
 
 Spell specific house rules:
   * Healing Spirit - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
-    * [This is a rule suggested by Jeremy Crawford](https://twitter.com/JeremyECrawford/status/935992604080013312)
+    * <a target="_blank" href='https://twitter.com/JeremyECrawford/status/935992604080013312'>This is a rule suggested by Jeremy Crawford</a>
 
 I am allowing these spell options from the following Unearthed Arcana:
 
-  * [That Old Black Magic](https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf)
+  * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Conjure Barlgura(4th level; sorcerer\|wizard)
     * Conjure Hezrou(7th level; sorcerer\|wizard)
     * Conjure Lesser Demon(3rd level; sorcerer\|wizard)
     * Conjure Shadow Demon(4th level; sorcerer\|wizard)
     * Conjure Vrock(5th level; sorcerer\|wizard)
 
-  * [Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+  * <a target="_blank" href='https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf'>Starter Spells</a>
     * Wild Cunning(1st level; druid\|ranger)
     * Unearthly Chorus(1st level; bard)
 
 ### Schools of Magic
-I’ve compiled some [helpful notes and ideas](https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB) for differentiating the schools of magic.
+I’ve compiled some <a target="_blank" href='https://www.gmbinder.com/share/-L06coxt7s5PcQx66hRB'>helpful notes and ideas</a> for differentiating the schools of magic.
 
 ### Knowing Spell Effects
 Normally when a spell is cast its name, effects, and target are announced to the table by the caster and players can use this knowledge to respond or react appropriately. But there are situations when this information can be withheld; spell level, creatures with innate spellcasting, or magical obfuscation.
@@ -323,7 +323,7 @@ I find tools slightly lacking use in 5e. They aren't very well defined in the PH
 ### Inspiration
 Inspiration is a way I can reward my players for following their character’s personality traits, ideals, bonds, or flaws. By using inspiration, you can draw on your personality trait of compassion for the poor and downtrodden to give you an edge with the Beggar Prince. Or inspiration can let you use your flaw to seek knowledge at your own peril to push past the effects of a trap protecting ancient ruins. There are two different ways you can use inspiration in game.
 
-[Full rules and description can be found here](https://www.gmbinder.com/share/-L06OGYQk9Q0VIf2EQOZ)
+<a target="_blank" href='https://www.gmbinder.com/share/-L06OGYQk9Q0VIf2EQOZ'>Full rules and description can be found here</a>
 
 #### Invoke Advantage – Player Driven
 You can invoke advantage for your character on rolls when your character's personality trait, ideal, bond, or flaw is relevant in the story and your character is not incapacitated. Once one of characteristics have been invoked to give yourself advantage, it is marked and cannot be used until it gets unmarked. When one of your characteristics is invoked to grant yourself disadvantage, you can choose to unmark any single characteristic of your choice. At the start of a new session, all characteristics get unmarked.
@@ -461,22 +461,22 @@ In addition to DMing standard Dungeons and Dragons campaigns, I've also been run
 I use a lot of these resources when DMing, playing, and even writing this document.  Hopefully you find some of these useful.
 
 ### Official Content
-#### [Unearthed Arcana](https://www.learningdnd.com/resource/unearthed-arcana-list/)
+#### <a target="_blank" href='http://www.learningdnd.com/resource/unearthed-arcana-list/'>Unearthed Arcana</a>
 From time to time, WotC will put out unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. Here is a list of everything WotC has released.
 
-#### [Sage Advice & Errata](http://dnd.wizards.com/articles/sage-advice)
+#### <a target="_blank" href='http://dnd.wizards.com/articles/sage-advice'>Sage Advice & Errata</a>
 WotC releases fixes for mistakes or clarifications to published content as needed. The document is cumulative, so the most recent posting usually has everything they have fixed. You might be surprised to read an official ruling that changes mechanics you use.
 
 ### Unofficial Content
-#### [r/dnd](https://www.reddit.com/r/DnD/ )
+#### <a target="_blank" href='https://www.reddit.com/r/DnD/'>r/dnd</a>
 By no means an official source of information, and sometimes a terrible source of information, but I really enjoy the weekly questions thread submitted every Monday(usually pinned near the top). Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, roleplaying ideas, and rule clarifications.
 
-#### [Koibu’s Corner](https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1)
+#### <a target="_blank" href='https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1'>Koibu’s Corner</a>
 Neal Erickson is an incredible DM who does enjoy playing 2nd edition D&D more so than newer systems, but his wealth of information and years of experience in the game is still invaluable whether you agree with his interpretation of the grease spell or not.  From time to time he records little talks about different aspects of playing D&D, from why character death is cool to how to get the DM “on your side”.
 
 ### Game Tools
 
-#### [Roll20](https://roll20.net/)
+#### <a target="_blank" href='https://roll20.net/'>Roll20</a>
 Makes it easy to play tabletop games online with very good random dice rolls and tools for drawing your battle map.
 
 #### 5e System Reference Document (SRD)

@@ -22,7 +22,7 @@ Rules for exploring the wilds
 > Where will the players go? What rumors will they pursue? The townsfolk and outriders will gladly keep them informed of local happenings, but the choice is in the players' hands. They can strike out for a known landmark, search out the seasonal trappers' camp, or simply explore, allowing adventure to find them instead.  
 > Some of what you find will be known, some will simply be rumor, but much will be utter unknown. You choose where to go and what to do. There will be a handful of obvious choices, but you don't by any means need to take them.
 
--[Steven Lumpkin](https://twitter.com/Silent0siris)
+-<a target="_blank" href='https://twitter.com/Silent0siris'>Steven Lumpkin</a>
 
 In a West Marches style game, there is no set player roster, making it a perfect kind of game to run as a series of one-shots but within a persistent and shared world with many different players and characters.
 
@@ -51,7 +51,7 @@ These watches are rougly spent with the party sleeping for two to three and awak
 ### Travel
 
 #### Hexes
-The term *hexcrawl* comes from the map design, which is literally a bunch of hexes. Each hex represents an area on the map with their own locations and notes, with a larger group of hexes make up an area or environment of the world with their own theme and encounter tables. My hexes are each hex is 6 miles in diameter, 7 miles slanted diameter, and about 3 miles from the middle to an edge(3.5 to a vertex). [This makes traveling math easier](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html).
+The term *hexcrawl* comes from the map design, which is literally a bunch of hexes. Each hex represents an area on the map with their own locations and notes, with a larger group of hexes make up an area or environment of the world with their own theme and encounter tables. My hexes are each hex is 6 miles in diameter, 7 miles slanted diameter, and about 3 miles from the middle to an edge(3.5 to a vertex). <a target="_blank" href='http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html'>This makes traveling math easier</a>.
 
 #### Speed and Distance
 Traveling throughout the West Marches is typically done at a steady pace of 3 miles per hour, with roads and natural obstacles speeding or slowing progress. At this pace, the average party can travel through 4 hexes(24 miles) per day. Addtionally the party can attempt to travel 2 more hexes(a total of 36 miles), but each party member must succeed on a constitution saving throw or take a level of exhaustion.
@@ -124,10 +124,10 @@ While I do run my West Marches games using the 5e ruleset, not all of the differ
 ## The Inspiration
 I fell in love with this game type while watching Rollplay's West Marches series, so I draw heavy heavy inspiration from it. The cast was a revolving set of personalities that always brough new and radically different adventures to the table. Steven Lumpkin, the Game Master behind the idea, was always pushing the characters into the new, the strange and the weird. Even better, Steven shared a lot of the resources he used to build his world and influence the rules, which in turn has done the same to my own. So now you know who to blame when you contract Necrotic Leprosy or have to strike a bargin with the Wounded Wretch.
 
-[The West Marches series on YouTube](https://www.youtube.com/playlist?list=PL-oTJHKXHicSxKhs57c2hYuoPcayPoBJc)
+<a target="_blank" href='https://www.youtube.com/playlist?list=PL-oTJHKXHicSxKhs57c2hYuoPcayPoBJc'>The West Marches series on YouTube</a>
 
-[The Official Unofficial West Marches Wiki](http://rollplaywestmarches.wikia.com/wiki/Main_Page)
+<a target="_blank" href='http://rollplaywestmarches.wikia.com/wiki/Main_Page'>The Official Unofficial West Marches Wiki</a>
 
-[Launching Rollplay's The West Marches](https://www.reddit.com/r/itmejp/comments/2hdt96/one_shot_the_west_marches/)
+<a target="_blank" href='https://www.reddit.com/r/itmejp/comments/2hdt96/one_shot_the_west_marches/'>Launching Rollplay's The West Marches</a>
 
-[A collection of West Marches Resources](https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/)
+<a target="_blank" href='https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/'>A collection of West Marches Resources</a>
