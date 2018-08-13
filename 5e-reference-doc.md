@@ -40,6 +40,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
   - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
   - [Movement and Distance](#movement-and-distance)
+  - [Dropping to 0 Hit Points](#dropping-to-0-hit-points)
   - [Expanded Combat Actions](#expanded-combat-actions)
   - [Critical Hits](#critical-hits)
   - [Critical Fails](#critical-fails)
@@ -107,14 +108,27 @@ All of the class options from the Player’s Handbook and Xanthar's Guide to Eve
 
 ### Expanded Class Options
 
-#### Druid – Wild Shape
-When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
+#### Druid
+  * Wild Shape – I like the idea of each wild shape being unique in some small way, but didn't want players to feel punished on a bad shapeshift.
+    * When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
-#### Ranger – The Ranger, Revised
-I think that <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>the Revised Ranger</a> from WoTC’s Unearthed Arcana is a suitable(and better) replacement for the Ranger class from the PHB. 
+#### Ranger
+  * The Ranger, Revised – The ranger has long been thought of as the weakest class in 5e, both in combat and utility. WotC is in an odd place on how to fix this, but they've taken a few stabs at alternative class write ups. I think the latest works rather well.
+    * I would prefer you use <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>this Revised Ranger</a> instead of the one from the PHB. 
 
-#### Sorcerer – Tides of Chaos
-The <a target="_blank" href='https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr'>Tides of Chaos</a> subclass is a replacement for the Wild Magic RAW. Instead of a static one-in-twenty chance of a surge happening, it uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of occurring.
+#### ???Paladin???
+  * Alternate Oaths
+    * Oath Breaker
+    * Oath of the Scale
+
+#### Sorcerer
+  * Tides of Chaos – Instead of a static one-in-twenty chance of a surge happening, this uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of one occurring.
+    * I would prefer you to use <a target="_blank" href='https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr'>this Tides of Chaos</a> system instead of the one in the PHB.
+
+#### ???Warlock???
+  * Alternate Patrons – There are almost an infinite number of powerful entities looking for followers across the planes of existence, warlock homebrew might be the easiest to add both mechanically and flavorwise for this reason. Below are a few other options of possible patrons, but also feel free to take an existing one and give it a new name! Instead of ArchFey it could be Santa Claus, or instead of a Fiend style it after a dragon.
+    * Modron Prime
+    * Kraken
 
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
@@ -397,6 +411,9 @@ If you are unsure of something, always feel free to ask questions to clarify som
 
 ### Movement and Distance
 Distance and movement in 5e is a little weird to me because grid diagonals use the same length as a grid side, 5ft. This tends to break the idea of distance on a combat grid when targeting from diagonals lets you get 40% more range. The DMG offers a suitable alternative rule for diagonals – every other diagonal will cost double the distance; 5, 15, 20, 30, etc<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>.
+
+### Dropping to 0 Hit Points
+While I'm not changing anything mechanically from RAW when a character drops to 0 hit points, I like to think your character retains some semblance of awareness of what is happening around them. This is more to drive the narrative that if your character gain some hit points to return to the battle you aren't clueless as to what happened or if they end up dying we can give them a final scene or some last words.
 
 ### Expanded Combat Actions
 These extra options apply to NPCs and PCs equally. Remember, there is no set list of possible actions for what your character to do. If you’d like to do something that isn’t quite this or isn’t quite that, tell me what you’d like to do!
