@@ -5,6 +5,7 @@ Personal D&D nerfs, buffs, options, and philosophy
 <!-- TOC -->
 
 - [What is this?](#what-is-this)
+- [Game Rules](#game-rules)
   - [Fifth Edition as a Game System](#fifth-edition-as-a-game-system)
   - [RAW vs RAI vs RAF](#raw-vs-rai-vs-raf)
 - [Character Customization](#character-customization)
@@ -35,6 +36,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Party Conflict](#party-conflict)
   - [XP and Leveling Up](#xp-and-leveling-up)
   - [Healing](#healing)
+  - [Resurrection](#resurrection)
   - [Resting in Armor](#resting-in-armor)
 - [Combat](#combat)
   - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
@@ -45,10 +47,11 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Critical Hits](#critical-hits)
   - [Critical Fails](#critical-fails)
 - [The West Marches](#the-west-marches)
+- [Miscellaneous](#miscellaneous)
+  - [DM's Have HP Too](#dms-have-hp-too)
 - [Suggested Player Resources](#suggested-player-resources)
   - [Official Content](#official-content)
   - [Unofficial Content](#unofficial-content)
-  - [Game Tools](#game-tools)
 
 <!-- /TOC -->
 
@@ -59,8 +62,10 @@ This is a reference document detailing house rules, expanded options, and how I 
   * Content with a WM superscript adhere to slightly different rules for my West Marches games, you can find them all listed in the [West Marches Rules Reference Document](west-marches/west-marches-reference-doc.md)
   * Don’t ask me to look at or think about adding content from dandwiki
 
+## Game Rules
+
 ### Fifth Edition as a Game System
-Everybody has their own opinion on the many different editions and variants of Dungeons and Dragons. My first introduction to D&D was watching the original Rollplay series, a campaign run using a modified version of second edition D&D, so it’s fair to say I have fond memories of old school role playing game elements – death always being a possibility, semi permanent effects, meaningful consequences, and the game rules feeling grounded. In some ways, Fifth Edition (5e) can be seen as a departure from that style of play – some abilities break any sense of realism, many spells require addendums for special cases, and simply resting for a bit can heal wounds from swords or spells. 5e sacrifices many of these old core designs to make the game more easily digestible for its players, which isn’t necessarily a bad thing. For this part of the game’s design, Wizards of the Coast (WotC) spectacularly succeeded and has given D&D a resurgence of popularity in the last few years.
+Everybody has their own opinion on the many different editions and variants of Dungeons and Dragons. My first introduction to D&D was watching the original Rollplay series, a campaign run using a modified version of second edition D&D, so it’s fair to say I have fond memories of old school role playing game elements – death always being a possibility, semi permanent effects, meaningful consequences, and the game rules feeling grounded. In some ways, Fifth Edition (5e) can be seen as a departure from that style of play – some abilities break any sense of realism, many spells require addendums for special cases, and simply resting for a bit can heal wounds from swords or spells. 5e sacrifices many of these old core designs to make the game more easily digestible for its players, which isn’t necessarily a bad thing. For this part of the game’s design, Wizards of the Coast spectacularly succeeded and has given D&D a resurgence of popularity in the last few years.
 
 That said, even the lead designer behind 5e wishes they had done some things differently – like removing the bonus action. Another great thing about 5e is that it was also written with the idea in mind for variant rules and system modifications, which is great because the mechanics are easy to change when something doesn’t quite work like I’d like. So, in these two areas I really enjoy 5e as a system because it easily allows a group of players to play the game the way they want.
 
@@ -72,13 +77,13 @@ There all kinds of different ways of following rules, here are some general idea
   * RAI – Rules as Intended
     * This approach is what the designer meant when the rule was created. Sometimes the words written don’t successfully communicate the original intent, or there was an oversight in the original text(sometimes these get fixed in a later publishing).
   * RAF – Rules as Fun
-    * Sometimes we depart from what is written or what was intended, because D&D is meant to be fun. Ignoring the fact that Tim is supposed to be dead so he can say a few words before his character finally breathes his last can be more fun and add more story for the game.
+    * Sometimes we depart from what is written or what was intended, because D&D is primarily meant to be **fun**. Ignoring the fact that the spell *animal friendship* isn't supposed to work on monstrosities, the owlbear rolling a natural 1 for his save against the spell allows it to become charmed by Wrenn. This creates an incredibly fun scene and one of the most memorable moments for the campaign.
 
 All this is to say that there will be times when we follow the rules as written, there will be times when we follow the rules as intended, and there will be times when we purposely ignore rules to have a good time.
 
 ## Character Customization
 ### Playable Races
-All of the class options from the Player’s Handbook.
+All of the race options from the Player’s Handbook and Dungeon's Master Guide
 
 The following race options from Volo's Guide to Monsters:
   * Aasimar
@@ -102,7 +107,7 @@ I don’t allow feats at first level. Instead of the variant traits offered in t
   * Languages. You can speak, read, and write common and 2 other languages of your choice.
 
 ### Playable Classes
-All of the class options from the Player’s Handbook and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
+All of the class options from the Player’s Handbook, Dungeon Master's Guide, and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
 
 ?The <a target="_blank" href='https://www.dndbeyond.com/characters/classes/blood-hunter'>Blood Hunter</a> class option written by Matthew Mercer?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
 
@@ -118,7 +123,6 @@ All of the class options from the Player’s Handbook and Xanthar's Guide to Eve
 
 #### ???Paladin???
   * Alternate Oaths
-    * Oath Breaker
     * Oath of the Scale
 
 #### Sorcerer
@@ -129,6 +133,7 @@ All of the class options from the Player’s Handbook and Xanthar's Guide to Eve
   * Alternate Patrons – There are almost an infinite number of powerful entities looking for followers across the planes of existence, warlock homebrew might be the easiest to add both mechanically and flavorwise for this reason. Below are a few other options of possible patrons, but also feel free to take an existing one and give it a new name! Instead of ArchFey it could be Santa Claus, or instead of a Fiend style it after a dragon.
     * Modron Prime
     * Kraken
+    * The Night
 
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
@@ -260,10 +265,11 @@ All spells from the Player’s Handbook
 
 All spells from Xanthar’s Guide to Everything(this includes spells from the Elemental Evil supplement with some updates to the wording)
 
-Spell specific house rules:
-  * Healing Spirit - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
+Magic specific house rules:
+  * The spell *healing spirit* - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
     * <a target="_blank" href='https://twitter.com/JeremyECrawford/status/935992604080013312'>This is a rule suggested by Jeremy Crawford</a>
-  * ???Identify - this spell can be used to identify multiple objects/creatures during the casting of the spell, casting time is changed to 10 minutes, and casting this spell consumes the 100gp pearl at the end.???
+  * ???The spell *identify* - this spell can be used to identify multiple objects/creatures during the casting of the spell, casting time is changed to 10 minutes, and casting this spell consumes the 100gp pearl at the end.???
+  * Any spell that involves resurrecting a character - resurrecting a life is a nasty and uncertain business; even if you bring them back, they won't be exactly the same...
 
 I am allowing these spell options from the following Unearthed Arcana:
 
@@ -380,6 +386,14 @@ The purpose of these healing rules is twofold
   1. It represents the fact that getting stabbed with swords and beaten with clubs doesn't go away after a good night's sleep.  
   2. It places a value on and rewards good planning and use of healing magic. Potions are available for purchase, and jumping into a fight headlong because you can nap away the wounds isn’t viable.
 
+### Resurrection
+There is a ritual to resurrect a deceased character, most mid-tier divine spellcasters will typically do this for a price or favor. This ritual also follows the magic spell rules for resurrecting a character.
+
+Ritual requirements:
+  * a 1,000gp precious stone
+  * a significant magic item of permanence
+  * the deceased's body
+
 #### Natural Healing
 You recover your level(or your number of hit dice) in hit points(minimum of 1) each long rest. You can double this if you weren't in combat since your previous long rest.
 
@@ -490,57 +504,66 @@ In addition to DMing standard Dungeons and Dragons campaigns, I've also been run
 
 [West Marches Reference Document](west-marches/west-marches-reference-doc.html)
 
+## Miscellaneous
+
+### DM's Have HP Too
+When the DM's HP runs out they lose the will to run the game! Good players don't let that happen.
+
+These things can cause a DM to take damage:
+  * Checking your phone
+  * Meta-gaming
+  * Being late
+  * Leaving the table other than during a break
+  * etc.
+
+These things can help restore their HP:
+  * Inspired play
+  * Kindness
+  * Cookies & ice cream
+  * Talking with them about the game
+  * etc.
+
 ## Suggested Player Resources
-I use a lot of these resources when DMing, playing, and even writing this document.  Hopefully you find some of these useful.
+I use a lot of these resources when DMing, playing, and even writing this document. Hopefully you find some of these useful.
 
 ### Official Content
-#### <a target="_blank" href='http://www.learningdnd.com/resource/unearthed-arcana-list/'>Unearthed Arcana</a>
+#### <a target="_blank" href="http://www.learningdnd.com/resource/unearthed-arcana-list/">Unearthed Arcana</a>
 From time to time, WotC will put out unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. Here is a list of everything WotC has released.
 
-#### <a target="_blank" href='http://dnd.wizards.com/articles/sage-advice'>Sage Advice & Errata</a>
+#### <a target="_blank" href="http://dnd.wizards.com/articles/sage-advice">Sage Advice & Errata</a>
 WotC releases fixes for mistakes or clarifications to published content as needed. The document is cumulative, so the most recent posting usually has everything they have fixed. You might be surprised to read an official ruling that changes mechanics you use.
 
 ### Unofficial Content
-#### <a target="_blank" href='https://www.reddit.com/r/DnD/'>r/dnd</a>
+#### <a target="_blank" href="https://www.reddit.com/r/DnD/">r/dnd</a>
 By no means an official source of information, and sometimes a terrible source of information, but I really enjoy the weekly questions thread submitted every Monday(usually pinned near the top). Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, roleplaying ideas, and rule clarifications.
 
-#### <a target="_blank" href='https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1'>Koibu’s Corner</a>
+#### <a target="_blank" href="https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1">Koibu’s Corner</a>
 Neal Erickson is an incredible DM who does enjoy playing 2nd edition D&D more so than newer systems, but his wealth of information and years of experience in the game is still invaluable whether you agree with his interpretation of the grease spell or not.  From time to time he records little talks about different aspects of playing D&D, from why character death is cool to how to get the DM “on your side”.
 
-### Game Tools
+#### <a target="_blank" href="https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_">Matt Colville's Running the Game</a>
 
-#### <a target="_blank" href='https://roll20.net/'>Roll20</a>
-Makes it easy to play tabletop games online with very good random dice rolls and tools for drawing your battle map.
+While this video series is primarily about running the game as a DM, there are some great tidbits and entire videos that players can learn from as well!
 
 #### 5e System Reference Document (SRD)
 
-Each of these are great options to browse the SRD in an easy to navigate website.
-
-https://www.5thsrd.org/
-
-https://open5e.com/
-
+Each of these are great options to browse the SRD in an easy to navigate website.  
+https://www.5thsrd.org/  
+https://open5e.com/  
 https://roll20.net/compendium/dnd5e/BookIndex 
 
 #### Spell Lists
-In a perfect world, we would have a perfect system to handle looking up spell details.
-
-https://www.dnd-spells.com/spells
-
-https://roll20.net/compendium/dnd5e/BookIndex (scroll down for spells by classes)
-
+In a perfect world, we would have a perfect system to handle looking up spell details.  
+https://www.dnd-spells.com/spells  
+https://roll20.net/compendium/dnd5e/BookIndex (scroll down for spells by classes)  
 http://hardcodex.ru/ (pdf of spell cards to download or print)
 
 #### Random Generators
 
-A collection of random generators for all kinds of things! Also has some 5e specific tools.
-
+A collection of random generators for all kinds of things! Also has some 5e specific tools.  
 https://donjon.bin.sh/
 
-A generator specifically for all kinds of different names.
-
+A generator specifically for all kinds of different names.  
 https://www.fantasynamegenerators.com/
 
-Looking for character inspiration? Start here.
-
+Looking for character inspiration? Start here.  
 http://www.whothefuckismydndcharacter.com/
