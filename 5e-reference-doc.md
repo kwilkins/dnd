@@ -17,7 +17,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Backgrounds](#backgrounds)
   - [Alignment](#alignment)
   - [Feats](#feats)
-  - [Roleplaying](#roleplaying)
+  - [Role-playing](#role-playing)
 - [Spells and Magic](#spells-and-magic)
   - [Spells](#spells)
   - [Schools of Magic](#schools-of-magic)
@@ -151,10 +151,10 @@ All background options from any officially published WotC books (Player’s Hand
 
 Backgrounds are the simpliest to customize if for whatever reason the stock options don't appeal to you.
 
-Having a backstory in addition to your character's background isn't required, but I always think it is a good idea to have a sense of who your character is beyond game mechanics. How old are they? Did they recieve formal training for their skills? What kinds of relationships to they have with others? What was your childhood like? Knowing all this before playing session 1, purposely leaving gaps to discover as you play, or a mix of the two are all fine options. XGtE has an excellent collection of tables that can help form ideas for a fleshed out backstory.
+Having a backstory in addition to your character's background isn't required, but I always think it is a good idea to have a sense of who your character is beyond game mechanics. How old are they? Did they recieve formal training for their skills? What kinds of relationships to they have with others? What was your childhood like? Knowing all this before playing session 1, purposely leaving gaps to discover as you play, or a mix of the two are all fine options.
 
 ### Alignment
-In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment.  If that means you adhere to a single alignment, great!  If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
+In games I run, I’d always prefer you to play your character as they would behave rather than worry about strictly following an alignment. If that means you adhere to a single alignment, great! If that means your actions jump around depending on the circumstances, great!  Your character’s alignment is not the actions they take, but the motivation for their actions.
 > I tend to look at alignment in terms of how or why they would kill another person
 
 -<a target="_blank" href='https://twitter.com/koibu0'>Neal Erickson</a>
@@ -237,27 +237,10 @@ I am allowing these feat options from the following Unearthed Arcana:
     * Orcish Aggression(half-orc)
     * Barbed Hide(tiefling)
 
-### Roleplaying
-The strengths of D&D are freedom of action and an open-ended story. Your character’s motivations should be story based. We’re playing to get immersed in the world; the more you play your character for the story, the more you are going to get out of the story. You can play a character that constantly changes their desires, has no real fears, and always shares mutual objectives with the party, but I promise you’ll get more out of the game if you don’t.
+### Role-playing
+I will never force your character to role-play a certain way. Other characters may have an idea of how your character would behave in certain situations, but that is only for you to decide.
 
-Think about elements of your character when figuring out their personality. What do their stats say about them? For example, with a low intelligence score we know they aren’t the sharpest tool in the shed. The real question is, how does this manifest in the character’s personality? Are they a bully, always preferring to intimidate others and brute force their way over obstacles without thinking? Or maybe they are fascinated by the knowledge holders of the world, and they bend over backwards for sages, wizards, and town elders. Similarly, how do their past experiences manifest? A character with a history involving Orcs killing their family doesn’t instantly mean they hate Orcs and want to kill them all the time, they could just as well be utterly terrified of Orcs and can’t stand being in the same tavern as one.
-
-I will never, ever, force your character to roleplay in a certain way. Others may have an idea of how your character would behave in certain situations, but that is only for you to decide.
-
-Some suggestions for getting more roleplaying out of your game
-  * Don’t forget to share or shine the spotlight on another player
-    * The story doesn’t and shouldn’t revolve around you or your backstory only, it is revolving around the party.
-  * Sometimes your character’s intricate history doesn’t become relevant or even get shared at all – it happens, and it’s okay.
-  * Show more than tell about your character
-    * A 10-minute monologue or side text chat telling everyone that your character really hates dwarves is infinitely less interesting than your character mocking/attacking a dwarf in a tavern and the group having to deal with the consequences.
-  * Build relationships with PCs and NPCs
-    * Characters in the world are almost always more useful to you alive than dead. 
-      * Consider allowing the bandits that ambushed you on the road to live so they can tell the tale of those adventures that beat them to others in the area.
-      * The dragon that has been terrorizing the kingdom that you have finally hunted down, try striking a deal instead killing it – what can it give you?
-  * Play your character, especially when it matters
-    * It’s good fun for your low intelligence character to play as an idiot when just hanging out in town, but what about in battle when they need to make a split-second decision?
-  * Putting your character into dangerous and deadly situations is cool
-    * Some of the coolest parts in our favorite stories is when a character sacrifices themselves for the greater good. If a battle means something to your character, they might push their own personal safety aside to take their revenge against the bandit king or to ensure the rest of their party escapes the collapsing tunnel.
+<a target="_blank" href="http://kwilkins.com/2018/10/some-thoughts-on-tabletop-roleplay/">Some thoughts I've written down on why role playing a character is awesome.</a>
 
 ## Spells and Magic
 ### Spells
@@ -350,7 +333,7 @@ Inspiration is a way I can reward my players for following their character’s p
 You can invoke advantage for your character on rolls when your character's personality trait, ideal, bond, or flaw is relevant in the story and your character is not incapacitated. Once one of characteristics have been invoked to give yourself advantage, it is marked and cannot be used until it gets unmarked. When one of your characteristics is invoked to grant yourself disadvantage, you can choose to unmark any single characteristic of your choice. At the start of a new session, all characteristics get unmarked.
 
 #### Classic Inspiration - DM Granted
-Typically, I try to award inspiration when you portray your character in a compelling way or go the extra mile when roleplaying. On any d20 roll, including death saves, you may spend your inspiration to give you advantage. Optionally you may give you inspiration to another player. You either have inspiration or you don't – you can't stockpile multiple "inspirations" for later use.
+Typically, I try to award inspiration when you portray your character in a compelling way or go the extra mile when role-playing. On any d20 roll, including death saves, you may spend your inspiration to give you advantage. Optionally you may give you inspiration to another player. You either have inspiration or you don't – you can't stockpile multiple "inspirations" for later use.
 
 ### Skills
 
@@ -369,7 +352,7 @@ Three core rules
   * Players will get along and work together
   * Characters will try to work together, even if they do not get along
   * Characters will not fight with the intention to kill one another
-Constantly pushing conflicts into the party can hurt the game from moving forward or being fun. But, if you are serious about roleplaying your character, sometimes it is unavoidable. Don’t shy away from forcing an important character personality trait that can cause a party conflict; however, I expect it to be resolved without coming to blows.
+Constantly pushing conflicts into the party can hurt the game from moving forward or being fun. But, if you are serious about role-playing your character, sometimes it is unavoidable. Don’t shy away from forcing an important character personality trait that can cause a party conflict; however, I expect it to be resolved without coming to blows.
 
 If a conflict continues to not get resolved to the detriment of the game, the DM will step in and resolve it in the following order:
   1. Can the smaller group just go along with the rest of the party? For ties, can we just flip a coin to resolve this – would all characters be okay with either outcome?
@@ -377,7 +360,7 @@ If a conflict continues to not get resolved to the detriment of the game, the DM
   3. Is this a foundational conflict between characters in the party and cannot be set aside to continue to adventure together? Does a character(s) need to leave the party? If the resolution to the conflict involves the party splitting, the character(s) causing the split will usually be the one(s) to leave.
 
 ### XP and Leveling Up
-I track experience points for all sorts of things. The most common are defeating monsters, significant roleplaying with NPCs, exploring new locations in the world, and resolving storylines.  I typically award experience points once the characters are in a safe place and looming threats have been dealt with.
+I track experience points for all sorts of things. The most common are defeating monsters, significant role-playing with NPCs, exploring new locations in the world, and resolving storylines.  I typically award experience points once the characters are in a safe place and looming threats have been dealt with.
 
 ### Healing
 The default healing rules for 5e don’t allow for a sense of wound retention or encourage smart resource management for health(i.e. potions and spells)<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>. I think it makes damage and battle feel not as important, something you can just sleep off. However, the alternative rules offered in the DMG were too much of a drag on time and kept them from finishing time sensitive quests.
@@ -406,7 +389,7 @@ When taking a long rest, it is difficult to fully recover your stamina, spells, 
 ## Combat
 
 ### I’m Not Trying to Kill You
-The atmosphere I try to convey during combat is that combat is chaotic and messy. There are times where you will not have a clear idea of what you are fighting, where you are fighting, or how you are faring against an enemy. Always feel free to ask clarifying questions, but don’t be surprised if sometimes you don’t get any more information than what you had. I want my players to understand and embrace that there is more to combat than your attack bonus, AC, or spellcasting.  Creative problem solving, roleplaying, and preparation will most certainly help you more in combat than using a +1 sword or bow. During combat, I am not fudging dice or creating unfair/unwinnable scenarios just to kill you. I am simply roleplaying like you are. Some foes might specifically target your character, some will be stronger than you, some will use unfair tactics to try to best you, and some will have abilities that you do not. These are all parts of the game. It’s okay to get salty, it’s not okay to get a bad attitude.
+The atmosphere I try to convey during combat is that combat is chaotic and messy. There are times where you will not have a clear idea of what you are fighting, where you are fighting, or how you are faring against an enemy. Always feel free to ask clarifying questions, but don’t be surprised if sometimes you don’t get any more information than what you had. I want my players to understand and embrace that there is more to combat than your attack bonus, AC, or spellcasting.  Creative problem solving, role-playing, and preparation will most certainly help you more in combat than using a +1 sword or bow. During combat, I am not fudging dice or creating unfair/unwinnable scenarios just to kill you. I am simply role-playing like you are. Some foes might specifically target your character, some will be stronger than you, some will use unfair tactics to try to best you, and some will have abilities that you do not. These are all parts of the game. It’s okay to get salty, it’s not okay to get a bad attitude.
 > In preparing for battle I have always found that plans are useless, but planning is indispensable.
 
 -Dwight D. Eisenhower
@@ -509,39 +492,39 @@ In addition to DMing standard Dungeons and Dragons campaigns, I've also been run
 ### DM's Have HP Too
 When the DM's HP runs out they lose the will to run the game! Good players don't let that happen.
 
-These things can cause a DM to take damage:
+Some examples of things that can cause a DM to take damage:
   * Checking your phone
   * Meta-gaming
   * Being late
   * Leaving the table other than during a break
-  * etc.
 
-These things can help restore their HP:
+Some examples of things that can help restore their HP:
   * Inspired play
   * Kindness
-  * Cookies & ice cream
+  * Pizza & cookies
   * Talking with them about the game
-  * etc.
 
 ## Suggested Player Resources
 I use a lot of these resources when DMing, playing, and even writing this document. Hopefully you find some of these useful.
 
 ### Official Content
 #### <a target="_blank" href="http://www.learningdnd.com/resource/unearthed-arcana-list/">Unearthed Arcana</a>
-From time to time, WotC will put out unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. Here is a list of everything WotC has released.
+From time to time, WotC will put out official-unofficial material to gauge player interest and playtest experiences. A lot of this content is off the cuff and not ready for actual play while some of it can be pretty clean and reasonable (noted in relevant sections of this document), so mileage may vary. If you're interested, I've written <a target="_blank" href="5e-unearthed-arcana.html">some thoughts on some of what they have released.</a>
 
 #### <a target="_blank" href="http://dnd.wizards.com/articles/sage-advice">Sage Advice & Errata</a>
 WotC releases fixes for mistakes or clarifications to published content as needed. The document is cumulative, so the most recent posting usually has everything they have fixed. You might be surprised to read an official ruling that changes mechanics you use.
 
+#### <a target="_blank" href="https://www.dndbeyond.com">D&D Beyond</a>
+WotC has always been lacking on good digital tool support for D&D, which kind of sucks. In a world where everyone has mobile devices I really can't grasp why I don't have a phone app that makes it easy to view, filter, and choose spells. Or track my class features and HP during combat. D&D Beyond is the closest thing we have and while it is officially supported by WotC, it isn't quite what it could be due to it being a 2nd party product and no native app support. That said, it's been getting better and better over the months so I'm excited to see how it progresses. As a character sheet tracker, it works great!
+
 ### Unofficial Content
 #### <a target="_blank" href="https://www.reddit.com/r/DnD/">r/dnd</a>
-By no means an official source of information, and sometimes a terrible source of information, but I really enjoy the weekly questions thread submitted every Monday(usually pinned near the top). Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, roleplaying ideas, and rule clarifications.
+By no means an official source of information, and sometimes a terrible source of information, but I really enjoy the weekly questions thread submitted every Monday(usually pinned near the top). Inside you’ll find both new and experienced, players and DMs all asking questions about interactions, role-playing ideas, and rule clarifications.
 
 #### <a target="_blank" href="https://www.youtube.com/playlist?list=PLPV88C9y83a7olDrtOsYnXzhSC0S5DHb1">Koibu’s Corner</a>
 Neal Erickson is an incredible DM who does enjoy playing 2nd edition D&D more so than newer systems, but his wealth of information and years of experience in the game is still invaluable whether you agree with his interpretation of the grease spell or not.  From time to time he records little talks about different aspects of playing D&D, from why character death is cool to how to get the DM “on your side”.
 
 #### <a target="_blank" href="https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_">Matt Colville's Running the Game</a>
-
 While this video series is primarily about running the game as a DM, there are some great tidbits and entire videos that players can learn from as well!
 
 #### 5e System Reference Document (SRD)
