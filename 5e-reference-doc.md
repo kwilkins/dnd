@@ -10,7 +10,6 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [RAW vs RAI vs RAF](#raw-vs-rai-vs-raf)
 - [Character Customization](#character-customization)
   - [Playable Races](#playable-races)
-  - [Variant Human Traits](#variant-human-traits)
   - [Playable Classes](#playable-classes)
   - [Expanded Class Options](#expanded-class-options)
   - [Multiclassing](#multiclassing)
@@ -36,8 +35,8 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Party Conflict](#party-conflict)
   - [XP and Leveling Up](#xp-and-leveling-up)
   - [Healing](#healing)
-  - [Resurrection](#resurrection)
   - [Resting in Armor](#resting-in-armor)
+  - [Resurrection](#resurrection)
 - [Combat](#combat)
   - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
   - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
@@ -83,7 +82,9 @@ All this is to say that there will be times when we follow the rules as written,
 
 ## Character Customization
 ### Playable Races
-All of the race options from the Player’s Handbook and Dungeon's Master Guide
+All of the race options from the Player’s Handbook and Dungeon's Master Guide.
+* When choosing the Human race, I use different traits than what is in the PHB.
+<a target="_blank" href="https://www.gmbinder.com/share/-LO0UhtGLOqlEke1z5A0">Human Race Traits</a>
 
 The following race options from Volo's Guide to Monsters:
   * Aasimar
@@ -99,12 +100,6 @@ The following race options from the following Unearthed Arcana:
   * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Infernal Tiefling(subrace; standard tiefling from the PHB)
     * Abyssal Tiefling(subrace)
-
-### Variant Human Traits
-I don’t allow feats at first level. Instead of the variant traits offered in the PHB, you can opt for the following:
-  * Ability Score Increase. Increase three different ability scores of your choice, one by 2 and two by 1.
-  * Skills. You gain proficiency in two skills of your choice.
-  * Languages. You can speak, read, and write common and 2 other languages of your choice.
 
 ### Playable Classes
 All of the class options from the Player’s Handbook, Dungeon Master's Guide, and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
@@ -134,6 +129,8 @@ All of the class options from the Player’s Handbook, Dungeon Master's Guide, a
     * Modron Prime
     * Kraken
     * The Night
+    * Lolth
+    * Leviathan
 
 ### Multiclassing
 I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
@@ -338,7 +335,7 @@ Typically, I try to award inspiration when you portray your character in a compe
 ### Skills
 
 #### Retrying a Skill Check
-If you fail a skill check, circumstances need to change in order to attempt it again. Failing the original skill check means that you were and are unable to succeed in the present situation. If Tim was unable to bend the prison bars with an athletics check of 23, he can’t simply retry until he succeeds. But if Stacy casts guidance on Tim, then he can reattempt.
+If you fail a skill check, circumstances need to change in order to attempt it again. Failing the original skill check means that you were and are unable to succeed in the present situation. If Tim was unable to bend the prison bars with an athletics check of 14, he can’t simply retry until he succeeds. But if Stacy casts guidance on Tim, then he can reattempt.
 
 #### Helping an Ally
 You can assist someone with a skill check, granting them advantage, if you are proficient with the same skill. You can always help someone with a mundane task, like digging a ditch or pulling a cart.
@@ -369,14 +366,6 @@ The purpose of these healing rules is twofold
   1. It represents the fact that getting stabbed with swords and beaten with clubs doesn't go away after a good night's sleep.  
   2. It places a value on and rewards good planning and use of healing magic. Potions are available for purchase, and jumping into a fight headlong because you can nap away the wounds isn’t viable.
 
-### Resurrection
-There is a ritual to resurrect a deceased character, most mid-tier divine spellcasters will typically do this for a price or favor. This ritual also follows the magic spell rules for resurrecting a character.
-
-Ritual requirements:
-  * a 1,000gp precious stone
-  * a significant magic item of permanence
-  * the deceased's body
-
 #### Natural Healing
 You recover your level(or your number of hit dice) in hit points(minimum of 1) each long rest. You can double this if you weren't in combat since your previous long rest.
 
@@ -386,10 +375,18 @@ You can expend your hit dice on a short or long rest and you regain 1 hit die af
 ### Resting in Armor
 When taking a long rest, it is difficult to fully recover your stamina, spells, or health while doing so in armor. A long rest is impossible in heavy armor, you will gain no benefits. A long rest is possible in medium armor, but you will gain one level of exhaustion. A long rest is easier in light armor, make a DC 10 Constitution save or gain one level of exhaustion.
 
+### Resurrection
+There is a ritual to resurrect a deceased character, most mid-tier divine spellcasters will typically do this for a price or favor. This ritual also follows the magic spell rules for resurrecting a character.
+
+Ritual requirements:
+  * a 1,000gp gemstone
+  * a significant magic item of permanence
+  * a majority of the deceased's body
+
 ## Combat
 
 ### I’m Not Trying to Kill You
-The atmosphere I try to convey during combat is that combat is chaotic and messy. There are times where you will not have a clear idea of what you are fighting, where you are fighting, or how you are faring against an enemy. Always feel free to ask clarifying questions, but don’t be surprised if sometimes you don’t get any more information than what you had. I want my players to understand and embrace that there is more to combat than your attack bonus, AC, or spellcasting.  Creative problem solving, role-playing, and preparation will most certainly help you more in combat than using a +1 sword or bow. During combat, I am not fudging dice or creating unfair/unwinnable scenarios just to kill you. I am simply role-playing like you are. Some foes might specifically target your character, some will be stronger than you, some will use unfair tactics to try to best you, and some will have abilities that you do not. These are all parts of the game. It’s okay to get salty, it’s not okay to get a bad attitude.
+The atmosphere I try to convey during combat is that combat is chaotic and messy. There are times where you will not have a clear idea of what you are fighting, where you are fighting, or how you are faring against an enemy. Always feel free to ask clarifying questions. I want my players to understand and embrace that there is more to combat than your attack bonus, AC, or spellcasting.  Creative problem solving, role-playing, and preparation will most certainly help you more in combat than using a +1 sword or bow. During combat, I am not fudging dice or creating unfair/unwinnable scenarios just to kill you. I am simply trying to role-play like you are. Some foes might specifically target your character, some will be stronger than you, some will use unfair tactics to try to best you, and some will have abilities that you do not. These are all parts of the game. It’s okay to feel a little salty, it’s not okay to get a bad attitude.
 > In preparing for battle I have always found that plans are useless, but planning is indispensable.
 
 -Dwight D. Eisenhower
@@ -402,7 +399,7 @@ I have some guiding principles I think everyone should keep in mind during comba
   * Running away is an underused strategy!
 
 ### Grid Combat, or Lack Thereof
-When using theatre of the mind, the downside typically is that you as a player will feel like your character would have more knowledge in this situation than you do outside the game. Using a battle map or grid helps to give a visual aid in conveying this information, which is good but still not perfect. There will always be parts of the environment that don’t get drawn, aren’t understood properly, or honestly forgotten by the players or the DM. This is why I typically enjoy running combat in theatre of the mind when possible. Choosing when to use one or the other can be hard to gauge, but simple terrain, low opponent count, or familiar enemies make it easier.
+When using theatre of the mind, the downside typically is that you as a player will feel like your character would have more knowledge in this situation than you do outside the game. Using a battle map or grid helps to give a visual aid in conveying this information, which is good but still not perfect. There will always be parts of the environment that don’t get drawn, aren’t understood properly, or honestly forgotten by the players or the DM. I typically enjoy running combat in theatre of the mind when possible. Choosing when to use one or the other can be hard to gauge, but simple terrain, low opponent count, or familiar enemies make it easier.
 
 If you are unsure of something, always feel free to ask questions to clarify something for you.  The sooner you ask the better, or we get into a situation where Tim’s 3 turn plan didn’t work and his wizard should have known that 2 turns ago and now he’s getting chewed on be 3 ghouls (don’t be like Tim). If you still feel that not having a battle map in this scenario is impeding the playability or your enjoyment, please let me know and we’ll start drawing.
 
@@ -410,7 +407,7 @@ If you are unsure of something, always feel free to ask questions to clarify som
 Distance and movement in 5e is a little weird to me because grid diagonals use the same length as a grid side, 5ft. This tends to break the idea of distance on a combat grid when targeting from diagonals lets you get 40% more range. The DMG offers a suitable alternative rule for diagonals – every other diagonal will cost double the distance; 5, 15, 20, 30, etc<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>.
 
 ### Dropping to 0 Hit Points
-While I'm not changing anything mechanically from RAW when a character drops to 0 hit points, I like to think your character retains some semblance of awareness of what is happening around them. This is more to drive the narrative that if your character gain some hit points to return to the battle you aren't clueless as to what happened or if they end up dying we can give them a final scene or some last words.
+While I'm not changing anything mechanically from RAW when a character drops to 0 hit points, I like to think your character retains some semblance of awareness of what is happening around them. This is more to drive the narrative that if your character gains some hit points to return to the battle you aren't clueless as to what happened or if they end up dying we can give them a final scene, some last words, etc.
 
 ### Expanded Combat Actions
 These extra options apply to NPCs and PCs equally. Remember, there is no set list of possible actions for what your character to do. If you’d like to do something that isn’t quite this or isn’t quite that, tell me what you’d like to do!
