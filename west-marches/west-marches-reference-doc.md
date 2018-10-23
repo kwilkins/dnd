@@ -113,13 +113,13 @@ Some motivation ideas
 Personal quests are quests a character is found by, invents, or chooses to undertake.  When you know of something in the wilds and it inflames your passions, write yourself a major quest and tell the GM what it is.  While in an adventuring party you can share your quest with the others, tell them why you care and ask your allies to help you.  If the party completes the personal quest of anyone within the play session, everyone gains a 30% xp boost.
 
 ## 5e Rules in West Marches
-While I do run my West Marches games using the 5e ruleset, not all of the different rules I like to play with are appropriate for the this type of game. The West Marches runs in a very tight time window, is usually more combat involved than roleplay, and leans more to the RAW interpreation of 5e.
+While I do run my West Marches games using the 5e ruleset, not all of the different rules I like to play with are appropriate for the this type of game. The West Marches runs in a very tight time window, is usually more combat involved than roleplay, and leans more to the RAW interpretation of 5e.
 
-  * Aarakocra is a suitable choice for a character's race
-  * The Blood Hunter is a suitable choice for a character's class
-  * Premade backgrounds are mostly acceptable from homebrew sources(can always change, tweak or create your own).
+  * Aarakocra is a suitable choice for a character's race.
+  * The Blood Hunter is a suitable choice for a character's class.
   * Healing rules for regaining hit points and hit dice will follow the standard 5e system(RAW). Please note that my [rules for resting in armor](../5e-reference-doc.md#resting-in-armor) still apply while resting.
-  * Movement and and determining distance while on a grid will follow the standard 5e system(RAW).
+  * Movement and determining distance while on a grid will follow the standard 5e system(RAW).
+  * No multiclassing allowed.
 
 ## The Inspiration
 I fell in love with this game type while watching Rollplay's West Marches series, so I draw heavy heavy inspiration from it. The cast was a revolving set of personalities that always brough new and radically different adventures to the table. Steven Lumpkin, the Game Master behind the idea, was always pushing the characters into the new, the strange and the weird. Even better, Steven shared a lot of the resources he used to build his world and influence the rules, which in turn has done the same to my own. So now you know who to blame when you contract Necrotic Leprosy or have to strike a bargin with the Wounded Wretch.

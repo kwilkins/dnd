@@ -80,6 +80,8 @@ There all kinds of different ways of following rules, here are some general idea
 
 All this is to say that there will be times when we follow the rules as written, there will be times when we follow the rules as intended, and there will be times when we purposely ignore rules to have a good time.
 
+<a target="_blank" href="http://kwilkins.com/2018/10/some-thoughts-on-being-a-rules-lawyer/">Some thoughts I've written down on why I expect you to be a rules lawyer ***sometimes***.</a>
+
 ## Character Customization
 ### Playable Races
 All of the race options from the Player’s Handbook and Dungeon's Master Guide.
@@ -133,11 +135,13 @@ All of the class options from the Player’s Handbook, Dungeon Master's Guide, a
     * Leviathan
 
 ### Multiclassing
-I typically do not allow multiclassing for 5e. I think even by PHB content alone, the class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
+I typically do not allow multiclassing for 5e. I think even by PHB content alone, the race, class, subclass, and feat options allow for amazing play variation. Multiclassing tends to get messy with spells (which modifier for this spell vs that spell?) but also tends to shift the focus of a character’s progression into a min/max problem to solve. My hopeful intention here is to prod my players more towards teamwork and creative solutions rather than building a paladin(2)/warlock(1)/rogue(3). Somewhere along the different editions of D&D there came this idea of an *optimized* character. I want the games I run to be more about playing together as a party rather than figuring out how to just powergame your own.
+
+If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
 
 Good examples
-  * Monk was bathed in chaotic magical forces that left lingering effects, maybe this has also caused them to have some control over this magic and takes one level into Sorcerer
-  * After completing a few missions for a thieves guild the fighter has gained some favor with their leaders, perhaps allowing them to undergo some basic training and takes one level into Rogue.
+  * A Monk was bathed in chaotic magical forces that left lingering effects, maybe this has also caused them to have some control over this magic and takes a level into Sorcerer
+  * After completing a few missions for a thieves guild the fighter has gained some favor with their leaders, perhaps allowing them to undergo some basic training and takes a level into Rogue.
 
 Bad examples
   * A rogue wants to take a level into wizard without any means of magical training or overstudy. Find a wizard school or spend some time befriending a source of magical knowledge.
