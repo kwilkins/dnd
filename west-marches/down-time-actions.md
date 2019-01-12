@@ -152,7 +152,7 @@ Downtime options:
 
 Improve this feature to level 3 to gain the following options:
 * Can graft magical properties into magical weapons/armor given magical essence + gp, limit of 2 magical effects.
-  * Requires a *magical forge*.
+  * ~~Requires a *magical forge*~~
 
 ## Improve Padfoot’s Landing
 Spend your Downtime Action building an improvement for Viriskali. Pay the cost to establish a new town feature or level up an existing town feature.
