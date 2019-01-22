@@ -96,7 +96,7 @@ Downtime options:
 * Offer hunting related quests for rewards.(level 0)
 
 Improve this feature to level 1 to gain the following option:
-* Provide information about monster whereabouts or uses for monster parts.
+* Provide information about monster locations and provide uses for monster parts(weapons of slaying, armor of protection, etc).
   * ~~Requires completion of a *deadly hunt*~~
 
 ## Guild Hall (level 2)
@@ -120,7 +120,7 @@ A statue of Muriel in a heroic pose
 
 Downtime options:
 * Look badass(level 0)
-* Buy xp, 1-to-1 for silver, can ascend to level 6 OR the level your highest character has achieved, which ever is lower.(level 2)
+* Buy xp, 1-to-1 for silver, to allow a character to ascend up to level 6 OR the level your highest character has achieved, which ever is lower.(level 2)
 
 Improve this feature to level 3 to gain the following feature:
 * Increase max level to 9.
@@ -140,6 +140,7 @@ Downtime options:
 
 Improve this feature to level 3 to gain the following options:
 * Will completely identify magical artifacts for free.
+* Add space for more inventory in his shop.
  
 ## Blacksmith (level 2)
 
