@@ -69,13 +69,16 @@ Improve this feature to level 3 to gain the following options:
 
 OR
 
-  * Add another scholar quorum; +1 action use or use multiple quorums together to recieve more information.
-  * Add another d4 to study die option
+* Add another scholar quorum; +1 action use or use multiple quorums together to recieve more information.
+* Add another d4 to study die option
 
 ## Temple of Hverra (level 2)
 Spend your time volunteering at the temple.
 
 Proprietor: Sarah Cope(Human Cleric)
+
+Features:
+* Will preserve bodies of fallen adventurers.(level 1)
 
 Downtime options:
 * Roll an Intelligence, Wisdom, or Charisma to gain some knowledge from the clerics or patrons in the temple.(level 0)
@@ -87,19 +90,23 @@ Downtime options:
 Improve this feature to level 3 to gain the following option:
 * Spend 75gp to buy a Potion of Greater Healing.
 
-## Jager Lodge (level 0)
+## Jager Lodge (level 1)
 Help catalog specimens, organize reports, and research uses for monsters and beasts.
 
 Proprietor: Jager Wynglass(Gnome Hunter)  
 
+Features:
+* Offer oils of slaying.(level 1)
+* Can harvest monster parts for relevant weapons or armor.(level 1)
+
 Downtime options:
 * Offer hunting related quests for rewards.(level 0)
+* Offer knowledge about monster locations.(level 1)
 
-Improve this feature to level 1 to gain the following option:
-* Provide information about monster locations and provide uses for monster parts(weapons of slaying, armor of protection, etc).
-  * ~~Requires completion of a *deadly hunt*~~
+Improve this feature to level 2 to gain the following option:
+* Ability to distill intrinsic monster abilities/features into temporary effects.
 
-## Guild Hall (level 2)
+## Guild Hall (level 3)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
 
 Proprietor: Goldust(Half-Orc Retired Wrestler)  
@@ -111,15 +118,25 @@ Features:
   * Funds always available for improving a town feature. Vote as party to use funds for another purpose.
 * Secure storage, store gold or items in the guild hall vaults to leave behind while you adventure.(level 2)
   * If your character dies, their stored gold and items are sold for central fund.
+* Hirelings are fledgling adventurers you can bring along on your adventure. You can get one to follow you as long as you are a higher level than they.(level 3)
+  * *available*
+  * *available*
+  * *available*
 
-Improve this feature to level 3 to gain the following feature:
-* Hirelings! They cost money and can be given a cut of xp to level up.
+Downtime options:
+* Bring a new hireling into the Adventure's Guild.(level 3)
+
+Improve this feature to level 4 to gain the following feature:
+* Increase the number of hireling slots by 3
+* Increase the loyalty die to a d12
 
 ## Monument of Heroes (level 2)
 A statue of Muriel in a heroic pose
 
-Downtime options:
+Features:
 * Look badass(level 0)
+
+Downtime options:
 * Buy xp, 1-to-1 for silver, to allow a character to ascend up to level 6 OR the level your highest character has achieved, which ever is lower.(level 2)
 
 Improve this feature to level 3 to gain the following feature:
@@ -130,30 +147,35 @@ Local magic shop that sells, buys, and identifies magical artifacts.
 
 Proprietor: Boyland(Human Wizard)  
 
-Downtime options:
+Features:
 * Is pompous.(level 0)
 * Runs a magic shop that adventures can buy/sell magic items from in game.(level 0)
-* Will completely identify magical artifacts for 75gp.(level 1)
+
+Downtime options:
+* Will identify magical artifacts for 75gp.(level 1)
   * Will not reveal curses.
 * Can strip magic essence out of an object, which destroys the object.(level 2)
   * Cursed items will behave...unpredictably.
 
 Improve this feature to level 3 to gain the following options:
-* Will completely identify magical artifacts for free.
+* Will identify magical artifacts for free.
 * Add space for more inventory in his shop.
  
-## Blacksmith (level 2)
+## Blacksmith (level 3)
 
 Proprietor: Flint Fleetwhistle(Dwarf Craftsman)
 
-Downtime options:
-* Will buy/sell normal armor or weapons.(level 0)
-* Can reforge weapons/armor at cost.(level 1)
-* Can graft magical properties into non-magical weapons/armor given materials; magical essence + weapon/armor.(level 2)
+Features:
+* Will buy/sell armor or weapons.(level 0)
 
-Improve this feature to level 3 to gain the following options:
-* Can graft magical properties into magical weapons/armor given magical essence + gp, limit of 2 magical effects.
-  * ~~Requires a *magical forge*~~
+Downtime options:
+* Can reforge nonmagical weapons/armor at cost.(level 1)
+* Can graft magical properties into weapons/armor given materials.(level 3)
+  * Requires magical essence and weapon/armor, possible gp cost.
+  * Limit of two magical effects per item.
+
+Improve this feature to level 4 to gain the following options:
+* Can reforge magical weapons/armor at cost.
 
 ## Improve Padfoot’s Landing
 Spend your Downtime Action building an improvement for Viriskali. Pay the cost to establish a new town feature or level up an existing town feature.
