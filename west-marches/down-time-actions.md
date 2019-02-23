@@ -142,7 +142,7 @@ Downtime options:
 Improve this feature to level 3 to gain the following feature:
 * Increase max level to 9.
 
-## Town Wizard (level 2)
+## Town Wizard (level 3)
 Local magic shop that sells, buys, and identifies magical artifacts. 
 
 Proprietor: Boyland(Human Wizard)  
@@ -152,13 +152,13 @@ Features:
 * Runs a magic shop that adventures can buy/sell magic items from in game.(level 0)
 
 Downtime options:
-* Will identify magical artifacts for 75gp.(level 1)
+* Will identify a magical item for free.(level 3)
   * Will not reveal curses.
 * Can strip magic essence out of an object, which destroys the object.(level 2)
   * Cursed items will behave...unpredictably.
 
-Improve this feature to level 3 to gain the following options:
-* Will identify magical artifacts for free.
+Improve this feature to level 4 to gain the following options:
+* ***thinking...***
 * Add space for more inventory in his shop.
  
 ## Blacksmith (level 3)
