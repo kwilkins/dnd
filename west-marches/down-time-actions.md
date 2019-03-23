@@ -119,7 +119,7 @@ Features:
 * Secure storage, store gold or items in the guild hall vaults to leave behind while you adventure.(level 2)
   * If your character dies, their stored gold and items are sold for central fund.
 * Hirelings are fledgling adventurers you can bring along on your adventure. You can get one to follow you as long as you are a higher level than they.(level 3)
-  * *available*
+  * Sam Elliot - support, healer, cowboy
   * *available*
   * *available*
 
@@ -156,9 +156,10 @@ Downtime options:
   * Will not reveal curses.
 * Can strip magic essence out of an object, which destroys the object.(level 2)
   * Cursed items will behave...unpredictably.
+* Will sell a spell scroll up to level 2.(level 3)
 
 Improve this feature to level 4 to gain the following options:
-* ***thinking...***
+* Increase spell scroll level to 3
 * Add space for more inventory in his shop.
  
 ## Blacksmith (level 3)
