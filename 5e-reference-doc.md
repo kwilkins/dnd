@@ -9,7 +9,7 @@ Personal D&D nerfs, buffs, options, and philosophy
   - [Fifth Edition as a Game System](#fifth-edition-as-a-game-system)
   - [RAW vs RAI vs RAF](#raw-vs-rai-vs-raf)
 - [Character Customization](#character-customization)
-  - [Playable Races](#playable-races)
+  - [Playable Ancestries(Races)](#playable-ancestriesraces)
   - [Playable Classes](#playable-classes)
   - [Expanded Class Options](#expanded-class-options)
   - [Multiclassing](#multiclassing)
@@ -83,22 +83,22 @@ All this is to say that there will be times when we follow the rules as written,
 <a target="_blank" href="http://kwilkins.com/2018/10/some-thoughts-on-being-a-rules-lawyer/">Some thoughts I've written down on why I expect you to be a rules lawyer ***sometimes***.</a>
 
 ## Character Customization
-### Playable Races
-All of the race options from the Player’s Handbook and Dungeon's Master Guide.
-* When choosing the Human race, I use different traits than what is in the PHB.
-<a target="_blank" href="https://www.gmbinder.com/share/-LO0UhtGLOqlEke1z5A0">Human Race Traits</a>
+### Playable Ancestries(Races)
+All of the options from the Player’s Handbook and Dungeon's Master Guide.
+* When choosing human, I use different traits than what is in the PHB.
+<a target="_blank" href="https://www.gmbinder.com/share/-LO0UhtGLOqlEke1z5A0">Human Traits</a>
 
-The following race options from Volo's Guide to Monsters:
+The following options from Volo's Guide to Monsters:
   * Aasimar
   * Firbolg
   * Goliath
 
-The following race options from the <a target="_blank" href='http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf'>Elemental Evil Player's Companion</a> supplement:
+The following options from the <a target="_blank" href='http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf'>Elemental Evil Player's Companion</a> supplement:
   * ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
   * Deep Gnome(subrace)
   * Genasi
 
-The following race options from the following Unearthed Arcana:
+The following options from these pieces of Unearthed Arcana:
   * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Infernal Tiefling(subrace; standard tiefling from the PHB)
     * Abyssal Tiefling(subrace)
@@ -114,13 +114,13 @@ All of the class options from the Player’s Handbook, Dungeon Master's Guide, a
   * Wild Shape – I like the idea of each wild shape being unique in some small way, but didn't want players to feel punished on a bad shapeshift.
     * When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
-#### Ranger
-  * The Ranger, Revised – The ranger has long been thought of as the weakest class in 5e, both in combat and utility. WotC is in an odd place on how to fix this, but they've taken a few stabs at alternative class write ups. I think the latest works rather well.
-    * I would prefer you use <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>this Revised Ranger</a> instead of the one from the PHB. 
-
 #### ???Paladin???
   * Alternate Oaths
     * Oath of the Scale
+
+#### Ranger
+  * The Ranger, Revised – The ranger has long been thought of as the weakest class in 5e, both in combat and utility. WotC is in an odd place on how to fix this, but they've taken a few stabs at alternative class write ups. I think the latest works rather well.
+    * I would prefer you use <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>this Revised Ranger</a> instead of the one from the PHB. 
 
 #### Sorcerer
   * Tides of Chaos – Instead of a static one-in-twenty chance of a surge happening, this uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of one occurring.
@@ -384,8 +384,8 @@ There is a ritual to resurrect a deceased character, most mid-tier divine spellc
 
 Ritual requirements:
   * a 1,000gp gemstone
-  * a significant magic item of permanence
-  * a majority of the deceased's body
+  * a magic item of permanence
+  * a significant amount of the deceased
 
 ## Combat
 
@@ -442,7 +442,7 @@ Alternatively, as a free object interaction, you can drag an ally if they are yo
 While carrying or dragging an ally, enemies have advantage on attacks against you.
 
 #### Knocking Aside Shields
-As an action, you can use a melee weapon that deals bludgeoning damage with damage dice of d6 or greater to try to knock away a foe’s shield. Declare your intention to use this special attack before rolling. If you successfully hit your target, they’re AC will be considered to have no shield bonus until their next turn.
+As an action, you can use a melee weapon that deals bludgeoning damage with damage dice of d6 or greater to try to knock away a foe’s shield. Declare your intention to use this special attack before rolling. If you successfully hit your target, their AC will be considered to have no shield bonus until their next turn.
 
 #### Readying the Attack Action with Multiattack
 When you ready your action for an attack, you can take all the attacks you’re normally entitled to for a normal attack action. If you would like to split your attacks up, you must specify targets when readying the action. If they are no longer available to attack or out of your range you lose those attacks.
