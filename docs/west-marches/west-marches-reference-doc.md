@@ -1,20 +1,10 @@
+---
+tocLimit: 2
+---
+
 kwilkins West Marches Reference Document
 ======
 Rules for exploring the wilds
-
-<!-- TOC -->
-
-- [The West Marches](#the-west-marches)
-- [West Marches Specific Rules](#west-marches-specific-rules)
-  - [Play Session Rules](#play-session-rules)
-  - [Time](#time)
-  - [Travel](#travel)
-  - [Encounters](#encounters)
-  - [Awarding XP](#awarding-xp)
-- [5e Rules in West Marches](#5e-rules-in-west-marches)
-- [The Inspiration](#the-inspiration)
-
-<!-- /TOC -->
 
 ## The West Marches
 

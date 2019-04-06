@@ -1,58 +1,6 @@
-kwilkins 5e Homebrew Reference Document
+5e Reference Document
 ======
 Personal D&D nerfs, buffs, options, and philosophy
-
-<!-- TOC -->
-
-- [What is this?](#what-is-this)
-- [Game Rules](#game-rules)
-  - [Fifth Edition as a Game System](#fifth-edition-as-a-game-system)
-  - [RAW vs RAI vs RAF](#raw-vs-rai-vs-raf)
-- [Character Customization](#character-customization)
-  - [Playable Races](#playable-races)
-  - [Playable Classes](#playable-classes)
-  - [Expanded Class Options](#expanded-class-options)
-  - [Multiclassing](#multiclassing)
-  - [Backgrounds](#backgrounds)
-  - [Alignment](#alignment)
-  - [Feats](#feats)
-  - [Role-playing](#role-playing)
-- [Spells and Magic](#spells-and-magic)
-  - [Spells](#spells)
-  - [Schools of Magic](#schools-of-magic)
-  - [Knowing Spell Effects](#knowing-spell-effects)
-  - [Varying Effects](#varying-effects)
-- [Equipment](#equipment)
-  - [Crafting](#crafting)
-  - [Shields](#shields)
-  - [Potions](#potions)
-  - [Poisons](#poisons)
-  - [Magic Items](#magic-items)
-  - [Tools](#tools)
-- [Adventuring](#adventuring)
-  - [Inspiration](#inspiration)
-  - [Skills](#skills)
-  - [Party Conflict](#party-conflict)
-  - [XP and Leveling Up](#xp-and-leveling-up)
-  - [Healing](#healing)
-  - [Resting in Armor](#resting-in-armor)
-  - [Resurrection](#resurrection)
-- [Combat](#combat)
-  - [I’m Not Trying to Kill You](#im-not-trying-to-kill-you)
-  - [Grid Combat, or Lack Thereof](#grid-combat-or-lack-thereof)
-  - [Movement and Distance](#movement-and-distance)
-  - [Dropping to 0 Hit Points](#dropping-to-0-hit-points)
-  - [Expanded Combat Actions](#expanded-combat-actions)
-  - [Critical Hits](#critical-hits)
-  - [Critical Fails](#critical-fails)
-- [The West Marches](#the-west-marches)
-- [Miscellaneous](#miscellaneous)
-  - [DM's Have HP Too](#dms-have-hp-too)
-- [Suggested Player Resources](#suggested-player-resources)
-  - [Official Content](#official-content)
-  - [Unofficial Content](#unofficial-content)
-
-<!-- /TOC -->
 
 ## What is this?
 This is a reference document detailing house rules, expanded options, and how I approach different aspects of games that I run. The goal being that the content in here should make the game more compelling, more rewarding, but most of all more fun! If anything in here is found to be hindering one of these goals it will be addressed or changed as needed. And if you have an idea or found a resource that you think would be awesome to add, talk to me about it! This is an evolving document and feedback is always welcome.
@@ -71,11 +19,11 @@ That said, even the lead designer behind 5e wishes they had done some things dif
 ### RAW vs RAI vs RAF
 There all kinds of different ways of following rules, here are some general ideas behind a few different interpretations.
 
-  * RAW – Rules as Written
+* RAW – Rules as Written
     * What the text says as written literally. This is generally where we start when considering any sort of ruling.
-  * RAI – Rules as Intended
+* RAI – Rules as Intended
     * This approach is what the designer meant when the rule was created. Sometimes the words written don’t successfully communicate the original intent, or there was an oversight in the original text(sometimes these get fixed in a later publishing).
-  * RAF – Rules as Fun
+* RAF – Rules as Fun
     * Sometimes we depart from what is written or what was intended, because D&D is primarily meant to be **fun**. Ignoring the fact that the spell *animal friendship* isn't supposed to work on monstrosities, the owlbear rolling a natural 1 for his save against the spell allows it to become charmed by Wrenn. This creates an incredibly fun scene and one of the most memorable moments for the campaign.
 
 All this is to say that there will be times when we follow the rules as written, there will be times when we follow the rules as intended, and there will be times when we purposely ignore rules to have a good time.
@@ -85,25 +33,29 @@ All this is to say that there will be times when we follow the rules as written,
 ## Character Customization
 ### Playable Races
 All of the race options from the Player’s Handbook and Dungeon's Master Guide.
+
 * When choosing the Human race, I use different traits than what is in the PHB.
 <a target="_blank" href="https://www.gmbinder.com/share/-LO0UhtGLOqlEke1z5A0">Human Race Traits</a>
 
 The following race options from Volo's Guide to Monsters:
-  * Aasimar
-  * Firbolg
-  * Goliath
+
+* Aasimar
+* Firbolg
+* Goliath
 
 The following race options from the <a target="_blank" href='http://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf'>Elemental Evil Player's Companion</a> supplement:
-  * ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
-  * Deep Gnome(subrace)
-  * Genasi
+
+* ?Aarakocra?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
+* Deep Gnome(subrace)
+* Genasi
 
 The following race options from the following Unearthed Arcana:
-  * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
+
+* <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Infernal Tiefling(subrace; standard tiefling from the PHB)
     * Abyssal Tiefling(subrace)
 
-### Playable Classes
+## Playable Classes
 All of the class options from the Player’s Handbook, Dungeon Master's Guide, and Xanthar's Guide to Everything. I’ve written some [descriptions for the base classes](5e-classes.html) from the PHB if you're wondering which to pick.
 
 ?The <a target="_blank" href='https://www.dndbeyond.com/characters/classes/blood-hunter'>Blood Hunter</a> class option written by Matthew Mercer?<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
@@ -111,23 +63,23 @@ All of the class options from the Player’s Handbook, Dungeon Master's Guide, a
 ### Expanded Class Options
 
 #### Druid
-  * Wild Shape – I like the idea of each wild shape being unique in some small way, but didn't want players to feel punished on a bad shapeshift.
+* Wild Shape – I like the idea of each wild shape being unique in some small way, but didn't want players to feel punished on a bad shapeshift.
     * When transforming into a beast, you can roll for the beast form’s health and use that value if it is higher than the given average.
 
 #### Ranger
-  * The Ranger, Revised – The ranger has long been thought of as the weakest class in 5e, both in combat and utility. WotC is in an odd place on how to fix this, but they've taken a few stabs at alternative class write ups. I think the latest works rather well.
-    * I would prefer you use <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>this Revised Ranger</a> instead of the one from the PHB. 
+* The Ranger, Revised – The ranger has long been thought of as the weakest class in 5e, both in combat and utility. WotC is in an odd place on how to fix this, but they've taken a few stabs at alternative class write ups. I think the latest works rather well.
+   * I would prefer you use <a target="_blank" href='http://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf'>this Revised Ranger</a> instead of the one from the PHB. 
 
 #### ???Paladin???
-  * Alternate Oaths
+* Alternate Oaths
     * Oath of the Scale
 
 #### Sorcerer
-  * Tides of Chaos – Instead of a static one-in-twenty chance of a surge happening, this uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of one occurring.
+* Tides of Chaos – Instead of a static one-in-twenty chance of a surge happening, this uses an increasing odds mechanic where every time a surge doesn’t happen the next spell you cast as a higher chance of one occurring.
     * I would prefer you to use <a target="_blank" href='https://www.gmbinder.com/share/-L06LwAVvA7MePAh68Qr'>this Tides of Chaos</a> system instead of the one in the PHB.
 
 #### ???Warlock???
-  * Alternate Patrons – There are almost an infinite number of powerful entities looking for followers across the planes of existence, warlock homebrew might be the easiest to add both mechanically and flavorwise for this reason. Below are a few other options of possible patrons, but also feel free to take an existing one and give it a new name! Instead of ArchFey it could be Santa Claus, or instead of a Fiend style it after a dragon.
+* Alternate Patrons – There are almost an infinite number of powerful entities looking for followers across the planes of existence, warlock homebrew might be the easiest to add both mechanically and flavorwise for this reason. Below are a few other options of possible patrons, but also feel free to take an existing one and give it a new name! Instead of ArchFey it could be Santa Claus, or instead of a Fiend style it after a dragon.
     * Modron Prime
     * Kraken
     * The Night
@@ -140,12 +92,14 @@ I typically do not allow multiclassing for 5e. I think even by PHB content alone
 If you find yourself in a position where you would like to multiclass and you think it flows with the story, talk to me about about it.
 
 Good examples
-  * A Monk was bathed in chaotic magical forces that left lingering effects, maybe this has also caused them to have some control over this magic and takes a level into Sorcerer
-  * After completing a few missions for a thieves guild the fighter has gained some favor with their leaders, perhaps allowing them to undergo some basic training and takes a level into Rogue.
+
+* A Monk was bathed in chaotic magical forces that left lingering effects, maybe this has also caused them to have some control over this magic and takes a level into Sorcerer
+* After completing a few missions for a thieves guild the fighter has gained some favor with their leaders, perhaps allowing them to undergo some basic training and takes a level into Rogue.
 
 Bad examples
-  * A rogue wants to take a level into wizard without any means of magical training or overstudy. Find a wizard school or spend some time befriending a source of magical knowledge.
-  * A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
+
+* A rogue wants to take a level into wizard without any means of magical training or overstudy. Find a wizard school or spend some time befriending a source of magical knowledge.
+* A paladin wants to take a level into warlock without any prior idea of a patron. Does your character want to enter into a binding contract with a supernatural being? How did they learn this was possible?
 
 ### Backgrounds
 All background options from any officially published WotC books (Player’s Handbook, Sword Coast Adventure's Guide, Curse of Strahd, etc).<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>
@@ -221,8 +175,9 @@ All of the feat options from the Player’s Handbook
 
 All of the *racial* feat options from Xanathar's Guide to Everything
 
-I am allowing these feat options from the following Unearthed Arcana:  
-  * <a target="_blank" href='http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf'>Feats</a>
+I am allowing these feat options from the following Unearthed Arcana:
+
+* <a target="_blank" href='http://media.wizards.com/2016/downloads/DND/UA-Feats-V1.pdf'>Feats</a>
     * Fell Handed(no +1 to attack)
     * Blade Mastery(no +1 to attack)
     * Flail Mastery(no +1 to attack)
@@ -231,8 +186,7 @@ I am allowing these feat options from the following Unearthed Arcana:
     * Burglar
     * Gourmand
     * Master of Disguise (will work within reason, you can’t craft a believable Ancient Dragon disguise in 8 hours)
-  
-  * <a target="_blank" href='http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf'>Feats for Races</a>
+* <a target="_blank" href='http://media.wizards.com/2017/dnd/downloads/RJSJC2017_04UASkillFeats_24v10.pdf'>Feats for Races</a>
     * Critter Friend(gnome)
     * Wonder Maker(gnome)
     * Orcish Aggression(half-orc)
@@ -250,21 +204,21 @@ All spells from the Player’s Handbook
 All spells from Xanthar’s Guide to Everything(this includes spells from the Elemental Evil supplement with some updates to the wording)
 
 Magic specific house rules:
-  * The spell *healing spirit* - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
+
+* The spell *healing spirit* - this spell ends once the spirit has healed a number of times equal to twice your spellcasting ability modifier (minimum of once).
     * <a target="_blank" href='https://twitter.com/JeremyECrawford/status/935992604080013312'>This is a rule suggested by Jeremy Crawford</a>
-  * ???The spell *identify* - this spell can be used to identify multiple objects/creatures during the casting of the spell, casting time is changed to 10 minutes, and casting this spell consumes the 100gp pearl at the end.???
-  * Any spell that involves resurrecting a character - resurrecting a life is a nasty and uncertain business; even if you bring them back, they won't be exactly the same...
+* ???The spell *identify* - this spell can be used to identify multiple objects/creatures during the casting of the spell, casting time is changed to 10 minutes, and casting this spell consumes the 100gp pearl at the end.???
+* Any spell that involves resurrecting a character - resurrecting a life is a nasty and uncertain business; if you bring them back, they might not be exactly the same...
 
 I am allowing these spell options from the following Unearthed Arcana:
 
-  * <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
+* <a target="_blank" href='https://media.wizards.com/2015/downloads/dnd/07_UA_That_Old_Black_Magic.pdf'>That Old Black Magic</a>
     * Conjure Barlgura(4th level; sorcerer\|wizard)
     * Conjure Hezrou(7th level; sorcerer\|wizard)
     * Conjure Lesser Demon(3rd level; sorcerer\|wizard)
     * Conjure Shadow Demon(4th level; sorcerer\|wizard)
     * Conjure Vrock(5th level; sorcerer\|wizard)
-
-  * <a target="_blank" href='https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf'>Starter Spells</a>
+* <a target="_blank" href='https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf'>Starter Spells</a>
     * Wild Cunning(1st level; druid\|ranger)
     * Unearthly Chorus(1st level; bard)
 
@@ -280,6 +234,7 @@ Spells do not always affect every creature the same. Spells do not always affect
 ## Equipment
 ### Crafting
 Crafting items yourselves require resources, time, and knowledge; you need enough of all three to even attempt it. Simple items like a bundle of arrows or mace may take a day or two and a few coins, while crafting a magical potion can take weeks to finish. More powerful items may require an exotic resource in order to craft, and these typically have to be secured by means other than dropping some gold in a trade store.
+
   1. Resources – You must have 75% of the cost of the final item in common resources to create the item along with any exotic resources
   2. Time – You must have [item level]d6 days free to spend in a location suitable to work in
   3. Knowledge – You must have enough knowledge about how to create the item, from your own mind or another source
@@ -290,14 +245,15 @@ On a fail, you will have consumed half of the resources.
 
 ### Shields
 You must be proficient with shields to properly wield any shield in combat
-  * Buckler
+
+* Buckler
     * +1 AC
     * Free action to don/doff
     * Hand is still free
-  * Shield
+* Shield
     * +2 AC
     * Action to don/doff
-  * Tower Shield
+* Tower Shield
     * +2 AC
     * Action to don/doff
     * -10 speed while carrying
@@ -350,15 +306,18 @@ Having a proficiency with certain tools can help a character out when attempting
 ### Party Conflict
 Broadly speaking, I always expect the party to work together, but I know there will be times when the characters in the party aren’t going to agree on the best way to do that. Disagreements are not unexpected and ideally, they will be handled in game.
 Three core rules
-  * Players will get along and work together
-  * Characters will try to work together, even if they do not get along
-  * Characters will not fight with the intention to kill one another
+
+* Players will get along and work together
+* Characters will try to work together, even if they do not get along
+* Characters will not fight with the intention to kill one another
+
 Constantly pushing conflicts into the party can hurt the game from moving forward or being fun. But, if you are serious about role-playing your character, sometimes it is unavoidable. Don’t shy away from forcing an important character personality trait that can cause a party conflict; however, I expect it to be resolved without coming to blows.
 
 If a conflict continues to not get resolved to the detriment of the game, the DM will step in and resolve it in the following order:
-  1. Can the smaller group just go along with the rest of the party? For ties, can we just flip a coin to resolve this – would all characters be okay with either outcome?
-  2. Can the party separate for this situation, each group can do their own thing, and the party can deal with the consequences later?
-  3. Is this a foundational conflict between characters in the party and cannot be set aside to continue to adventure together? Does a character(s) need to leave the party? If the resolution to the conflict involves the party splitting, the character(s) causing the split will usually be the one(s) to leave.
+
+1. Can the smaller group just go along with the rest of the party? For ties, can we just flip a coin to resolve this – would all characters be okay with either outcome?
+2. Can the party separate for this situation, each group can do their own thing, and the party can deal with the consequences later?
+3. Is this a foundational conflict between characters in the party and cannot be set aside to continue to adventure together? Does a character(s) need to leave the party? If the resolution to the conflict involves the party splitting, the character(s) causing the split will usually be the one(s) to leave.
 
 ### XP and Leveling Up
 I track experience points for all sorts of things. The most common are defeating monsters, significant role-playing with NPCs, exploring new locations in the world, and resolving storylines.  I typically award experience points once the characters are in a safe place and looming threats have been dealt with.
@@ -367,8 +326,9 @@ I track experience points for all sorts of things. The most common are defeating
 The default healing rules for 5e don’t allow for a sense of wound retention or encourage smart resource management for health(i.e. potions and spells)<sup>[WM](west-marches/west-marches-reference-doc.md#5e-rules-in-west-marches)</sup>. I think it makes damage and battle feel not as important, something you can just sleep off. However, the alternative rules offered in the DMG were too much of a drag on time and kept them from finishing time sensitive quests.
 
 The purpose of these healing rules is twofold
-  1. It represents the fact that getting stabbed with swords and beaten with clubs doesn't go away after a good night's sleep.  
-  2. It places a value on and rewards good planning and use of healing magic. Potions are available for purchase, and jumping into a fight headlong because you can nap away the wounds isn’t viable.
+
+1. It represents the fact that getting stabbed with swords and beaten with clubs doesn't go away after a good night's sleep.  
+2. It places a value on and rewards good planning and use of healing magic. Potions are available for purchase, and jumping into a fight headlong because you can nap away the wounds isn’t viable.
 
 #### Natural Healing
 You recover your level(or your number of hit dice) in hit points(minimum of 1) each long rest. You can double this if you weren't in combat since your previous long rest.
@@ -383,9 +343,11 @@ When taking a long rest, it is difficult to fully recover your stamina, spells, 
 There is a ritual to resurrect a deceased character, most mid-tier divine spellcasters will typically do this for a price or favor. This ritual also follows the magic spell rules for resurrecting a character.
 
 Ritual requirements:
-  * a 1,000gp gemstone
-  * a significant magic item of permanence
-  * a majority of the deceased's body
+
+* a divine spellcaster
+* a 1,000gp gemstone
+* a significant magic item of permanence
+* a majority of the deceased's body
 
 ## Combat
 
@@ -396,11 +358,12 @@ The atmosphere I try to convey during combat is that combat is chaotic and messy
 -Dwight D. Eisenhower
 
 I have some guiding principles I think everyone should keep in mind during combat to keep things moving smoothly.
-  * At the top of initiative order, I typically allow some time for you to strategize/plan this round together. Use this time, as a group, to determine what your goal is, look up spell options, ask clarifying questions, and be ready for your turn.
-  * Do not tell other players what to do during combat. Strategizing or answering a question is fine, backseat gaming is not.
-  * Stay invested, and pay attention when it’s not your turn.
-  * If you’re unsure about something, ask!
-  * Running away is an underused strategy!
+
+* At the top of initiative order, I typically allow some time for you to strategize/plan this round together. Use this time, as a group, to determine what your goal is, look up spell options, ask clarifying questions, and be ready for your turn.
+* Do not tell other players what to do during combat. Strategizing or answering a question is fine, backseat gaming is not.
+* Stay invested, and pay attention when it’s not your turn.
+* If you’re unsure about something, ask!
+* Running away is an underused strategy!
 
 ### Grid Combat, or Lack Thereof
 When using theatre of the mind, the downside typically is that you as a player will feel like your character would have more knowledge in this situation than you do outside the game. Using a battle map or grid helps to give a visual aid in conveying this information, which is good but still not perfect. There will always be parts of the environment that don’t get drawn, aren’t understood properly, or honestly forgotten by the players or the DM. I typically enjoy running combat in theatre of the mind when possible. Choosing when to use one or the other can be hard to gauge, but simple terrain, low opponent count, or familiar enemies make it easier.
@@ -420,7 +383,7 @@ These extra options apply to NPCs and PCs equally. Remember, there is no set lis
 When attempting to grapple a creature, size can play an important roll. An elf will have a harder time trying to grapple a large ogre compared to a halfing, but a tiny rabbit can also deftly dodge a human trying to grab it.
 
 | Size Comparison | Skill Check |
-|:--- |:---: |
+|:---|:---:|
 | More than one size larger | - |
 | One size larger | Disadvantage |
 | Same size | Regular |
@@ -452,8 +415,9 @@ When a grenade-type weapon is used the attack is made against the square the tar
 
 ### Critical Hits
 When rolling for an attack and you land a critical hit, you get to choose:
-  * Apply critical damage RAW(double damage dice)
-  * Apply normal damage AND roll 2d10 for a critical effect detailed below
+
+* Apply critical damage RAW(double damage dice)
+* Apply normal damage AND roll 2d10 for a critical effect detailed below
 
 | 2d10&nbsp; | Effect |
 |:--- |:--- |
@@ -477,7 +441,7 @@ When rolling for an attack and you roll a natural 1, roll a Death Save.  On a re
 | 1 | Weapon Breaks; sword snaps, spear splinters, bow body breaks, etc. <br/>--Magic weapons are allowed a DC 10 death save with its magic bonus<br/>--If natural weapon, deal [level/2]d6 damage to self and cannot use this weapon until the next short/long rest<br/>--If spell attack, component pouch spills out below where you stand, unable to cast spells requiring material components. Can gather within combat but requires 1d4 actions. Same penalty for spellcasting focus, it needs to be “reignited”. |
 | 2 | Hit Ally; random ally within range in 90 degree arc is hit for half normal damage, normal miss if none available |
 | 3 | Sprained Wrist; you are at disadvantage for all attacks involving your main hand until the next short/long rest – this does affects somatic spells |
-| 4 | Weapon Temporarily Unusable; bowstring breaks, crossbow jams, wraps loosen on spear/sword, etc. Can fix within combat but requires 1d4 actions.<br/>--If natural weapon or spell attack, use “Sprained Ankle” |
+| 4 | Weapon Temporarily Unusable; bowstring breaks, crossbow jams, wraps loosen on spear/sword, etc. Can fix within combat but requires an action to do so.<br/>--If natural weapon or spell attack, use “Sprained Ankle” |
 | 5 | Sprained Ankle; You are at 1/2 movement speed until your next short/long rest |
 | 6 | Loose Weapon; weapon flies 2d8 feet in a random direction, this also applies to component pouch or spellcasting focus.<br/>--If natural weapon, use "Out of Position” |
 | 7 | Out of Position; you are at disadvantage for all attacks until the end of your next turn |
@@ -494,16 +458,18 @@ In addition to DMing standard Dungeons and Dragons campaigns, I've also been run
 When the DM's HP runs out they lose the will to run the game! Good players don't let that happen.
 
 Some examples of things that can cause a DM to take damage:
-  * Checking your phone
-  * Meta-gaming
-  * Being late
-  * Leaving the table other than during a break
+
+* Checking your phone
+* Meta-gaming
+* Being late
+* Leaving the table other than during a break
 
 Some examples of things that can help restore their HP:
-  * Inspired play
-  * Kindness
-  * Pizza & cookies
-  * Talking with them about the game
+
+* Inspired play
+* Kindness
+* Pizza & cookies
+* Talking with them about the game
 
 ## Suggested Player Resources
 I use a lot of these resources when DMing, playing, and even writing this document. Hopefully you find some of these useful.

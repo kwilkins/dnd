@@ -1,0 +1,29 @@
+site_name: kwilkins D&D
+site_url: http://kwilkins.com/
+site_description: Reference documentation for D&D games I run
+site_author: kwilkins
+
+repo_url: https://github.com/kwilkins/dnd
+edit_uri: ""
+
+theme:
+  name: mkdocs
+  custom_dir: 'kwilkins-mkdocs-theme/'
+
+nav:
+  - Fifth Edition:
+    - Reference Doc: 5e-reference-doc.md
+    - Skill Challenges: skill-challenges.md
+    - Basic Classes: 5e-classes.html
+    - Unearthed Arcana: 5e-unearthed-arcana.md
+  - West Marches:
+    - Reference Doc: west-marches/west-marches-reference-doc.md
+    - Downtime Actions: west-marches/down-time-actions.md
+    - Endgame: west-marches/endgame.md
+
+plugins:
+    - search
+
+markdown_extensions:
+    - toc:
+        baselevel: 1

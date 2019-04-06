@@ -1,0 +1,18 @@
+{# This macro iterates deeper into the table of contents until the limit is reached #}
+{% macro buildTOCItem(toc_item, toc_limit) %}
+    <li class="main {% if toc_item.active %}active{% endif %}"><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+    {% if toc_limit > 0 %}
+        {% for toc_child in toc_item.children %}
+            {{ buildTOCItem(toc_child, toc_limit-1) }}
+        {% endfor %}
+    {% endif %}
+{% endmacro %}
+
+{# Renders a TOC with a depth based on the page's meta tocLimit value, defaults to 1 #}
+<div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    {% for toc_item in page.toc %}
+        {{ buildTOCItem(toc_item, page.meta.tocLimit|default(1)) }}
+    {% endfor %}
+    </ul>
+</div>

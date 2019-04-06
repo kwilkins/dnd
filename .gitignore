@@ -1,0 +1,4 @@
+# sphinx dirs and files
+_build/
+_static/
+_templates/
