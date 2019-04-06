@@ -15,6 +15,7 @@ In order to attempt a check for the challenge, you must:
 Different types of skills will each have their own DC for a success. Gaining favor with the local Queen might be *easy* through flattering her with persuasion but *hard* trying to bully her with intimidation. No matter what skill is being attempted, narrate or explain to the group how your character is using this skill to help in the challenege. Being clever in how you use a particular skill might give you a bonus!
 
 Basic DC Table from DMG(p. 238)
+
 | Task | DC |
 |:-----|:--:|
 | Very Easy | 5 |
