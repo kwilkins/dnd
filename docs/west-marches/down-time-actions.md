@@ -176,10 +176,11 @@ Downtime options:
     * Will not reveal curses.
 * Can strip magic essence out of an object, which destroys the object.(level 2)
     * Cursed items will behave...unpredictably.
+* Will sell a spell scroll up to level 2.(level 3)
 
 Improve this feature to level 4 to gain the following options:
 
-* Increase spell scroll level to 3.
+* Increase spell scroll level to 3
 * Add space for more inventory in his shop.
  
 ## Blacksmith (level 3)

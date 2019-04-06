@@ -21,6 +21,7 @@ In a West Marches style game, there is no set player roster, making it a perfect
 Your character is first and foremost an adventurer, for one reason or another. On your search for the non-mundane you have come to The West Marches, leaving the safeties of *The Kingdoms* behind. 
 
 ### Play Session Rules
+
 * Players can schedule, suggest or join sessions on an at-will basis. There is no assumed set party; players can adventure in many different groups and characters may group with other characters of *any* level.
 * A newly created character must start at level 1. Each character keeps whatever gold, equipment, and XP they have earned for the next time they play.
 * Each session the party will leave town, jaunt across the wilderness, discover something new, and return home. While these are self contained one-shots, the shared world persists beyond each session. If one party makes a change or effects something, a later party can see the consequences of that action.
@@ -29,12 +30,13 @@ Your character is first and foremost an adventurer, for one reason or another. O
 
 ### Time
 Each 24 hour day is divided into 6 time periods, or "watches", each 4 hours long.
-  * Nil (2:00-6:00)
-	* Unus (6:00-10:00)
-	* Duo (10:00-14:00)
-	* Tres (14:00-18:00)
-	* Quat (18:00-22:00)
-  * Quin (22:00-2:00)
+
+* Nil (2:00-6:00)
+* Unus (6:00-10:00)
+* Duo (10:00-14:00)
+* Tres (14:00-18:00)
+* Quat (18:00-22:00)
+* Quin (22:00-2:00)
 
 These watches are rougly spent with the party sleeping for two to three and awake/adventuring for three to four.
 
@@ -69,13 +71,10 @@ Sometimes the party might want to actively seek out a location or creature that 
 
 * Visible Locations
   * Some locations are visible from a great distance; cities, large structures, or mountains. Characters within the same hex as the visible location can automatically find a visible location.
-
 * On the Road
   * If a location right off of a road, river, or trail, then a character following the road, river, or trail will automatically find the location(assuming it isn’t hidden).
-
 * Familiar Locations
   * Characters within the same hex as a familiar location can be assumed to automatically find the location.
-
 * Unfamiliar Locations
   * Unfamiliar locations are found using encounter checks. Characters spending time to specifically search a particular area enter exploration mode. They make no progress towards exiting their current hex, but the DM continues making the necessary encounter checks (to represent the result of their search).  If the party is looking for something specific that they suspect might be in the area, the DM may allow another check each watch for that location and only that location(any other encounter for this check is ignored).
 
@@ -89,6 +88,7 @@ The standard ways of earning XP are defeating enemies in combat, exploring the w
 Why are you adventuring? Choose a motivation, or tell the GM your own. At the end of each session, if you did something clearly in support of your motivation, tell the party. If most of them agree, you gain a 10% xp boost.
 
 Some motivation ideas
+
 * Personal glory
 * Protecting the weak
 * Accruing riches
@@ -105,11 +105,11 @@ Personal quests are quests a character is found by, invents, or chooses to under
 ## 5e Rules in West Marches
 While I do run my West Marches games using the 5e ruleset, not all of the different rules I like to play with are appropriate for the this type of game. The West Marches runs in a very tight time window, is usually more combat involved than roleplay, and leans more to the RAW interpretation of 5e.
 
-  * Aarakocra is a suitable choice for a character's race.
-  * The Blood Hunter is a suitable choice for a character's class.
-  * Healing rules for regaining hit points and hit dice will follow the standard 5e system(RAW). Please note that my [rules for resting in armor](../5e-reference-doc.md#resting-in-armor) still apply while resting.
-  * Movement and determining distance while on a grid will follow the standard 5e system(RAW).
-  * No multiclassing allowed.
+* Aarakocra is a suitable choice for a character's race.
+* The Blood Hunter is a suitable choice for a character's class.
+* Healing rules for regaining hit points and hit dice will follow the standard 5e system(RAW). Please note that my [rules for resting in armor](../5e-reference-doc.md#resting-in-armor) still apply while resting.
+* Movement and determining distance while on a grid will follow the standard 5e system(RAW).
+* No multiclassing allowed.
 
 ## The Inspiration
 I fell in love with this game type while watching Rollplay's West Marches series, so I draw heavy heavy inspiration from it. The cast was a revolving set of personalities that always brough new and radically different adventures to the table. Steven Lumpkin, the Game Master behind the idea, was always pushing the characters into the new, the strange and the weird. Even better, Steven shared a lot of the resources he used to build his world and influence the rules, which in turn has done the same to my own. So now you know who to blame when you contract Necrotic Leprosy or have to strike a bargin with the Wounded Wretch.
