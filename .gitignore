@@ -1,4 +1,4 @@
-# sphinx dirs and files
+# mkdocs dirs and files
 _build/
 _static/
 _templates/

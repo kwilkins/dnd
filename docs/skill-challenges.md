@@ -6,7 +6,12 @@ How to run the party escaping from a dangerous collapsing dungeon
 Skill challenges were a really cool feature introduced with D&D 4e allowing for a streamlined mechanic to play out complex situations more easily. However, they were also really badly explained and were given bad offical DCs(they eventually got them right two errata later). Gaining favor with the Queen over dinner, a chase across city rooftops, or attempting to disrupt a summoning ritual are all things that can easily happen in a game of D&D, but rarely can you resolve these things with a single character's skill check or straight forward grid combat. 
 
 ## Successes and Failures
-The skill challenge involves the entire party making relevant skill checks to each contribute towards the overall goal. You cannot use a skill that another party member has already made a check for. Each skill check results in a success or fail. The goal is to reach a certain number of successes(depending on the difficulty) before reaching three failures.
+The skill challenge involves the entire party making relevant skill checks to each contribute towards the overall goal. Each skill check results in a success or fail. The goal is to reach a certain number of successes(depending on the difficulty) before reaching three failures.
+
+In order to attempt a check for the challenge, you must:
+
+* be proficient in that skill
+* not have used that skill for this challenge already
 
 Different types of skills will each have their own DC for a success. Gaining favor with the local Queen might be *easy* through flattering her with persuasion but *hard* trying to bully her with intimidation. No matter what skill is being attempted, narrate or explain to the group how your character is using this skill to help in the challenege. Being clever in how you use a particular skill might give you a bonus!
 

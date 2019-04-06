@@ -1,4 +1,4 @@
-5e Reference Document
+5e House Rules Document
 ======
 Personal D&D nerfs, buffs, options, and philosophy
 

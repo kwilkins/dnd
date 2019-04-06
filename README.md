@@ -1,6 +1,6 @@
 ## /docs
 kwilkins D&D homebrew rules, documentation, etc.
-You can find the compiled documents at https://kwilkinsdnd.readthedocs.io.
+You can find the compiled documents at <a target="_blank" href='https://kwilkinsdnd.readthedocs.io'>https://kwilkinsdnd.readthedocs.io</a>.
 
 ## /kwilkins-mkdocs-theme
 A custom mkdocs theme based on the default one.
