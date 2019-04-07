@@ -12,18 +12,17 @@ theme:
 
 nav:
   - Fifth Edition:
-    - Reference Doc: 5e-reference-doc.md
+    - House Rules: 5e-reference-doc.md
     - Skill Challenges: skill-challenges.md
-    - Basic Classes: 5e-classes.html
     - Unearthed Arcana: 5e-unearthed-arcana.md
   - West Marches:
-    - Reference Doc: west-marches/west-marches-reference-doc.md
+    - Reference: west-marches/west-marches-reference-doc.md
     - Downtime Actions: west-marches/down-time-actions.md
     - Endgame: west-marches/endgame.md
 
 plugins:
-    - search
+  - search:
 
 markdown_extensions:
-    - toc:
-        baselevel: 1
+  - toc:
+      baselevel: 1

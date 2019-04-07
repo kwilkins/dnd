@@ -2,11 +2,11 @@
 tocLimit: 2
 ---
 
-kwilkins West Marches Reference Document
+West Marches House Rules
 ======
-Rules for exploring the wilds
+Rules for exploring the West Marches
 
-## The West Marches
+## What is the West Marches?
 
 > The West Marches is a custom built "hexcrawl"/sandbox campaign setting, and it is also a style of game. Beyond the edges of human society, the wild weaves a siren song few can hear over the drudgery of daily life. The land outside of civilization is teeming with the other- fantastic beasts, foul creatures, bloodthirsty fey and fell dragons. Ancient ruins litter the landscape, offering treasures undreamed of and terrors to frighten babes at bedtime.  
 > Where will the players go? What rumors will they pursue? The townsfolk and outriders will gladly keep them informed of local happenings, but the choice is in the players' hands. They can strike out for a known landmark, search out the seasonal trappers' camp, or simply explore, allowing adventure to find them instead.  
@@ -16,7 +16,7 @@ Rules for exploring the wilds
 
 In a West Marches style game, there is no set player roster, making it a perfect kind of game to run as a series of one-shots but within a persistent and shared world with many different players and characters.
 
-## West Marches Specific Rules
+## Rules
 
 Your character is first and foremost an adventurer, for one reason or another. On your search for the non-mundane you have come to The West Marches, leaving the safeties of *The Kingdoms* behind. 
 
