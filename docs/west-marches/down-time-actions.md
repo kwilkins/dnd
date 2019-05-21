@@ -132,7 +132,7 @@ Features:
 * Secure storage, store gold or items in the guild hall vaults to leave behind while you adventure.(level 2)
     * If your character dies, their stored gold and items are sold for central fund.
 * Hirelings are fledgling adventurers you can bring along on your adventure. You can get one to follow you as long as you are a higher level than they.(level 3)
-    * Sam Elliot - support, healer, cowboy
+    * *available*
     * *available*
     * *available*
 
