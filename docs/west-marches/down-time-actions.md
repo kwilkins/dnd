@@ -33,7 +33,7 @@ Improve this feature to level 2 to gain the following options:
 ## Garrison (level 1)
 Engage in fitness training at Padfoot's Landin's garrison with members of the guard.
 
-Proprietor: Captain Amy Starc(Human Fighter)  
+Proprietor: ~~Captain Amy Starc(Human Fighter)~~  
 
 Downtime options:
 
