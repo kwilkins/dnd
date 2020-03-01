@@ -30,16 +30,20 @@ Improve this feature to level 2 to gain the following options:
 
 * Increase rarity limit to rare.
 
-## Garrison (level 1)
+## Garrison (level 2)
 Engage in fitness training at Padfoot's Landin's garrison with members of the guard.
 
-Proprietor: ~~Captain Amy Starc(Human Fighter)~~  
+Proprietor: ~~Captain Amy Starc(Human Fighter)~~ Yuri Fieryflayer
 
 Downtime options:
 
 * Roll a Strength, Dexterity, or Charisma check to gain some information from the town guards(level 0)
-* Spend 25gp to gain a fitness bonus(1d4). You can use this bonus at any time on a Strength, Dexterity or Constitution skill check or saving throw *before* you make the roll.(level 1)
+* Spend 25gp to gain a fitness bonus(2d4). You can use this bonus at any time on a Strength, Dexterity or Constitution skill check or saving throw *before* you make the roll.(level 1)
     * Can have multiple, but cannot use multiple uses on a single roll.
+* Designate a *secured* point of interest to be held by an available force of soldiers.(level 2)
+    * Soldier Forces
+       * *One force of medium prowess*
+    * This action can only be used once per downtime phase.
 
 Improve this feature to level 2 to gain the following options:
 
@@ -50,9 +54,8 @@ Improve this feature to level 2 to gain the following options:
 
 OR
 
-* Add another d4 to fitness bonus option
-* Ability to hire soldiers/mercenaries to hold *secured* points of interest.
-* Comes with one force of medium prowess the party can station up until a predetermined trigger. Continue to upgrade for more forces.
+* Add another d4 to study die option
+* Hire more soldiers for the garrison to either add another force to station or increase the prowess of an existing one.
 
 ## Library (level 2)
 Spend your time in study at the Town Library.
