@@ -45,7 +45,7 @@ Downtime options:
        * *One force of medium prowess*
     * This action can only be used once per downtime phase.
 
-Improve this feature to level 2 to gain the following options:
+Improve this feature to level 3 to gain the following options:
 
 * Auto succeed on your info roll for common information that the guards would know
 * Add another d4 to fitness bonus option
