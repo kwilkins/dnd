@@ -81,7 +81,7 @@ OR
 * Add another scholar quorum; +1 action use or use multiple quorums together to recieve more information.
 * Add another d4 to study die option
 
-## Temple of Hverra (level 2)
+## Temple of Hverra (level 3)
 Spend your time volunteering at the temple.
 
 Proprietor: Sarah Cope(Human Cleric)
@@ -97,12 +97,13 @@ Downtime options:
 * Take one free Potion of Healing.(level 2)
 * Gain a one-time advantage on any Wisdom, Constitution, or Charisma skill or saving throw.(level 2)
     * Cannot have more than one at a time.
+* Spend 75gp to buy one Potion of Greater Healing(level 2)
 
-Improve this feature to level 3 to gain the following option:
+Improve this feature to level 4 to gain the following option:
 
-* Spend 75gp to buy a Potion of Greater Healing.
+* Take one free Potion of Greater Healing.
 
-## Jager Lodge (level 1)
+## Jager Lodge (level 2)
 Help catalog specimens, organize reports, and research uses for monsters and beasts.
 
 Proprietor: Jager Wynglass(Gnome Hunter)  
@@ -116,10 +117,11 @@ Downtime options:
 
 * Offer hunting related quests for rewards.(level 0)
 * Offer knowledge about monster locations.(level 1)
+* Ability to distill intrinsic monster abilities/features into temporary effects.(level 2)
 
-Improve this feature to level 2 to gain the following option:
+Improve this feature to level 3 to gain the following option:
 
-* Ability to distill intrinsic monster abilities/features into temporary effects.
+* Purchase weapons of monster slaying provided knowledge check or ingredients.
 
 ## Guild Hall (level 3)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.
