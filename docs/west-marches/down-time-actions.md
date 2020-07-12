@@ -139,7 +139,7 @@ Features:
 * Hirelings are fledgling adventurers you can bring along on your adventure. You can get one to follow you as long as you are a higher level than they.(level 3)
     * Cash - scarred, scruffy, cutpurse
     * Einstein - small, bearded, loremaster
-    * *available*
+    * Spritz - dragqueen, beehive hair, mystic
 
 Downtime options:
 
@@ -148,7 +148,6 @@ Downtime options:
 Improve this feature to level 4 to gain the following feature:
 
 * Increase the number of hireling slots by 3
-* Increase the loyalty die to a d12
 
 ## Monument of Heroes (level 2)
 A statue of Muriel in a heroic pose
