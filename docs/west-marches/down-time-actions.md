@@ -8,16 +8,16 @@ Pick one of the choices below or tell the DM what you want to do/accomplish duri
 ## Hard Work
 Spend your action doing a little extra hard work. Tell the other players what you did for work, and gain [level]d8 gp.
 
-## Garage (level 1)
+## Garage (level 2)
 Spend your action crafting an item using your knowledge, materials(gp) and a little elbow grease.
 
 Proprietor: Optimal(Tiefling Engineer)  
 
 Downtime options:
 
-* Craft an item of uncommon rarity or lower. Discuss with DM for cost.(level 1)
+* Craft an item of *rare* rarity or lower, discuss with DM for cost in gp.(level 2)
     * If you are not proficient with a related toolset, roll to see how succesful you are.
-    * Special items might require an exotic ingredient.
+    * Some types of items might require an exotic ingredient.
 
 | Rarity    | DC | Minimum Level |
 | --------- |:--:|:---:|
@@ -26,12 +26,12 @@ Downtime options:
 | Rare      | 15 | 6th |
 | Very Rare | 20 | 9th |
 
-Improve this feature to level 2 to gain the following options:
+Improve this feature to level 3 to gain the following options:
 
-* Increase rarity limit to rare.
+* Increase rarity limit to Very Rare.
 
 ## Garrison (level 2)
-Engage in fitness training at Padfoot's Landin's garrison with members of the guard.
+Engage in fitness training at Padfoot's Landing's garrison with members of the guard.
 
 Proprietor: ~~Captain Amy Starc(Human Fighter)~~ Yuri Fieryflayer
 
@@ -54,8 +54,8 @@ Improve this feature to level 3 to gain the following options:
 
 OR
 
-* Add another d4 to study die option
-* Hire more soldiers for the garrison to either add another force to station or increase the prowess of an existing one.
+* Add another d4 to fitness bonus option
+* Hire more soldiers for the garrison, addding another force to station or increase the prowess of an existing one.
 
 ## Library (level 2)
 Spend your time in study at the Town Library.
@@ -79,7 +79,7 @@ Improve this feature to level 3 to gain the following options:
 OR
 
 * Add another scholar quorum; +1 action use or use multiple quorums together to recieve more information.
-* Add another d4 to study die option
+* Add another d4 to study bonus option
 
 ## Temple of Hverra (level 3)
 Spend your time volunteering at the temple.
