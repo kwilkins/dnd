@@ -103,7 +103,7 @@ Improve this feature to level 4 to gain the following option:
 
 * Take one free Potion of Greater Healing.
 
-## Jager Lodge (level 2)
+## Jager Lodge (level 3)
 Help catalog specimens, organize reports, and research uses for monsters and beasts.
 
 Proprietor: Jager Wynglass(Gnome Hunter)  
@@ -118,10 +118,11 @@ Downtime options:
 * Offer hunting related quests for rewards.(level 0)
 * Offer knowledge about monster locations.(level 1)
 * Ability to distill intrinsic monster abilities/features into temporary effects.(level 2)
+* Purchase weapons of monster slaying provided knowledge check or ingredients.(level 3)
 
-Improve this feature to level 3 to gain the following option:
+Improve this feature to level 4 to gain the following option:
 
-* Purchase weapons of monster slaying provided knowledge check or ingredients.
+* Send a hunting party out to gather needed resources or ingredients.
 
 ## Guild Hall (level 3)
 Attached to Munder's Tavern, this is the centralized outpost for adventurers to live, mingle, and group up.

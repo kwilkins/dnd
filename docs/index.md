@@ -27,7 +27,6 @@ Everybody has their own opinion on the many different editions and variants of D
 That said, even the lead designer behind 5e wishes they had done some things differently – like removing the bonus action. Another great thing about 5e is that it was also written with the idea in mind for variant rules and system modifications, which is great because the mechanics are easy to change when something doesn’t quite work like I’d like. So, in these two areas I really enjoy 5e as a system because it easily allows a group of players to play the game the way they want.
 
 * [House Rules Reference Document](5e-reference-doc.md)
-* [Skill Challenges](skill-challenges.md)
 * [Unearthed Arcana](5e-unearthed-arcana.md)
 
 ## West Marches
