@@ -5,9 +5,9 @@ Jumpstarting character creation to play ASAP
 ## Hi there 👋
 If you're reading this then you're probably getting ready to play at oneshot Dungeons and Dragons adventure! It's going to be tons of fun and YOU playing YOUR character will help everyone have a great time. We're going to use pregenerated characters that you can choose from to help decide the mechanical parts of your character. We do this for a few reasons:
 
-1) It *greatly* reduces the amount of time spent on character creation, which gives us more time to play! It can be a pretty big buzz kill when we've just reached the climax of a oneshot adventure and we have to end it early due to time restraints (or it's bedtime).
-2) It helps to keep all the player characters on the same relative power level. Some character combinations can outshine what other characters are generally good at, which can impact that player's fun.
-3) It helps the Dungeon Master keep track of what everyone can do. Especially in larger adventure parties, which are fun to have in a onshot adventure, it can be difficult to keep the adventure rolling smoothly at a suitable challenge for the player characters.
+1. It *greatly* reduces the amount of time spent on character creation, which gives us more time to play! It can be a pretty big buzz kill when we've just reached the climax of a oneshot adventure and we have to end it early due to time restraints (or it's bedtime).
+2. It helps to keep all the player characters on the same relative power level. Some character combinations can outshine what other characters are generally good at, which can impact that player's fun.
+3. It helps the Dungeon Master keep track of what everyone can do. Especially in larger adventure parties, which are fun to have in a onshot adventure, it can be difficult to keep the adventure rolling smoothly at a suitable challenge for the player characters.
 
 
 Don't worry if you don't know the rules front to back, always feel free to ask "how can I do this thing" during play and we'll figure out how it works together. 
