@@ -1,7 +1,6 @@
 # dnd
   * 5e
-    * [Ancestry Descriptions](5e-ancestries.html)
-    * [Class Descriptions](5e-classes.html)
+    * [Beginner Character Creation](5e-basic-character-creation.md)
     * [Homebrew Reference Document](5e-reference-doc.md)
     * [Unearthed Arcana](5e-unearthed-arcana.md)
     * West Marches
