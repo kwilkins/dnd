@@ -38,6 +38,6 @@ The below options are listed in the format of "Dwarf(ancestry) Cleric(class)". C
   - Human Barbarian
   - Human Fighter
 
-[You can read more about what different classes are capable of and what their strengths are](./character-options/5e-classes.html).
-
-[You can read more about what the different ancestry options entail and their bonuses are](./character-options/5e-ancestries.html).
+If you want a quick primer on what the different choice options entail, you can click below.
+- [Classes](./character-options/5e-classes.html)
+- [Ancestries](./character-options/5e-ancestries.html)
