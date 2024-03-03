@@ -84,6 +84,11 @@ All this is to say that there will be times when we follow the rules as written,
 
 ## Character Customization
 ### Playable Ancestries(Races)
+Ancestry/race can be a sticky subject in D&D. I think the best way to read the following choices are "typical dwarves have and behave like the following". They are intended to give you a broad idea of choice without stereotyping or to pigeonhole creative ideas.
+
+Some things can be changed depending on your desired upbringing. An elf that was raised by dwarves might speak dwarven or have different skills than others. But a human living with dragonborn wouldn't have the ability to breathe fire. The attribute bonuses (+2 to Strength, +1 to Charisma, etc) are again suggestions based on the typical member of an ancestry.
+
+#### Allowed Ancestry Options
 All of the options from the Player’s Handbook and Dungeon's Master Guide.
 
 * When choosing human, I use different traits than what is in the PHB.
