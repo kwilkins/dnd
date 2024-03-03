@@ -3,7 +3,7 @@
 How to start thinking, planning, and building a character for someone newish to 5e Dungeons & Dragons
 
 ## Ideas to life
-If you already have an idea for your character, awesome! D&D is usually flexiable enough to accomodate most "generic fantasyland" ideas. Fantasy stereotypes and tropes are popular for a reason. The quiet dark armor clad ranger, the meathead fighter, the light on their feet archer, and the old man wizard, these all invoke great imagery and personas in our minds and it can be fun to step into their shoes for a bit. Whether your idea is from a movie, book, or your own creation, you get to make it your own. The different options allow you to customize your character from how they grew up, what they did did before the adventure, and what role you might play in your adventure party.
+If you already have an idea for your character, awesome! D&D is usually flexiable enough to accomodate most "generic fantasyland" ideas. Fantasy archetypes and tropes are popular for a reason. The quiet dark armor clad ranger, the meathead fighter, the light on their feet archer, and the old man wizard, these all invoke great imagery and personas in our minds and it can be fun to step into their shoes for a bit. Whether your idea is from a movie, book, or your own creation, you get to make it your own. The different options allow you to customize your character from how they grew up, what they did did before the adventure, and what role you might play in your adventure party.
 
 And if you don't have any idea for your character, awesome! Sometimes the fun is finding out who they become as you play the game. Some players enjoy picking everything at random before and they have a blast.
 
