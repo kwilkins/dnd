@@ -9,13 +9,12 @@ If you're reading this then you're probably getting ready to play at oneshot Dun
 2. It helps to keep all the player characters on the same relative power level. Some character combinations can outshine what other characters are generally good at, which can impact that player's fun.
 3. It helps the Dungeon Master keep track of what everyone can do. Especially in larger adventure parties, which are fun to have in a onshot adventure, it can be difficult to keep the adventure rolling smoothly at a suitable challenge for the player characters.
 
-
 Don't worry if you don't know the rules front to back, always feel free to ask "how can I do this thing" during play and we'll figure out how it works together. 
-Don't worry if you don't have a voice or accent to deploy when talking like your character, acting isn't a requirement for the game and it's more important to understand how your character would behave rather than how they talk. But obviously feel free to use one if that that makes it more fun!
+Don't worry if you don't have a voice or accent to deploy when talking like your character, acting isn't a requirement for the game and it's more important to understand how your character would behave rather than how they might talk. But obviously feel free to use one if that that makes it more fun!
 Don't worry if your idea for the *perfect* character concept doesn't match up with any of the pregenerated options, a oneshot is a quick and easy way to start playing. We probably won't have enough time delve into any character's tragic backstories.
 
 ## Pregenerated character options
-The below options are listed in the format of "Dwarf(ancestry) Cleric(class)". Class and ancestry are the two biggest choices when creating a character.
+The below options are listed in the format of "Dwarf(ancestry) Cleric(class)".
 
 - Healer Class - healing and shielding
   - Dwarf Cleric
@@ -38,6 +37,6 @@ The below options are listed in the format of "Dwarf(ancestry) Cleric(class)". C
   - Human Barbarian
   - Human Fighter
 
-If you want a quick primer on what the different choice options entail, you can click below.
+If you want a quick primer on what the different options entail, you can click the links below.
 - [Classes](./character-options/5e-classes.html)
 - [Ancestries](./character-options/5e-ancestries.html)
